@@ -105,7 +105,11 @@ YYYY/YYYY-MM-DD/
 
 ## 5. editor 流程（逐步执行）
 
-首次：`GIT_LFS_SKIP_SMUDGE=1 git clone --filter=blob:none --sparse https://github.com/chchenghuiguo-alt/video-daily.git`
+首次（第二条命令必需，否则 scripts/ 不会被检出）：
+```
+GIT_LFS_SKIP_SMUDGE=1 git clone --filter=blob:none --sparse https://github.com/chchenghuiguo-alt/video-daily.git
+cd video-daily && git sparse-checkout set --no-cone /README.md /AGENTS.md /CLAUDE.md /.gitattributes /scripts/ /schema/
+```
 
 1. 在仓库目录运行 `bash scripts/pull-day.sh YYYY-MM-DD`（Windows：`powershell -ExecutionPolicy Bypass -File scripts\pull-day.ps1 -Date YYYY-MM-DD`）。
    退出码：0 就绪；3 当天无素材；4 状态不是 ready（稍后重试，MUST NOT 开始剪辑）；5/6 git 或校验失败。

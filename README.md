@@ -48,6 +48,7 @@ video-daily/
 ```bash
 GIT_LFS_SKIP_SMUDGE=1 git clone --filter=blob:none --sparse https://github.com/chchenghuiguo-alt/video-daily.git
 cd video-daily
+git sparse-checkout set --no-cone /README.md /AGENTS.md /CLAUDE.md /.gitattributes /scripts/ /schema/
 ```
 
 Windows PowerShell：
@@ -55,6 +56,7 @@ Windows PowerShell：
 ```powershell
 $env:GIT_LFS_SKIP_SMUDGE=1; git clone --filter=blob:none --sparse https://github.com/chchenghuiguo-alt/video-daily.git; Remove-Item Env:GIT_LFS_SKIP_SMUDGE
 cd video-daily
+git sparse-checkout set --no-cone /README.md /AGENTS.md /CLAUDE.md /.gitattributes /scripts/ /schema/
 ```
 
 每天拉取当天素材（默认今天，新加坡时间）：
