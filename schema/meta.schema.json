@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "video-daily item meta.json",
+  "type": "object",
+  "required": ["schema_version", "id", "title", "source_url", "collected_at", "media"],
+  "properties": {
+    "schema_version": {"type": "integer", "const": 1},
+    "id": {"type": "string", "pattern": "^[0-9]{3}$", "description": "当天收集编号"},
+    "title": {"type": "string"},
+    "source": {"type": "string", "description": "来源账号/媒体"},
+    "source_url": {"type": "string", "format": "uri"},
+    "published_at": {"type": ["string", "null"], "format": "date-time"},
+    "collected_at": {"type": "string", "format": "date-time"},
+    "credit": {"type": "string", "description": "画面中需要标注的署名"},
+    "license_note": {"type": "string", "description": "版权/搬运风险说明"},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["file", "type"],
+        "properties": {
+          "file": {"type": "string", "description": "相对条目目录，如 videos/01.mp4"},
+          "type": {"enum": ["image", "video", "audio"]},
+          "w": {"type": "integer"},
+          "h": {"type": "integer"},
+          "duration": {"type": ["number", "null"], "description": "秒"},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "orig_name": {"type": "string"}
+        }
+      }
+    }
+  }
+}
