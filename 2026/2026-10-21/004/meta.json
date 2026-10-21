@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-10-21",
+  "title": "Asimov 1 开源人形机器人：在自家工作台上就能组装",
+  "summary": "Asimov 发布宣传视频称，现在可以在自己的工作台上组装一台人形机器人。该公司在同日其他帖子中称 Asimov 1 是开源的“G1 级”人形机器人，公开了物料清单、机械 CAD、电路图和 PCB、装配手册、Python SDK 等。",
+  "category": "开源硬件",
+  "company": "Asimov",
+  "source": "X：@asimovinc（Asimov（官方））",
+  "source_url": "https://x.com/asimovinc/status/2112394708798640446",
+  "published_at": "2026-10-20T12:05:19+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 51,
+    "reposts": 6,
+    "replies": 3,
+    "views": 6239
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“最开放的人形机器人”是公司自己的说法",
+    "价格、实际性能未在帖子中说明",
+    "开源内容清单来自同账号另一条帖子 2112583041029967948"
+  ],
+  "credit": "来源：X @asimovinc",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 60.05,
+      "transcoded": true,
+      "bytes": 10718724,
+      "sha256": "379e1e61014db1db0c3955007e58007fc4b59107d9e9c8ba12cd59126eadff7f",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 145581,
+      "sha256": "53a61af4308bfa6240bcdf3d7e926ca6062faa64b63a4b076723b4e7e7ab251f",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-10-21",
+  "title": "Agility 与农机巨头 AGCO 签约：Digit 人形机器人 2027 年进厂试点",
+  "summary": "Agility Robotics 宣布与 AGCO 签署商业协议，将在 AGCO 位于美国堪萨斯州 Hesston 的工厂试点 Digit 人形机器人，预计 2027 年开始。Digit 初期负责零件分拣、堆放和把料箱放入存储位。Agility 称这是继汽车、物流之后进入农业机械行业。",
+  "category": "商业落地",
+  "company": "Agility Robotics",
+  "source": "X：@agilityrobotics（Agility Robotics（官方））",
+  "source_url": "https://x.com/agilityrobotics/status/2112518192245481689",
+  "published_at": "2026-10-20T20:16:00+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 131,
+    "reposts": 12,
+    "replies": 24,
+    "views": 8738
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "只有 1 张图，无视频",
+    "试点 2027 年才开始，目前只是签约"
+  ],
+  "credit": "来源：X @agilityrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1448,
+      "h": 904,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 78732,
+      "sha256": "7997a34cf5368da2c63471933bdf9b4e3487f6c047c573fb31bb0ba5ac363ca3",
+      "orig_name": "003_1.jpg"
+    }
+  ]
+}

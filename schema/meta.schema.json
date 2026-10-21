@@ -1,32 +1,54 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "video-daily item meta.json",
+  "title": "video-daily item meta.json (schema_version 2)",
   "type": "object",
-  "required": ["schema_version", "id", "title", "source_url", "collected_at", "media"],
+  "additionalProperties": false,
+  "required": ["schema_version", "id", "date", "title", "summary", "source", "source_url", "published_at", "collected_at", "selected", "verify_status", "verification", "media"],
   "properties": {
-    "schema_version": {"type": "integer", "const": 1},
-    "id": {"type": "string", "pattern": "^[0-9]{3}$", "description": "当天收集编号"},
-    "title": {"type": "string"},
-    "source": {"type": "string", "description": "来源账号/媒体"},
+    "schema_version": {"const": 2},
+    "id": {"type": "string", "pattern": "^[0-9]{3}$", "description": "当天收集编号，= 文件夹名"},
+    "date": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "title": {"type": "string", "minLength": 1, "description": "中文标题"},
+    "summary": {"type": "string", "description": "中文摘要，只依据原帖内容"},
+    "category": {"type": "string"},
+    "company": {"type": "string"},
+    "lang": {"type": "string", "description": "原帖语言，如 en / zh"},
+    "source": {"type": "string", "description": "来源账号/媒体，如 X：@agilityrobotics"},
     "source_url": {"type": "string", "format": "uri"},
-    "published_at": {"type": ["string", "null"], "format": "date-time"},
-    "collected_at": {"type": "string", "format": "date-time"},
-    "credit": {"type": "string", "description": "画面中需要标注的署名"},
+    "published_at": {"type": ["string", "null"], "format": "date-time", "description": "原帖时间，带时区偏移"},
+    "collected_at": {"type": "string", "format": "date-time", "pattern": "(Z|[+-][0-9]{2}:[0-9]{2})$"},
+    "engagement": {"type": "object", "additionalProperties": {"type": ["integer", "null"]}},
+    "selected": {"type": ["boolean", "null"], "description": "null = 用户尚未选择"},
+    "verify_status": {"enum": ["unverified", "partly_verified", "verified", "disputed"]},
+    "verification": {"type": "array", "items": {"type": "string"}, "description": "待核实事项"},
+    "credit": {"type": "string", "description": "画面上要标注的署名"},
     "license_note": {"type": "string", "description": "版权/搬运风险说明"},
     "tags": {"type": "array", "items": {"type": "string"}},
+    "suggested_clips": {
+      "type": "array",
+      "items": {"type": "object", "additionalProperties": false, "required": ["file", "in", "out"],
+        "properties": {"file": {"type": "string"}, "in": {"type": "number"}, "out": {"type": "number"}, "note": {"type": "string"}}}
+    },
     "media": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["file", "type"],
+        "additionalProperties": false,
+        "required": ["file", "type", "w", "h", "bytes", "sha256"],
         "properties": {
-          "file": {"type": "string", "description": "相对条目目录，如 videos/01.mp4"},
-          "type": {"enum": ["image", "video", "audio"]},
+          "file": {"type": "string", "pattern": "^(images/[0-9]{2}\\.jpg|videos/[0-9]{2}\\.mp4)$", "description": "相对条目目录"},
+          "type": {"enum": ["image", "video"]},
           "w": {"type": "integer"},
           "h": {"type": "integer"},
-          "duration": {"type": ["number", "null"], "description": "秒"},
+          "duration": {"type": ["number", "null"], "description": "秒，图片为 null"},
+          "fps": {"type": ["number", "null"]},
+          "codec": {"type": "string"},
+          "has_audio": {"type": "boolean"},
+          "transcoded": {"type": "boolean"},
+          "bytes": {"type": "integer"},
           "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
-          "orig_name": {"type": "string"}
+          "orig_name": {"type": "string"},
+          "orig_url": {"type": "string"}
         }
       }
     }

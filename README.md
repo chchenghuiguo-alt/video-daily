@@ -2,6 +2,8 @@
 
 每日机器人热点素材仓库。每天收集、选中的素材（图片、视频、文案）上传到这里，剪辑电脑按日期拉取，**每天剪一条合集视频**。
 
+> 🤖 **AI agent 请先读 [AGENTS.md](AGENTS.md)**（上传方和剪辑方的完整规范、文件格式和步骤）。
+
 > ⚠️ 本仓库是 **公开（public）** 仓库，任何人都能看到和下载其中内容。请不要放入账号、密码、手机号、未授权或不宜公开的素材；素材版权归原作者，来源见各条 `post.md` / `meta.json`。
 
 ## 目录结构
@@ -12,7 +14,10 @@ video-daily/
 ├── .gitattributes          图片/音视频走 Git LFS
 ├── scripts/pull-day.sh     剪辑电脑拉取某天素材（macOS/Linux）
 ├── scripts/pull-day.ps1    同上（Windows）
-├── schema/meta.schema.json meta.json 的字段说明
+├── AGENTS.md / CLAUDE.md   给 AI agent 的规范
+├── scripts/build-day.py    上传方：生成当天文件夹（转码+文案+manifest）
+├── scripts/validate.py     校验当天文件夹（schema + sha256）
+├── schema/                 manifest / meta / publish 三个 JSON Schema
 └── YYYY/
     └── YYYY-MM-DD/
         ├── manifest.json   当天清单（剪辑以此为准）
@@ -26,25 +31,13 @@ video-daily/
 ```
 
 - 文件夹编号是**当天收集清单的编号**，不是期号，可能不连续（如 003、005）。
-- 只上传**被选中**的条目。
+- 用户选好条目时只上传选中的；**用户还没选时上传当天收集的全部条目**，`manifest.json` 里 `selection: "unknown"`、`order: []`、各条 `selected: null`。
 - 视频统一转码为 H.264，长边不超过 1080。
 - **成片 mp4 不放进仓库**；剪辑电脑只回写 `_output/publish.json`（用了哪些条目、发布链接等）。
 
 ### manifest.json
 
-```json
-{
-  "schema_version": 1,
-  "date": "2026-10-21",
-  "episode": 1,
-  "order": ["003", "001", "005"],
-  "status": "pending"
-}
-```
-
-- `episode`：期号，每天一期，按天递增。
-- `order`：合集中的剪辑顺序（收集编号）。
-- `status`：`pending` 上传中 / `ready` 全部上传完成。**只有 `ready` 才可以开始剪辑。**
+字段见 `schema/manifest.schema.json` 和 AGENTS.md §2。要点：`status` 为 `pending`（上传中）/ `ready`（上传完成，**只有 ready 才能剪**）；`ready` 永远是最后一次提交，随后打 tag `dYYYY-MM-DD`。
 
 ## 剪辑电脑使用方法
 
@@ -69,14 +62,15 @@ cd video-daily
 ```bash
 bash scripts/pull-day.sh              # 今天
 bash scripts/pull-day.sh 2026-10-21   # 指定日期
+bash scripts/pull-day.sh 2026-10-21 --allow-pending   # 未就绪也拉
 ```
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File scripts\pull-day.ps1 [-Date 2026-10-21]
 ```
 
-脚本会：`git pull --ff-only` → 稀疏检出只保留 README、scripts 和当天文件夹 → `git lfs pull` 只下载当天的大文件 → 若 `manifest.json` 不是 `ready` 会给出警告。
+脚本会：`git pull --ff-only --tags` → 稀疏检出只保留说明、scripts、schema 和当天文件夹 → 检查 `manifest.json` 是否 `ready`（不是则退出码 4，不下载）→ `git lfs pull` 只下载当天的大文件 → 按 `meta.json` 校验 sha256。
 
 ## 容量说明
 
-GitHub Git LFS 免费额度约 **1 GB 存储**（另有带宽限制），超出需购买数据包；进了历史的文件很难真正删除。每天约几百 MB，必要时**按季度换新仓库**，如 `video-daily-2026Q4`。
+GitHub Git LFS 免费额度约 **1 GB 存储**（另有带宽限制），超出需购买数据包；进了历史的文件很难真正删除。每天约几百 MB，每天目标 ≤150 MB，累计接近 800 MB 时换新仓库（如 `video-daily-2026-11`）。

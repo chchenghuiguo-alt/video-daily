@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "video-daily _output/publish.json (schema_version 1) — 只由剪辑方写",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "date", "episode", "source_ref", "used", "status", "updated_at"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "date": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "episode": {"type": "integer", "minimum": 1},
+    "source_ref": {"type": "string", "description": "剪辑所依据的 tag（dYYYY-MM-DD）或 commit"},
+    "title": {"type": "string", "description": "成片标题"},
+    "used": {"type": "array", "items": {"type": "object", "additionalProperties": false, "required": ["id"],
+      "properties": {"id": {"type": "string", "pattern": "^[0-9]{3}$"}, "files": {"type": "array", "items": {"type": "string"}},
+        "in": {"type": ["number", "null"]}, "out": {"type": ["number", "null"]}}}},
+    "skipped": {"type": "array", "items": {"type": "string", "pattern": "^[0-9]{3}$"}},
+    "duration_sec": {"type": ["number", "null"]},
+    "status": {"enum": ["draft", "edited", "published"]},
+    "platforms": {"type": "array", "items": {"type": "object", "additionalProperties": false, "required": ["name"],
+      "properties": {"name": {"type": "string"}, "url": {"type": ["string", "null"]}, "published_at": {"type": ["string", "null"]}}}},
+    "updated_at": {"type": "string", "format": "date-time"}
+  }
+}

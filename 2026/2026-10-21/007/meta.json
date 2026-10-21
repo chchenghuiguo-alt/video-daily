@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-10-21",
+  "title": "特斯拉 Optimus 万圣节派糖",
+  "summary": "GradientX0 发帖称，在其他万圣节机器人吓人的时候，特斯拉 Optimus 在给人发糖。帖子没有说明时间、地点。",
+  "category": "趣味演示",
+  "company": "Tesla",
+  "source": "X：@GradientX0（GradientX0（个人号））",
+  "source_url": "https://x.com/GradientX0/status/2112597727792058409",
+  "published_at": "2026-10-21T01:32:03+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 16,
+    "reposts": 0,
+    "replies": 3,
+    "views": 374
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "个人号发布，非特斯拉官方，时间地点不明",
+    "Optimus 是否自主、是否遥控未知",
+    "可能是旧视频或活动片段，需核实"
+  ],
+  "credit": "来源：X @GradientX0",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 576,
+      "h": 1024,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 21.13,
+      "transcoded": true,
+      "bytes": 4017298,
+      "sha256": "a03acf25c201a7b97edf81ce84380eb36373565e85bef3a0185634df9f6eef1c",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 576,
+      "h": 1024,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 97036,
+      "sha256": "542ab3cf2fd7e552542cc1f2847ab24864bdd095b1e44ab444e005d176cb430a",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

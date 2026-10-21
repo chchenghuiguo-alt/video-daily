@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-10-21",
+  "title": "Ropedia 开源世界模型 W0：用 1 万小时第一视角人类视频训练",
+  "summary": "据 The Humanoid Hub 介绍，Ropedia 发布开源世界模型 W0，用约 1 万小时第一人称人类视频训练，同一套权重可预测人类、机械臂和人形机器人（宇树 G1、傅利叶 GR-1）的第一视角画面，新增机器人只需提供 URDF。帖子称它在测试的所有基准上领先 Cosmos 3 和 DreamDojo，蒸馏后可达 21.3 FPS。",
+  "category": "世界模型",
+  "company": "Ropedia",
+  "source": "X：@TheHumanoidHub（The Humanoid Hub（聚合号））",
+  "source_url": "https://x.com/TheHumanoidHub/status/2112558935010074763",
+  "published_at": "2026-10-20T22:57:54+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 33,
+    "reposts": 9,
+    "replies": 5,
+    "views": 6356
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "转述自聚合号，非 Ropedia 官方原帖",
+    "“全面领先 Cosmos 3、DreamDojo”为论文方说法，未独立核实"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 29.91,
+      "transcoded": true,
+      "bytes": 4609104,
+      "sha256": "73fd48f780e40306084efd1f3aa1f63c290046f57bd12c48c6fbe6a53c99e4c9",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 25180,
+      "sha256": "34797bcc961e225774265525fe1b0f953544f992689f5a4d64b07d9f99dcf853",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "008",
+  "date": "2026-10-21",
+  "title": "首批 6 项人形机器人国家标准发布，2027 年 4 月 1 日实施",
+  "summary": "帖子称，市场监管总局批准发布首批 6 项人形机器人国家标准，涵盖总则、环境感知、决策规划、运动控制、作业操作和仿真测试平台规范，2027 年 4 月 1 日实施，优必选、北京人形参与牵头起草。同一周 Sam Altman 在采访中表示 OpenAI 会做人形机器人，2027 年会有演示。",
+  "category": "政策",
+  "company": "政策/标准",
+  "source": "X：@Michael_AI_Hu（Michael_AI_Hu（个人评论号））",
+  "source_url": "https://x.com/Michael_AI_Hu/status/2112540642211414311",
+  "published_at": "2026-10-20T21:45:12+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "views": 26
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "个人评论号转述，需对照市场监管总局官方公告",
+    "另有帖子写“明年 4 月 1 日生效”，与本帖 2027-04-01 一致",
+    "只有 1 张图"
+  ],
+  "credit": "来源：X @Michael_AI_Hu",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1600,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 118421,
+      "sha256": "3b214ee2df2e8cb5a3f73ba47a041d3456ef94f8e2a1b3ad5c63da7ca084faae",
+      "orig_name": "008_1.jpg"
+    }
+  ]
+}

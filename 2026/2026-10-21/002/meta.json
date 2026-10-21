@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-10-21",
+  "title": "NVIDIA 开源 Flora：把原始视频变成机器人训练数据的模型套件",
+  "summary": "Jim Fan 发帖介绍 Flora，一套开源权重的模型，用于解析物理世界、把原始视频转成训练信号，可生成带时间戳的描述、密集进度奖励和评分细则。他称 Flora 已支撑团队内部数据引擎，每天用 500 块 GPU 标注 20 万小时视频，性能接近 Astra 但成本低 125 倍。",
+  "category": "开源模型",
+  "company": "NVIDIA",
+  "source": "X：@DrJimFan（Jim Fan（NVIDIA 机器人负责人））",
+  "source_url": "https://x.com/DrJimFan/status/2112597587987689912",
+  "published_at": "2026-10-21T01:31:29+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 1065,
+    "reposts": 118,
+    "replies": 102,
+    "views": 62916
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“Astra 级性能、成本低 125 倍”“每天标注 20 万小时”为发帖方自述"
+  ],
+  "credit": "来源：X @DrJimFan",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 67.24,
+      "transcoded": true,
+      "bytes": 12586831,
+      "sha256": "29d232ea97592b0541227ae38c98841fb5fbf2634491cb91defb0d0e1c7d7624",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 52563,
+      "sha256": "0e27fe7e746fc33b917b0b6d678beec01458ac489cf540e8f3f55754abe5cbb4",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

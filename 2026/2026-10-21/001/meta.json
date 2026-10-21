@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-10-21",
+  "title": "Figure F.03 在跑步机上连续走了 9 天：348 英里、120 万步",
+  "summary": "Figure 创始人 Brett Adcock 发帖称，F.03 人形机器人已在跑步机上连续行走 9 天，累计 348 英里（约 560 公里）、120 万步。他说这原本是一个用来暴露机器人故障的副项目，接下来要看它能走多久。",
+  "category": "耐久测试",
+  "company": "Figure",
+  "source": "X：@adcock_brett（Brett Adcock（Figure 创始人））",
+  "source_url": "https://x.com/adcock_brett/status/2112227583643509174",
+  "published_at": "2026-10-20T01:01:13+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 6991,
+    "reposts": 367,
+    "replies": 459,
+    "views": 452662
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "数据为创始人本人自报，暂无第三方核实",
+    "帖子发布于 10-20 01:01（UTC+8），约 34 小时前，略超 24 小时窗口",
+    "视频 6.5 分钟，看不出中间是否有停机、换电或人工干预"
+  ],
+  "credit": "来源：X @adcock_brett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 393.94,
+      "transcoded": true,
+      "bytes": 40824871,
+      "sha256": "14c2faad2574265c7085d9f3a2c001a66b53c2d7b56f44a007adda420f4ca57e",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 112625,
+      "sha256": "8d7bfea8cdbebaf0b0236e29e4d328dd3c76284738313725a7b6412041b4cfc8",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

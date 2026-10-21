@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-10-21",
+  "title": "宇树人形机器人穿上轮滑鞋在街头滑行",
+  "summary": "ViralRobots 发布视频称，宇树科技让人形机器人穿上轮滑鞋，在街道上滑行。帖子标注视频来源为宇树科技。",
+  "category": "趣味演示",
+  "company": "宇树科技",
+  "source": "X：@ViralRobots（ViralRobots（搬运号））",
+  "source_url": "https://x.com/ViralRobots/status/2112529470011646432",
+  "published_at": "2026-10-20T21:00:49+08:00",
+  "collected_at": "2026-10-21T11:44:27+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 2
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "搬运号转发，宇树官方原帖未找到，拍摄时间不明",
+    "不确定是否为遥控、是否为新视频"
+  ],
+  "credit": "来源：X @ViralRobots",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 50.0,
+      "has_audio": true,
+      "duration": 28.37,
+      "transcoded": true,
+      "bytes": 3973927,
+      "sha256": "ad6b53c1fabd6257e733afa3370d75ce10dc46f5788c1556d6758a1bb6e2d71a",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 64732,
+      "sha256": "28fb9cd14d1367b0b4a93a84a3c67bcfee9af86db91baad390e0cdf35c63c9a9",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

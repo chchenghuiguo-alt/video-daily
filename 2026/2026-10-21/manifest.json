@@ -1,0 +1,78 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Figure F.03 在跑步机上连续走了 9 天：348 英里、120 万步",
+      "selected": null,
+      "bytes": 40937496,
+      "has_video": true,
+      "duration": 393.94
+    },
+    {
+      "id": "002",
+      "title": "NVIDIA 开源 Flora：把原始视频变成机器人训练数据的模型套件",
+      "selected": null,
+      "bytes": 12639394,
+      "has_video": true,
+      "duration": 67.24
+    },
+    {
+      "id": "003",
+      "title": "Agility 与农机巨头 AGCO 签约：Digit 人形机器人 2027 年进厂试点",
+      "selected": null,
+      "bytes": 78732,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "Asimov 1 开源人形机器人：在自家工作台上就能组装",
+      "selected": null,
+      "bytes": 10864305,
+      "has_video": true,
+      "duration": 60.05
+    },
+    {
+      "id": "005",
+      "title": "Ropedia 开源世界模型 W0：用 1 万小时第一视角人类视频训练",
+      "selected": null,
+      "bytes": 4634284,
+      "has_video": true,
+      "duration": 29.91
+    },
+    {
+      "id": "006",
+      "title": "宇树人形机器人穿上轮滑鞋在街头滑行",
+      "selected": null,
+      "bytes": 4038659,
+      "has_video": true,
+      "duration": 28.37
+    },
+    {
+      "id": "007",
+      "title": "特斯拉 Optimus 万圣节派糖",
+      "selected": null,
+      "bytes": 4114334,
+      "has_video": true,
+      "duration": 21.13
+    },
+    {
+      "id": "008",
+      "title": "首批 6 项人形机器人国家标准发布，2027 年 4 月 1 日实施",
+      "selected": null,
+      "bytes": 118421,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 77425625,
+  "updated_at": "2026-10-21T11:44:27+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
