@@ -76,3 +76,7 @@ powershell -ExecutionPolicy Bypass -File scripts\pull-day.ps1 [-Date 2026-10-21]
 ## 容量说明
 
 GitHub Git LFS 免费额度约 **1 GB 存储**（另有带宽限制），超出需购买数据包；进了历史的文件很难真正删除。每天约几百 MB，每天目标 ≤150 MB，累计接近 800 MB 时换新仓库（如 `video-daily-2026-11`）。
+
+## 素材信源
+
+收集用的 X 账号、搜索关键词和挑选规则见 [SOURCES.md](SOURCES.md)。增删账号直接改那个文件。
