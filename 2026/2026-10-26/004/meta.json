@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-10-26",
+  "title": "宇树 H2-X“功夫传奇”发布第二天，侧空翻落地甩断小腿",
+  "summary": "视频显示一台人形机器人侧空翻落地时小腿脱落。发帖人称这“据报道”是宇树 H2-X，前一天刚发布，宇树尚未回应。多条中文帖称 H2-X“功夫传奇·守护”于 10-21 发布，10-22 在杭州“2026 世界物理 AI 大会暨宇树合作伙伴生态大会”现场表演时出事。",
+  "category": "翻车/事故",
+  "company": "宇树 Unitree",
+  "source": "X：@ZTianTian（ZTianTian（个人号转发））",
+  "source_url": "https://x.com/ZTianTian/status/2113897478265491727",
+  "published_at": "2026-10-24T15:36:47+08:00",
+  "collected_at": "2026-10-26T08:53:59+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 8
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "机型为 H2-X、事发地点与时间均来自网友转述，未见宇树官方说明",
+    "视频为个人号转发，原始出处不明，按“来源网络”处理",
+    "事件发生在 10-22，已是约 4 天前的旧闻，但此前几天未收集，热度仍在"
+  ],
+  "credit": "来源：X @ZTianTian",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 9.57,
+      "transcoded": true,
+      "bytes": 720657,
+      "sha256": "f30d345b09f272b314bde5fa924e05ae2bcb8795dd1792a41fc69d6c476c63fa",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 46666,
+      "sha256": "85f3480053e58b18f7ae9ba56fd6ecd2bc5ee2258987fe75862a78e8aa5cdf3d",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-10-26",
+  "title": "上海 Archon Robotics：人形机器人自主爬楼、收桌子、开洗碗机",
+  "summary": "@spaceandtech_ 发帖介绍上海公司 Archon Robotics 用“全身智能”（Whole-Body Intelligence）框架训练人形机器人自主完成日常任务，包括爬楼梯、捡东西、收拾桌子、操作洗碗机、整理冰箱。",
+  "category": "家务/全身控制",
+  "company": "Archon Robotics",
+  "source": "X：@spaceandtech_（Space & Technology（科技资讯号））",
+  "source_url": "https://x.com/spaceandtech_/status/2114383172100341879",
+  "published_at": "2026-10-25T23:46:46+08:00",
+  "collected_at": "2026-10-26T08:53:59+08:00",
+  "engagement": {
+    "likes": 52,
+    "reposts": 11,
+    "replies": 6,
+    "views": 1956
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“自主完成”为公司/转述方说法，视频是否有遥控或加速未说明",
+    "发帖账号为资讯号，非公司官方，未找到公司原帖"
+  ],
+  "credit": "来源：X @spaceandtech_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 29.56,
+      "transcoded": true,
+      "bytes": 6444517,
+      "sha256": "3ea4bd4b8511e40ffec59573f1623103d6d8733dfff4a0733b688b55ee32d18c",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 79399,
+      "sha256": "b97b3e75a72c44f44a7500133e7bfc259b8bc9d2035f9e104250ac2e9eb4af5e",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

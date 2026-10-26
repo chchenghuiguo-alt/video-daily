@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-10-26",
+  "title": "德国 NEURA 发布 4NE1 Gen 4：减重 20%、黑色织物外衣、面向量产",
+  "summary": "NEURA Robotics 发布第四代人形机器人 4NE1 Gen 4，造型更纤细、外层是黑色织物，重量比上一代轻约 20%。NEURA 官方 10-22 发帖称在慕尼黑 TUM RoboGym 开幕和 NVIDIA GTC 柏林两个场合亮相。多家转述称它面向量产，配有触觉和力感知、更精细的灵巧手。",
+  "category": "新品发布",
+  "company": "NEURA Robotics",
+  "source": "X：@CyberRobooo（CyberRobooo（机器人资讯搬运号））",
+  "source_url": "https://x.com/CyberRobooo/status/2114344158492258439",
+  "published_at": "2026-10-25T21:11:44+08:00",
+  "collected_at": "2026-10-26T08:53:59+08:00",
+  "engagement": {
+    "likes": 485,
+    "reposts": 109,
+    "replies": 56,
+    "views": 26345
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频来自搬运号 @CyberRobooo，非 NEURA 官方账号；官方帖只有图片（https://x.com/NEURARobotics/status/2113299561695400401）",
+    "“约 64 公斤”为网友按上一代 80 公斤推算，非官方数字",
+    "发布在 10-22，本条为 10-25 的转发热度"
+  ],
+  "credit": "来源：X @CyberRobooo",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 29.54,
+      "transcoded": true,
+      "bytes": 7890975,
+      "sha256": "331898f3fb615e2b62ccde89fa0d6fccd205bc89ef350d91501872cccdd69af7",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 85377,
+      "sha256": "9cc7a0629106cdb0a99c69d857ce4101763715f76c6bb344b2882b579e7361e5",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

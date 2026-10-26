@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-10-26",
+  "title": "Figure 创始人晒三代人形机器人进化史",
+  "summary": "Brett Adcock 发了一段 84 秒视频，标题是“Figure 的三代人形机器人”，把公司从早期原型到现在的几代机器人剪在一起。另外，@TheHumanoidHub 10-22 转述 Adcock 在全员大会上的说法：Figure 04 已进入“完全设计冻结”，开始发零件。",
+  "category": "产品回顾",
+  "company": "Figure",
+  "source": "X：@adcock_brett（Brett Adcock（Figure 创始人））",
+  "source_url": "https://x.com/adcock_brett/status/2114035491540758563",
+  "published_at": "2026-10-25T00:45:12+08:00",
+  "collected_at": "2026-10-26T08:53:59+08:00",
+  "engagement": {
+    "likes": 1754,
+    "reposts": 117,
+    "replies": 91,
+    "views": 82720
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "Figure 04 设计冻结、已开始发零件出自 @TheHumanoidHub 对 10-22 全员大会的转述，未单独核实",
+    "视频内容是否全部为实拍、各片段拍摄时间未说明",
+    "原帖发于 10-25 00:45（UTC+8），约 32 小时前，略超 24 小时窗口"
+  ],
+  "credit": "来源：X @adcock_brett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 84.18,
+      "transcoded": true,
+      "bytes": 17093494,
+      "sha256": "4e55159fb5c9997bd8dfc50b9e2d2818bdfb3f262b298bf0b03edc190da3a86f",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 76376,
+      "sha256": "025eeb909ec5e8101a513ab1ce60be20c0e60865dd9b57c2f0ac11dea8156346",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

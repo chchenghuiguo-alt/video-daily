@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-10-26",
+  "title": "美国街头偶遇 Faraday Future 人形机器人，标价 9 万美元起",
+  "summary": "Errol Barnett 发帖称早上在街上碰见一台人形机器人在走动，由 Faraday Future 旗下机器人业务制造，面向职业岗位，对方称“起价 9 万美元”。他问网友：看到这种机器人走在自家街上会是什么感觉。",
+  "category": "街拍/商业化",
+  "company": "Faraday Future",
+  "source": "X：@errolbarnett（Errol Barnett（记者，第一手拍摄））",
+  "source_url": "https://x.com/errolbarnett/status/2114397074980827442",
+  "published_at": "2026-10-26T00:42:00+08:00",
+  "collected_at": "2026-10-26T08:53:59+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 1,
+    "replies": 1,
+    "views": 262
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“起价 9 万美元”为厂商说法，转引自发帖人",
+    "拍摄地点未说明",
+    "帖子互动量低（约 1 赞），热度一般"
+  ],
+  "credit": "来源：X @errolbarnett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 58.82,
+      "transcoded": true,
+      "bytes": 17994051,
+      "sha256": "9f4405c97665fde957289cb9f37384fd03f9e2d4d4d8b91722cbf80d95f9c81e",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 124929,
+      "sha256": "f8167b27ba234c9c4ed50662e085bdd4caa607d01bd9a27ded6a76d7cd88f968",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}
