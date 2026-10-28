@@ -3,7 +3,7 @@
   "date": "2026-10-28",
   "timezone": "Asia/Singapore",
   "episode": 1,
-  "status": "pending",
+  "status": "ready",
   "selection": "unknown",
   "items": [
     {
@@ -73,6 +73,6 @@
   ],
   "order": [],
   "total_bytes": 28168373,
-  "updated_at": "2026-10-28T09:01:56+08:00",
+  "updated_at": "2026-10-28T09:02:43+08:00",
   "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
 }
