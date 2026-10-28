@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "008",
+  "date": "2026-10-28",
+  "title": "松延动力推出可编程开源人形机器人 Boomy，面向创客",
+  "summary": "Noetix Robotics（松延动力）官方发帖介绍 Noetix Boomy：一款面向创客、程序员的开放式个人人形机器人，支持图形化编程和 Python、C++，提供开放 SDK，可自定义动作和行为。",
+  "category": "新品",
+  "company": "Noetix 松延动力",
+  "source": "X：@TheRealNoetix（官方）",
+  "source_url": "https://x.com/TheRealNoetix/status/2115035792389365933",
+  "published_at": "2026-10-27T19:00:03+08:00",
+  "collected_at": "2026-10-28T09:01:56+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 64
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "价格、上市时间原帖未提",
+    "是否为新发布还是旧品再推广未核实（互动量很低）"
+  ],
+  "credit": "来源：X @TheRealNoetix",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 32.42,
+      "transcoded": true,
+      "bytes": 4373762,
+      "sha256": "7ae40c906d972711e31a6a4b7f016bcf85af0a1df0f80368c70ca5adc33e197b",
+      "orig_name": "008_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 37847,
+      "sha256": "f5535048d5d691297d55338c2fd3c3c21d990e7a727a5df716da4a78ac39605c",
+      "orig_name": "008_1_thumb.jpg"
+    }
+  ]
+}

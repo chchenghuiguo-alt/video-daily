@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-10-28",
+  "title": "美国 CircuitHub 推出机器人电路板工厂 The Grid，称比深圳快一倍",
+  "summary": "@IlirAliu_ 介绍，CircuitHub 发布工厂级机器人系统 The Grid：磁悬浮运输器把单块电路板在锡膏、贴片、焊接、检测设备间运送，由 AI 代理、学习模型和传统优化算法调度，每块板走自己的路线，可同时跑 100 种设计、无需换线。帖子举例：5 块电机控制板送到美国地址，CircuitHub 630 美元 4 天到，深圳约 465 美元 9 天到；公司已出货 220 万块板，计划把马萨诸塞产能扩大到 5 倍。",
+  "category": "智能制造",
+  "company": "CircuitHub",
+  "source": "X：@IlirAliu_（Ilir Aliu，聚合号）",
+  "source_url": "https://x.com/IlirAliu_/status/2115004593037881719",
+  "published_at": "2026-10-27T16:56:04+08:00",
+  "collected_at": "2026-10-28T09:01:56+08:00",
+  "engagement": {
+    "likes": 41,
+    "reposts": 5,
+    "replies": 8,
+    "views": 1812
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“比深圳快一倍”、价格对比、出货量均为帖子转述公司说法，未见 CircuitHub 官方原文",
+    "视频分辨率只有 640×360，画质较低"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 640,
+      "h": 360,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 24.6,
+      "transcoded": true,
+      "bytes": 1803769,
+      "sha256": "916ea470d03a9338e57dea5dac1b1f9ca7a21692eafadde9550f24a5edcee8b0",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 640,
+      "h": 360,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 27227,
+      "sha256": "ba1d78452436b614ce249c56d6ad4c876407445be85bc9387dd4088324489e1f",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

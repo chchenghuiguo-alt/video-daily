@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-10-28",
+  "title": "Bedrock Robotics 融资 6 亿美元，无人驾驶挖掘机已在真实工地收费干活",
+  "summary": "Bedrock Robotics 官方宣布完成 6 亿美元 C 轮融资，由 CapitalG 和 Emergence 共同领投，估值 41 亿美元，累计融资近 10 亿美元。官方称自 8 月起，加装其系统的挖掘机已在真实商业工地上做收费的全自动作业；同日另一帖称已有 6 家客户在部署。下一步将从挖掘机扩展到协同作业的机群。",
+  "category": "融资/工程机械",
+  "company": "Bedrock Robotics",
+  "source": "X：@BedrockRobotics（官方）",
+  "source_url": "https://x.com/BedrockRobotics/status/2114767382740881911",
+  "published_at": "2026-10-27T01:13:29+08:00",
+  "collected_at": "2026-10-28T09:01:56+08:00",
+  "engagement": {
+    "likes": 77,
+    "reposts": 7,
+    "replies": 12,
+    "views": 5313
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“收费全自动作业”“6 家客户部署”为公司自述",
+    "融资额与估值由官方公布，彭博有报道（官方帖引用），未独立查看彭博原文"
+  ],
+  "credit": "来源：X @BedrockRobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 24.49,
+      "transcoded": true,
+      "bytes": 5750036,
+      "sha256": "a993369df19c4ae054afd1143578899b0192d9d7d440edd47614754e55b87ec7",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 138713,
+      "sha256": "4731f69675a2d2e65b212ccffe736e8fbd907ea3383bafd5a6c019b36d55e2fb",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

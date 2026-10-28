@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-10-28",
+  "title": "首届 CMG 世界机器人登泰山大赛排位赛开赛：3.8 公里山路、3100 多级台阶",
+  "summary": "多个中文账号发布视频称，10 月 26 日首届 CMG 世界机器人登泰山大赛排位赛在山东泰安开赛，国内多支团队的足式、轮腿复合机器人从红门出发，在秋雨中沿登山古道比赛；赛道 3.8 公里山路、3100 多级台阶。据称正赛将于 11 月 2 日举行。",
+  "category": "赛事",
+  "company": "CMG（中央广播电视总台）赛事",
+  "source": "X：@yugaoxin11（个人号转发）；文字信息参考 @lidg18238801 同题帖",
+  "source_url": "https://x.com/yugaoxin11/status/2114893146257756475",
+  "published_at": "2026-10-27T09:33:13+08:00",
+  "collected_at": "2026-10-28T09:01:56+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "views": 172
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频由个人号发布，画面疑似来自央视/总台报道，原始出处未找到，标“来源网络”",
+    "“3.8 公里、3100 多级台阶”“正赛 11 月 2 日”来自转发帖文字，未见官方原文",
+    "参赛队伍和机器人型号未知"
+  ],
+  "credit": "来源：X @yugaoxin11",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 29.63,
+      "transcoded": true,
+      "bytes": 7376685,
+      "sha256": "35f6df20289f23fbaa7c227f02ae9a673f0a2c99231e9aa2ab0ed415f4977df0",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 107281,
+      "sha256": "93565391aaf9bd13f8ac74428d2821dfa34da32bb87e051dce54ef84d3b10206",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

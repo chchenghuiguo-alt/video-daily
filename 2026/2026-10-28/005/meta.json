@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-10-28",
+  "title": "人形机器人“爱图”进波司登工厂，接手软布料分拣对位",
+  "summary": "机器人资讯号 @CyberRobooo 发帖称，人形机器人 Aitu（爱图）已在江苏常熟波司登智能工厂上岗，和缝纫机等自动化设备一起工作。帖子称它搭载缝纫专用的具身智能模型，有视觉和触觉感知，能分开、拿起并对齐布片，再送进机器加工领子、袖子、门襟；工厂 90% 以上关键工序已自动化，但柔软布料的处理仍依赖越来越难招的熟练工。",
+  "category": "工厂落地",
+  "company": "爱图 Aitu / 波司登",
+  "source": "X：@CyberRobooo（CyberRobo，机器人资讯搬运号）",
+  "source_url": "https://x.com/CyberRobooo/status/2114779844768571883",
+  "published_at": "2026-10-27T02:03:00+08:00",
+  "collected_at": "2026-10-28T09:01:56+08:00",
+  "engagement": {
+    "likes": 49,
+    "reposts": 12,
+    "replies": 6,
+    "views": 3991
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "搬运号发布，原始视频出处未找到，按“来源网络”处理",
+    "“缝纫专用具身模型”“90% 以上关键工序自动化”未见波司登或厂商官方确认",
+    "机器人厂商全称未核实"
+  ],
+  "credit": "来源：X @CyberRobooo",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 810,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 38.66,
+      "transcoded": true,
+      "bytes": 4004379,
+      "sha256": "2feaa617a25c6e8b8aca54f3bd8948dcbd8c6e52c5661823f51be2fbe40219cd",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 900,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 113639,
+      "sha256": "bcd34dae89932cbec2185b07db99717aab1e6e2308c7272eaf269868f8b19052",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-10-28",
+  "title": "特斯拉高管谈 Optimus：电池约 2.5 度电，近期先给 Robotaxi 充电，未来或做配送",
+  "summary": "@TheHumanoidHub 整理了特斯拉 Lars Moravy 和 Eric Earley 在 Munro Live 访谈中关于 Optimus 的说法：Optimus 电池是单个约 2.5 kWh 模组，不像汽车那样是主要成本；近期预计让 Optimus 给 Robotaxi 车队插枪充电；之后“可能给车做保养，可能进入配送领域”；并称 Cybercab、Optimus、Robovan 再加上 Semi，特斯拉“也许是一家运输公司”。",
+  "category": "访谈/规划",
+  "company": "Tesla",
+  "source": "X：@TheHumanoidHub（The Humanoid Hub，聚合号，转述 Munro Live 访谈）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2114774038962950642",
+  "published_at": "2026-10-27T01:39:56+08:00",
+  "collected_at": "2026-10-28T09:01:56+08:00",
+  "engagement": {
+    "likes": 2205,
+    "reposts": 232,
+    "replies": 90,
+    "views": 81633
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "内容是聚合号对 Munro Live 访谈的转述，未看访谈原视频",
+    "“给 Robotaxi 充电”“配送”是高管口头设想，不是产品发布",
+    "只有截图，没有视频",
+    "第一张图（Optimus 往车后备箱搬箱子）出处不明，可能是示意图或渲染图"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1443,
+      "h": 1300,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 336071,
+      "sha256": "a82e39a2372977b36f1a828bd560832a17f6c83dd9dded3209537f969c6966fa",
+      "orig_name": "004_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1360,
+      "h": 1404,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 219070,
+      "sha256": "2801cd02c3261669447fb84a86cc7fb2955f245de90a3b94d6dcfb0995d754e4",
+      "orig_name": "004_2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "谷歌 DeepMind 发布世界模型 Genie 4，可为机器人生成无限训练场景",
+      "selected": null,
+      "bytes": 3723454,
+      "has_video": true,
+      "duration": 27.19
+    },
+    {
+      "id": "002",
+      "title": "Bedrock Robotics 融资 6 亿美元，无人驾驶挖掘机已在真实工地收费干活",
+      "selected": null,
+      "bytes": 5888749,
+      "has_video": true,
+      "duration": 24.49
+    },
+    {
+      "id": "003",
+      "title": "Agility 人形机器人 Digit 获老客户 GXO 加单，新增两座美国仓库",
+      "selected": null,
+      "bytes": 156440,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "特斯拉高管谈 Optimus：电池约 2.5 度电，近期先给 Robotaxi 充电，未来或做配送",
+      "selected": null,
+      "bytes": 555141,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "005",
+      "title": "人形机器人“爱图”进波司登工厂，接手软布料分拣对位",
+      "selected": null,
+      "bytes": 4118018,
+      "has_video": true,
+      "duration": 38.66
+    },
+    {
+      "id": "006",
+      "title": "首届 CMG 世界机器人登泰山大赛排位赛开赛：3.8 公里山路、3100 多级台阶",
+      "selected": null,
+      "bytes": 7483966,
+      "has_video": true,
+      "duration": 29.63
+    },
+    {
+      "id": "007",
+      "title": "美国 CircuitHub 推出机器人电路板工厂 The Grid，称比深圳快一倍",
+      "selected": null,
+      "bytes": 1830996,
+      "has_video": true,
+      "duration": 24.6
+    },
+    {
+      "id": "008",
+      "title": "松延动力推出可编程开源人形机器人 Boomy，面向创客",
+      "selected": null,
+      "bytes": 4411609,
+      "has_video": true,
+      "duration": 32.42
+    }
+  ],
+  "order": [],
+  "total_bytes": 28168373,
+  "updated_at": "2026-10-28T09:01:56+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
