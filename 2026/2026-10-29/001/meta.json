@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-10-29",
+  "title": "Foundry Robotics 融资 1 亿美元：AI 机器人工位组装无人机和卫星",
+  "summary": "Foundry Robotics 官方宣布完成 1 亿美元融资，用于为美国关键产业建设自主化工厂。官方称公司运营十个月，位于加州 Emeryville 的 13 万平方英尺工厂已在给能源、电信、自动驾驶和国防领域的客户出货。多家报道称本轮为 A 轮，由 Marlinspike Partners 领投，Khosla Ventures、Wing VC 等参投；其模式是自己运营工厂、出售组装产能，而不是卖机器人。",
+  "category": "融资/制造",
+  "company": "Foundry Robotics",
+  "source": "X：@FoundryRobotics（官方）",
+  "source_url": "https://x.com/FoundryRobotics/status/2115567393716261250",
+  "published_at": "2026-10-29T06:12:26+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 10,
+    "reposts": 1,
+    "replies": 0,
+    "views": 540
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“A 轮”“Marlinspike 领投”及投资方名单来自其他账号转述（@Humanoid_News 等），官方帖原文只写了 1 亿美元",
+    "“已向四个行业客户出货”为公司自述",
+    "视频具体画面与工厂实拍的对应关系未逐帧核对"
+  ],
+  "credit": "来源：X @FoundryRobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 95.89,
+      "transcoded": true,
+      "bytes": 11799958,
+      "sha256": "2372cc1754e34aead6005f0f52701c9659b146a2ed8267471d0f938ab68949c0",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 164359,
+      "sha256": "135595e96fe568ef7e61223aa60192147972a060393f8143c3318a52ee368324",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

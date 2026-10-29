@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-10-29",
+  "title": "宇树 Dex5-S 灵巧手：单手 22 自由度、接近 1:1 真手尺寸",
+  "summary": "X 账号 @bufumingyue 发布宇树 Dex5-S 灵巧手的宣传视频，称其单手 22 自由度、真手 1:1 尺寸。宇树官网显示：22 个电机均可直驱和反向驱动、带双编码器，新增小拇指 roll 自由度，单手重 620 克，持续负载 1 公斤、峰值 2 公斤，国内售价 3.99 万元起，海外 6350 美元起，官方商城称 12 月开始发货。",
+  "category": "灵巧手",
+  "company": "宇树科技",
+  "source": "X：@bufumingyue（搬运号）；参数见宇树官网 https://www.unitree.com/cn/Dex5-S/",
+  "source_url": "https://x.com/bufumingyue/status/2115443377328288151",
+  "published_at": "2026-10-28T21:59:38+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "views": 363
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频由个人号搬运，未在 @UnitreeRobotics 官方 X 找到同一条，原始出处应为宇树官方宣传片，剪辑时标“来源：宇树科技”并注明搬运",
+    "具体发布日期未核实，可能并非 24 小时内首发",
+    "参数和价格来自宇树官网，非独立测试"
+  ],
+  "credit": "来源：X @bufumingyue",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 50.0,
+      "has_audio": true,
+      "duration": 43.52,
+      "transcoded": true,
+      "bytes": 8069731,
+      "sha256": "ea3b36909747aacc31ecbf9d1522326ba8e3fabe1aa63146e85fc480f123eb28",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 78956,
+      "sha256": "9f04382282188d4cdd2a07a80f42397d8c71c84a0a00cb8fe858166d25ecff11",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

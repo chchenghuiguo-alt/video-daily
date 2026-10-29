@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-10-29",
+  "title": "波士顿动力 Stretch 吸盘夹爪：每个吸盘单独控制，各种箱子都能搬",
+  "summary": "Boston Dynamics 官方发布 Stretch 仓储机器人的吸盘夹爪视频：夹爪上的吸盘可以分别单独驱动，从而搬运不同尺寸的箱子；帖子以万圣节为梗。",
+  "category": "仓储/物流",
+  "company": "Boston Dynamics",
+  "source": "X：@BostonDynamics（官方）",
+  "source_url": "https://x.com/BostonDynamics/status/2115450377004826743",
+  "published_at": "2026-10-28T22:27:27+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 126,
+    "reposts": 8,
+    "replies": 10,
+    "views": 9686
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "偏产品科普，不是新发布；可与 002 搭配作为波士顿动力画面"
+  ],
+  "credit": "来源：X @BostonDynamics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 47.68,
+      "transcoded": true,
+      "bytes": 5747558,
+      "sha256": "2ef3f8a1da9e36a8180873396c932ca46b02e53c35688aab8a4223bdd606a060",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 74383,
+      "sha256": "cb4ad5aa7c9a673b3e8a5b3d9cd73866557dc426ff053858807480ce3a7298d1",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

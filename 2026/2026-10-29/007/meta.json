@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-10-29",
+  "title": "云端 AI 远程“开”机械臂：Dream Lab 世界动作模型通过公开 API 控制机器人",
+  "summary": "@TheHumanoidHub 在 Long Horizon Summit 现场拍摄：Resolution 的 Ryan 演示了 MakerMods 机械臂由 Dream Lab 最新的世界动作模型（world-action model）通过公开 API 在云端控制、自主完成动作。",
+  "category": "具身智能/模型",
+  "company": "Dream Lab / MakerMods",
+  "source": "X：@TheHumanoidHub（聚合号，现场拍摄）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2115572461219791032",
+  "published_at": "2026-10-29T06:32:34+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 37,
+    "reposts": 6,
+    "replies": 9,
+    "views": 3787
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "模型能力、延迟等细节原帖没写，均未核实",
+    "视频近 4 分钟，建议只截取机械臂动作片段"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 226.67,
+      "transcoded": true,
+      "bytes": 52882301,
+      "sha256": "928cd133dbce13ca890ad2faecdbb31c2a62d5760534083ba1955fd468058501",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 93683,
+      "sha256": "581a68cc54179311989a403ae2ab4e055a54fc917d4ba6976fb0a5ef565777b8",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

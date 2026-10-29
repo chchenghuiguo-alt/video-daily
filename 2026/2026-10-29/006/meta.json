@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-10-29",
+  "title": "小米灵巧手单手翻硬币：21 自由度、1500 点全掌触觉",
+  "summary": "X 账号 @maide89699220 发布小米灵巧手单手翻转硬币的视频。另据 10 月 27 日的多条转述（引用量子位），小米披露了面向工业场景的仿生灵巧手：21 自由度、26 个电机混合驱动、1500 点高密度全掌触觉，用混合驱动加腱绳张力控制做抓握力控，设计取自小米汽车工厂 16 个典型工段、1827 个 SOP。",
+  "category": "灵巧手",
+  "company": "小米",
+  "source": "X：@maide89699220（搬运号，视频）；参数转述自 @Barbar0ssa（引用量子位）",
+  "source_url": "https://x.com/maide89699220/status/2115564766663958664",
+  "published_at": "2026-10-29T06:02:00+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 18,
+    "reposts": 1,
+    "replies": 1,
+    "views": 525
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频为搬运，原始出处未找到，标“来源网络”",
+    "参数来自转述，未查看小米官方原文",
+    "翻硬币视频是否为同一款 21 自由度灵巧手未核实"
+  ],
+  "credit": "来源：X @maide89699220",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 720,
+      "h": 964,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 13.28,
+      "transcoded": true,
+      "bytes": 1512391,
+      "sha256": "ac8464f8d09dedce6ec9dcb3bea536697b210ce4930bb4f36c6eeb57fe4c8a60",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 964,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 58621,
+      "sha256": "cb78747adda309ad5e231b6c9bfb599cab9d6c97a1f39cf2343156a80f1d92d6",
+      "orig_name": "006_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 63850,
+      "sha256": "05dd3475532f58fe562c26b238032c0ad7a2a6d30b419b89bb480ba29652e572",
+      "orig_name": "006_2.jpg"
+    }
+  ]
+}

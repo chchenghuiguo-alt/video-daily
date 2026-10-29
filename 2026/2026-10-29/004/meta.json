@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-10-29",
+  "title": "彭博：机器人大脑公司 Physical Intelligence 洽谈以约 200 亿美元估值融资",
+  "summary": "据彭博报道（Techmeme 等转述），Physical Intelligence 正在洽谈融资 10 亿美元以上，由 Avenir 和 Lux Capital 领投，估值约 200 亿美元，比今年早些时候的 115 亿美元接近翻倍；报道称该公司尚无收入。",
+  "category": "融资/具身智能",
+  "company": "Physical Intelligence",
+  "source": "彭博报道，经 X @Techmeme 转述；配图取自 @TheLatentCo",
+  "source_url": "https://x.com/Techmeme/status/2115176981809725477",
+  "published_at": "2026-10-28T04:21:05+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 96,
+    "reposts": 6,
+    "replies": 12,
+    "views": 14802
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "仍在洽谈中，融资额和估值未最终确定，公司未公开确认",
+    "未直接查看彭博原文",
+    "只有一张公司名称图（取自 @TheLatentCo），没有视频，剪辑需配其他画面"
+  ],
+  "credit": "来源：X @Techmeme",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1305,
+      "h": 1306,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 45911,
+      "sha256": "86aed7dc75ffe486197caaf4507fde8f6962079c740a644faf363e7286b3ae0a",
+      "orig_name": "004_1.jpg"
+    }
+  ]
+}

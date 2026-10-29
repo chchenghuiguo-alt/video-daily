@@ -1,0 +1,78 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-29",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Foundry Robotics 融资 1 亿美元：AI 机器人工位组装无人机和卫星",
+      "selected": null,
+      "bytes": 11964317,
+      "has_video": true,
+      "duration": 95.89
+    },
+    {
+      "id": "002",
+      "title": "韩媒：波士顿动力要求韩国供应商为 1 万台 Atlas 人形机器人备料",
+      "selected": null,
+      "bytes": 272054,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "003",
+      "title": "波士顿动力 Stretch 吸盘夹爪：每个吸盘单独控制，各种箱子都能搬",
+      "selected": null,
+      "bytes": 5821941,
+      "has_video": true,
+      "duration": 47.68
+    },
+    {
+      "id": "004",
+      "title": "彭博：机器人大脑公司 Physical Intelligence 洽谈以约 200 亿美元估值融资",
+      "selected": null,
+      "bytes": 45911,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "005",
+      "title": "宇树 Dex5-S 灵巧手：单手 22 自由度、接近 1:1 真手尺寸",
+      "selected": null,
+      "bytes": 8148687,
+      "has_video": true,
+      "duration": 43.52
+    },
+    {
+      "id": "006",
+      "title": "小米灵巧手单手翻硬币：21 自由度、1500 点全掌触觉",
+      "selected": null,
+      "bytes": 1634862,
+      "has_video": true,
+      "duration": 13.28
+    },
+    {
+      "id": "007",
+      "title": "云端 AI 远程“开”机械臂：Dream Lab 世界动作模型通过公开 API 控制机器人",
+      "selected": null,
+      "bytes": 52975984,
+      "has_video": true,
+      "duration": 226.67
+    },
+    {
+      "id": "008",
+      "title": "Mundane 全身遥操作：躯干逐关节对应，整条手臂有力反馈",
+      "selected": null,
+      "bytes": 6794659,
+      "has_video": true,
+      "duration": 18.81
+    }
+  ],
+  "order": [],
+  "total_bytes": 87658415,
+  "updated_at": "2026-10-29T08:55:46+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

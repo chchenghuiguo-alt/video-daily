@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-10-29",
+  "title": "韩媒：波士顿动力要求韩国供应商为 1 万台 Atlas 人形机器人备料",
+  "summary": "韩国经济日报（KED Global / 韩经）10 月 27 日报道，波士顿动力已确定 Atlas 人形机器人的主要供应商并逐一通知，要求按 1 万台的量准备零部件。报道称除英伟达芯片外基本由韩国企业供货：现代摩比斯做关节执行器和手部夹爪，三星 SDI 和 LG 新能源供电池，另有多家公司负责相机、充电和控制臂。报道还称现代汽车集团计划 2028 年起建立年产 3 万台机器人的体系，先在美国佐治亚州工厂做零件分拣等工作。",
+  "category": "量产/供应链",
+  "company": "Boston Dynamics",
+  "source": "KED Global 报道（https://www.kedglobal.com/robotics/newsView/ked202610270008）；X 转述 @Humanoid_News、@decepticons0101",
+  "source_url": "https://x.com/Humanoid_News/status/2115278572508123557",
+  "published_at": "2026-10-28T11:04:46+08:00",
+  "collected_at": "2026-10-29T08:55:46+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 228
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "这是“备料请求”，不是正式采购订单；据报道最终数量和价格未定，首批订单最早 2027 年底或 2028 年初",
+    "波士顿动力未公开确认 1 万台这一数字，消息来自韩媒援引业内人士",
+    "两张图片取自 X 转述号 @decepticons0101 的帖子，原始出处不明，剪辑时标“来源网络”",
+    "“年产 3 万台”出自韩经报道，未见官方确认"
+  ],
+  "credit": "来源：X @Humanoid_News",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 145700,
+      "sha256": "aed87d6eb73e03849db119b0917b9499d6e6a255d2bfbd92b4c5d64315f2cdbf",
+      "orig_name": "002_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1600,
+      "h": 900,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 126354,
+      "sha256": "bd947cf7eb98038f33312bea21c5c4f2187c0b6940b227775225e7f6aa24e403",
+      "orig_name": "002_2.jpg"
+    }
+  ]
+}
