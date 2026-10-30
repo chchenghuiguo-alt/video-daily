@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "008",
+  "date": "2026-10-30",
+  "title": "特朗普签署 232 公告：进口机器人和工业机械“威胁美国国家安全”，先谈判暂不加税",
+  "summary": "据白宫 10 月 28 日（美国时间）发布的公告和情况说明，特朗普依据《1962 年贸易扩展法》第 232 条签署公告，认同商务部调查结论：机器人、工业机械及其零部件的进口数量和情况威胁美国国家安全。公告指示商务部长和美国贸易代表与贸易伙伴谈判达成协议，并在 180 天内汇报进展；公告本身没有设定关税税率或生效日期，但保留后续采取其他措施的可能。",
+  "category": "政策/贸易",
+  "company": "美国白宫",
+  "source": "白宫公告 https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/；X 图卡 @whwire、@coldstartnew",
+  "source_url": "https://x.com/whwire/status/2115538983211970857",
+  "published_at": "2026-10-29T04:19:33+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 2,
+    "reposts": 0,
+    "replies": 1,
+    "views": 141
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "公告内容已对照白宫官网原文，核心事实已核实",
+    "对中国等具体国家的影响公告未点名，不要口播成“针对中国”",
+    "两份素材都是第三方新闻号（WHWire、Coldstart News）制作的文字图卡，非白宫官方，画面质量一般，建议剪辑方自制图卡"
+  ],
+  "credit": "来源：X @whwire",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 720,
+      "h": 720,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 8.0,
+      "transcoded": true,
+      "bytes": 260109,
+      "sha256": "dc98412949463a575dc31fd642c716e30b67db1c50c165145268568bf16f8556",
+      "orig_name": "008_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 105415,
+      "sha256": "a1367b86fc5d5ab3c482c39ecaaf4d6d003c98e74d4e2ad6944f7def0fa58f20",
+      "orig_name": "008_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1600,
+      "h": 900,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 130725,
+      "sha256": "721bcdff06404546b698b6a8a8e7f445fcc6b9b5eaba89dffdca99b56ee92dd7",
+      "orig_name": "008_2.jpg"
+    }
+  ]
+}

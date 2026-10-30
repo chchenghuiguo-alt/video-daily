@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-10-30",
+  "title": "开源桌面机器人 Reachy Mini 装上轮子：手机 App 直接控制，换帽子就换“性格”",
+  "summary": "Pollen Robotics（Hugging Face 旗下）发布 Reachy Mini “Level Up” 升级：给这台开源 AI 小机器人配了平衡车式轮式底座，可以离开桌面四处跑；新的手机 App 不再需要电脑；带 NFC 的帽子可以解锁不同性格和应用。Hugging Face 联合创始人 Thomas Wolf 称帽子 35 美元、头里有小型 NFC 读取器，因为全部开源，用户可以自己做帽子和行为。多方报道称轮式底座 149 美元、仅支持无线版，预计明年 1 月底发货。",
+  "category": "消费/开源",
+  "company": "Pollen Robotics / Hugging Face",
+  "source": "X：@pollenrobotics（官方）；补充 @Thom_Wolf",
+  "source_url": "https://x.com/pollenrobotics/status/2115760558058467623",
+  "published_at": "2026-10-29T19:00:00+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 564,
+    "reposts": 81,
+    "replies": 56,
+    "views": 59420
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“轮式底座 149 美元、仅无线版、1 月底发货”来自 X 新闻摘要及 @clankrmedia 转述，官方帖原文未写",
+    "帽子 35 美元来自 @Thom_Wolf，非 Pollen 官方帖"
+  ],
+  "credit": "来源：X @pollenrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 756,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 69.06,
+      "transcoded": true,
+      "bytes": 16140656,
+      "sha256": "fe4beda02ea8e9c7399c2dff879886ca027633f44a14e5df20f58bec9e1b4681",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 840,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 182670,
+      "sha256": "6ef8405ee10e047a5ce4f405f8d4c37fb61676bc82e0e330c95bf693b034b394",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

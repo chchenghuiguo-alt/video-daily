@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-10-30",
+  "title": "波士顿动力 Spot + Orbit 升级：机器狗巡检数据接入整座工厂，AI 发现问题直接触发动作",
+  "summary": "Boston Dynamics 官方发布 Spot 四足机器人及其管理软件 Orbit 的最新功能视频，称要为“全连接的智慧工厂”打基础，把各处孤立的数据变成全厂范围的智能，让 AI 洞察转化为自主行动。",
+  "category": "工业巡检",
+  "company": "Boston Dynamics",
+  "source": "X：@BostonDynamics（官方）",
+  "source_url": "https://x.com/BostonDynamics/status/2115815524051362095",
+  "published_at": "2026-10-29T22:38:25+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 44,
+    "reposts": 4,
+    "replies": 9,
+    "views": 6334
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "原帖只有概括性描述，具体新增功能需看官网链接，未核实",
+    "偏产品宣传，不是重大新发布"
+  ],
+  "credit": "来源：X @BostonDynamics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 39.02,
+      "transcoded": true,
+      "bytes": 3548864,
+      "sha256": "2bd58b3ead385a34d526e77afcb7ada9be6bf8ec73fd624e11b6f0fe93952649",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 115115,
+      "sha256": "349f39ae6ce0df0a6010240c41f9644b02246c2e2dcd4b383c24622b80dce854",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

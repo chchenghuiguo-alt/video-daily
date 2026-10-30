@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-10-30",
+  "title": "Tau Robotics 人形机器人上门保洁开放按周订阅：一次最多 3 小时，刷马桶擦台面",
+  "summary": "Tau Robotics 联合创始人兼 CEO Alexander Koch 在 X 宣布，用户现在可以在官网按周期订阅他们的人形机器人保洁服务，每次最长 3 小时。配发的视频为一镜到底、未剪辑、4 倍速播放，画面是机器人在卫生间擦洗台面、洗手池和马桶；回复里另附 1 倍速的完整长片。据 Tau 官网服务条款（10 月 24 日更新），机器人不是自主的，而是由公司里的人类操作员实时远程操控，每次服务全程录像并用于训练模型；标准价格为每台每小时 50 美元，通常一次派两台；服务目前仅在旧金山、需邀请码。",
+  "category": "家庭服务/商业化",
+  "company": "Tau Robotics",
+  "source": "X：@alexkoch_ai（Tau Robotics CEO，第一手）；条款见 https://www.tau-robotics.com/service-terms",
+  "source_url": "https://x.com/alexkoch_ai/status/2115871971393331663",
+  "published_at": "2026-10-30T02:22:43+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 2615,
+    "reposts": 207,
+    "replies": 395,
+    "views": 373794
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频为远程遥操作（官网条款写明“机器人不是自主的，由人实时操控”），口播不能说成机器人自主打扫",
+    "价格：官网条款为每台每小时 50 美元、通常两台；RT 等转述的“每次 60 美元”与官网不一致，以官网为准或不提",
+    "机器人型号原帖未说明（有说法为宇树 G1 改装），未核实",
+    "视频为 4 倍速播放，剪辑时应标注“4 倍速”"
+  ],
+  "credit": "来源：X @alexkoch_ai",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 864,
+      "codec": "h264",
+      "fps": 60.0,
+      "has_audio": false,
+      "duration": 198.72,
+      "transcoded": true,
+      "bytes": 44818553,
+      "sha256": "06757b2497eb8a730c28157d0a9c5405f66de073beac0a0838c3b0727dd0dbfc",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 960,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 62227,
+      "sha256": "80302e920877b9611f39c98a4986ad2f2ad4fe16fcde444f0e1acbd3fde9ccb5",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

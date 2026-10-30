@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-10-30",
+  "title": "智元创新日：提出机器人“有效工时”指标 Worken，发布 G2 Max 重载机器人和 GO-3 模型",
+  "summary": "智元机器人（AGIBOT）10 月 29 日在上海举办 2026 创新日。官方称提出 Worken 框架，用来衡量机器人在真实场景中完成的有效工作，不再只看部署数量；同时发布第三代人形硬件平台 AHA3、运动智能 AGILE、下一代具身基座模型 GO-3 Preview、人机交互多模态模型 WITA-Omni 1.0、面向制造和物流物料搬运的工业机器人 G2 Max，以及具身智能操作系统 Link-U OS 1.0。多方转述称 Worken = 活跃机器人数 × 自主工作时长 × 产出效能比；G2 Max 双臂负载 40 公斤。上海外宣媒体 ShanghaiEye 发布现场报道视频；界面新闻发布 G2 Max 公主抱起一台近 40 公斤机器人的短视频。",
+  "category": "发布会/产品",
+  "company": "AGIBOT 智元",
+  "source": "X：@AGIBOTofficial（官方）；现场视频 @ShanghaiEye；G2 Max 短视频 @jiemian_news（界面新闻）",
+  "source_url": "https://x.com/AGIBOTofficial/status/2115694835579666505",
+  "published_at": "2026-10-29T14:38:51+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 77,
+    "reposts": 11,
+    "replies": 11,
+    "views": 3811
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "Worken 公式、G2 Max“40 公斤双臂负载”来自聚合号转述（@TheHumanoidHub、@Xflexxi 等），官方帖原文未写数字",
+    "“上半年出货 9700 台、收入近 20 亿元、全球份额 43%”等数字见中文转述号（@czw88888），为公司口径，未查官方原文，暂不建议口播",
+    "GO-3 “多个榜单第一”为公司/转述说法，未独立核实",
+    "002_2 为 ShanghaiEye 报道（含采访字幕）、002_3 为界面新闻，剪辑需分别标注来源"
+  ],
+  "credit": "来源：X @AGIBOTofficial",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 8.06,
+      "transcoded": true,
+      "bytes": 879839,
+      "sha256": "e28c1482686ed5131d944b637a9f86786f2f0fdf8062224942fb6c5b1329bc25",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 114696,
+      "sha256": "712878ddd5e15781a97331a8eb218ec4ced255d20d5fd073cd438f17c1266fdb",
+      "orig_name": "002_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 97.73,
+      "transcoded": true,
+      "bytes": 13889522,
+      "sha256": "e44ab997b51e0d472a43e0daaaf0683e585476ddb88e6e2ea0336c570be33b05",
+      "orig_name": "002_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 75721,
+      "sha256": "288e8d97168769eb3bdc77f6ad6239e9c32694f10f8185208f8d7067ba5c8820",
+      "orig_name": "002_2_thumb.jpg"
+    },
+    {
+      "file": "videos/03.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 7.42,
+      "transcoded": true,
+      "bytes": 1277927,
+      "sha256": "3993d6cf3d2a4672a6c0586bdfe6f483b94b20f3a3b07c2710f3ccf9dc1ff36d",
+      "orig_name": "002_3.mp4"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 86123,
+      "sha256": "9d70a71c2f6095cdfab347733ef01dd2cb74f52511c72698557e6b9453d3d55c",
+      "orig_name": "002_3_thumb.jpg"
+    }
+  ]
+}

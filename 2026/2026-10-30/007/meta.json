@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-10-30",
+  "title": "小鹏 IRON 人形机器人专用固态电池小批量下线，整机仍在量产前最后阶段",
+  "summary": "小鹏副总裁顾捷 10 月 28 日在中国汽车工程学会年会上并在微博表示，IRON 人形机器人专用的固态电池已完成小批量生产下线；与传统液态锂电池相比约轻 30%、电量多 30%，并通过了撞击、针刺等测试。他称整机处于量产（SOP）前的最后阶段，小鹏计划 2026 年底规模量产，2027 年起进入全球门店和商业场景做导购讲解。X 账号 @bamitav 发布的介绍视频（片中标注 Korthos、来源 XPENG/新浪科技）还提到小鹏机器人 85% 以上供应商与汽车业务共用。",
+  "category": "量产/电池",
+  "company": "XPeng 小鹏",
+  "source": "X：@bamitav（个人号转发 Korthos 制作的视频）；背景见 CnEVPost https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production/",
+  "source_url": "https://x.com/bamitav/status/2115645994365063672",
+  "published_at": "2026-10-29T11:24:46+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 22,
+    "reposts": 9,
+    "replies": 5,
+    "views": 1213
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“固态”是全固态还是半固态，小鹏未说明；9 月有媒体（极电实验室）报道量产版改用半固态，小鹏未回应",
+    "能量密度、容量、供应商、生产数量均未公布",
+    "“85% 以上供应商共用”来自视频/转述，未查原始出处",
+    "视频为第三方（Korthos）剪辑，非小鹏官方，剪辑时标“来源网络”"
+  ],
+  "credit": "来源：X @bamitav",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 80.41,
+      "transcoded": true,
+      "bytes": 6363305,
+      "sha256": "a6843293241495b97219089aefd46a24ccde6838bc98fe47e16d52ba81f134d0",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 55750,
+      "sha256": "0a6db8c801587ba374837d39b0b37544e3bee032a438310fb7d8f90a3237f8c1",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

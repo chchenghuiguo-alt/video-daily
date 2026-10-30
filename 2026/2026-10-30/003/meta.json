@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-10-30",
+  "title": "智元 WITA-Omni 1.0：机器人能边听边说，被人插话也能接住",
+  "summary": "@TheHumanoidHub 发布智元创新日上 WITA-Omni 1.0 全模态交互模型的演示：现场有人在机器人说话时插话，测试它能否边说边听。帖子称该模型支持全双工对话（同时听和说），在端侧运行，端到端交互延迟约 400 毫秒，把视觉、语音、实时对话、面部表情和肢体动作融合成一个连续系统；还称它在多个交互基准上排名靠前。",
+  "category": "大模型/人机交互",
+  "company": "AGIBOT 智元",
+  "source": "X：@TheHumanoidHub（聚合号，转述智元发布）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2115854758171025574",
+  "published_at": "2026-10-30T01:14:19+08:00",
+  "collected_at": "2026-10-30T09:03:00+08:00",
+  "engagement": {
+    "likes": 183,
+    "reposts": 27,
+    "replies": 19,
+    "views": 12037
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“约 400 毫秒延迟”“端侧运行”“多个基准排名靠前”为厂商说法经聚合号转述，未独立核实",
+    "视频原始出处（智元官方或现场拍摄）未单独核对",
+    "与 002 同属智元，剪辑时可合并为一段"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 28.77,
+      "transcoded": true,
+      "bytes": 2280480,
+      "sha256": "40de5eb0520d30b8963986e64001d40e12a4eb0cd954385b9cc72c43a57ca28f",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 40955,
+      "sha256": "15e54e2d91ce744767510801e97d034dca8e689f99d6a884ad7307b6d61d823e",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}
