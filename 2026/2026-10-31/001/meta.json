@@ -1,0 +1,64 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-10-31",
+  "title": "旧金山媒体称特斯拉 12 月初开放 Optimus 预订，马斯克回复一个字：No",
+  "summary": "《旧金山标准报》（The San Francisco Standard）10 月 30 日报道称，特斯拉将在今年晚些时候开放 Optimus 人形机器人预订，并已把弗里蒙特工厂的部分产线改造用于生产。消息来自人形机器人峰会（Humanoids Summit，12 月 1–2 日）主办方 Modar Alaoui：据他说，特斯拉告诉他预订会配合峰会开放或在会后几天内开放，特斯拉还计划在峰会上演示 Optimus V3；他本人预计首批交付的是 V3，大部分卖给企业、留给个人消费者的名额很少，价格在 2 万美元以上。报道传开后，马斯克在 X 上回复相关帖子只写了一个词“No”，否认 12 月开放预订的说法。特斯拉官方没有发布任何预订信息。",
+  "category": "行业动态/传闻辟谣",
+  "company": "Tesla",
+  "source": "X：@TheHumanoidHub（聚合号，整理 SF Standard 报道 + 马斯克回复截图）；原始报道 The San Francisco Standard",
+  "source_url": "https://x.com/TheHumanoidHub/status/2116251344931852633",
+  "published_at": "2026-10-31T03:30:13+08:00",
+  "collected_at": "2026-10-31T08:57:34+08:00",
+  "engagement": {
+    "likes": 561,
+    "reposts": 46,
+    "replies": 56,
+    "views": 41366
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“12 月初开放预订”“价格 2 万美元以上”“首批为 V3、主要卖企业”均来自峰会主办方 Modar Alaoui 的说法或个人预期，特斯拉未确认",
+    "马斯克只回复了“No”，没有说明否认的是开放时间还是整个说法；口播建议写“马斯克否认 12 月开放预订”",
+    "弗里蒙特工厂改造产线为 SF Standard 报道内容，未独立核实",
+    "001_2.jpg 内容为 TheHumanoidHub 配图，使用前请目视确认"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 712,
+      "h": 850,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 77941,
+      "sha256": "95b2598d458a3ae294762d7a769725ac4e2fc67ad99dd50e7a1cb056a4c0cee2",
+      "orig_name": "001_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1070,
+      "h": 1476,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 101471,
+      "sha256": "2b847eae9df22cb826d106993e5dd4a2718b00af2a26a48e4b6bf841779c556c",
+      "orig_name": "001_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 700,
+      "h": 724,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 67257,
+      "sha256": "9b74426dcfac951ebdcbe92ce6aa93d41d65f586864d1e6b9f8476b30a2cfa1b",
+      "orig_name": "001_3.jpg"
+    }
+  ]
+}

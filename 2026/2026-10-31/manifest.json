@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-31",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "旧金山媒体称特斯拉 12 月初开放 Optimus 预订，马斯克回复一个字：No",
+      "selected": null,
+      "bytes": 246669,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "002",
+      "title": "斯坦福李飞飞团队 I3L：机器人一出错人就“接管纠正”，四轮迭代后长任务成功率超 90%",
+      "selected": null,
+      "bytes": 5814491,
+      "has_video": true,
+      "duration": 58.07
+    },
+    {
+      "id": "003",
+      "title": "Agility Robotics 官宣 11 月 5 日登陆纳斯达克，股票代码 AGLT",
+      "selected": null,
+      "bytes": 148498,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "杰克科技旗下艾图发布缝纫人形机器人“艾妮”和整条服装机器人产线“产线王”",
+      "selected": null,
+      "bytes": 10965665,
+      "has_video": true,
+      "duration": 69.29
+    },
+    {
+      "id": "005",
+      "title": "瞬恒智能 SynDexy C1 首批小批量交付：6 个月从立项到进厂，做电子精密装配",
+      "selected": null,
+      "bytes": 138621,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "006",
+      "title": "宇树生态伙伴智无际：G1 人形机器人打网球，正反手切换",
+      "selected": null,
+      "bytes": 11682810,
+      "has_video": true,
+      "duration": 57.28
+    },
+    {
+      "id": "007",
+      "title": "人形机器人“天工 3.0”敲编钟演奏古曲",
+      "selected": null,
+      "bytes": 4371472,
+      "has_video": true,
+      "duration": 26.92
+    }
+  ],
+  "order": [],
+  "total_bytes": 33368226,
+  "updated_at": "2026-10-31T08:57:34+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

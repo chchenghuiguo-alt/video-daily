@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-10-31",
+  "title": "瞬恒智能 SynDexy C1 首批小批量交付：6 个月从立项到进厂，做电子精密装配",
+  "summary": "国内创业公司瞬恒智能 10 月 30 日宣布，自研灵巧操作人形机器人 SynDexy C1 完成首次小批量交付，将用于消费电子和电子元器件工厂的精密装配。据界面新闻等报道，C1 搭载自研视触觉传感器和“视触力”三种感知融合的操作模型 SynDexy M1，全身 22 个自由度、1 毫秒级运动控制；此前测试中关键任务成功率超过 98%。公司称 4 月启动研发、7 月出样机、10 月交付，用时 6 个月。",
+  "category": "工业/商业化",
+  "company": "瞬恒智能 SynDexy",
+  "source": "报道：界面新闻、东方财富等；X 配图来自个人号 @lucky94w",
+  "source_url": "https://x.com/lucky94w/status/2116315525487697927",
+  "published_at": "2026-10-31T07:45:15+08:00",
+  "collected_at": "2026-10-31T08:57:34+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "views": 16
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "98% 成功率、交付数量和客户均为公司自述，未公开客户名",
+    "“小批量”具体台数未披露",
+    "只有一张图，没有视频；图片来自个人号，原图出处未核实"
+  ],
+  "credit": "来源：X @lucky94w",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 138621,
+      "sha256": "0ec2a8a4143868eecfbd33752a6bce017edbcb4e6cbd94df0bdf6f05e816e685",
+      "orig_name": "005_1.jpg"
+    }
+  ]
+}

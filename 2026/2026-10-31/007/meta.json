@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-10-31",
+  "title": "人形机器人“天工 3.0”敲编钟演奏古曲",
+  "summary": "X 上科技博主 @bamitav 发布 27 秒竖屏视频，称是中国人形机器人“天工 3.0”双手持槌敲击传统青铜编钟演奏乐曲，展示精准度和协调性。天工系列来自北京人形机器人创新中心。",
+  "category": "文化/演示",
+  "company": "北京人形机器人创新中心（天工）",
+  "source": "X：@bamitav（科技博主转发，原始出处未找到，来源网络）",
+  "source_url": "https://x.com/bamitav/status/2116136826960507259",
+  "published_at": "2026-10-30T19:55:10+08:00",
+  "collected_at": "2026-10-31T08:57:34+08:00",
+  "engagement": {
+    "likes": 8,
+    "reposts": 4,
+    "replies": 1,
+    "views": 666
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频原始出处和拍摄时间未找到，可能是旧视频",
+    "机器人型号“天工 3.0”为转发者所写，未核实",
+    "是否为自主演奏或预设动作不明",
+    "建议作为备选或轻松收尾使用"
+  ],
+  "credit": "来源：X @bamitav",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 26.92,
+      "transcoded": true,
+      "bytes": 4256790,
+      "sha256": "1b007ed289c0dda3619401f284bc73ae6e66c0937a017a97b6aa878456203859",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 114682,
+      "sha256": "b6dda5282c315527c72458c107101a5aca4c18f767248e90e16d0bee828c51cd",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

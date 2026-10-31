@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-10-31",
+  "title": "宇树生态伙伴智无际：G1 人形机器人打网球，正反手切换",
+  "summary": "宇树合作伙伴、杭州智无际（EndlessAI）在 X 发布 57 秒 4K 视频，称是在宇树合作伙伴生态大会上首次公开亮相的网球人形机器人：画面中宇树 G1 人形机器人快速移动步伐，在正手和反手之间切换回球。据东方网报道，大会 10 月 22 日在杭州举行，智无际与动捕公司青瞳视觉联合展示了机器人乒乓球、网球和篮球，现场用光学动捕系统实时追踪球的轨迹和机器人位置，帮助机器人预测来球和决定击球动作。",
+  "category": "运动/演示",
+  "company": "智无际 EndlessAI（宇树 G1）",
+  "source": "X：@EndlessAICorp（智无际官方，第一手）；背景见东方网报道",
+  "source_url": "https://x.com/EndlessAICorp/status/2116137288765935768",
+  "published_at": "2026-10-30T19:57:00+08:00",
+  "collected_at": "2026-10-31T08:57:34+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 4
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "现场演示在 10 月 22 日，视频 10 月 30 日才发布",
+    "据报道现场依赖外部动捕系统追踪球和机器人，不是只靠机器人自带摄像头；口播不要说成“完全自主看球”",
+    "原帖互动量很低"
+  ],
+  "credit": "来源：X @EndlessAICorp",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 57.28,
+      "transcoded": true,
+      "bytes": 11473041,
+      "sha256": "7e4d98235d73bb139991707c7420ebccac202c2bc53346a628fe69143ac79a4a",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 209769,
+      "sha256": "21d2a9e7a214815f5a442b35b60dde5ae8fda2871c5e053c9c34e5d369a666df",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}
