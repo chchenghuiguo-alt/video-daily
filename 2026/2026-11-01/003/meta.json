@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-01",
+  "title": "荷兰 Monumental：一栋房子的砖全部由机器人砌完，接下来还有 15 栋",
+  "summary": "阿姆斯特丹创业公司 Monumental 创始人兼 CEO Salar al Khafaji（@salar）发帖称，他们的机器人在荷兰阿尔梅勒市（Almere）完成了一栋真实住宅的砌砖：有弧形墙、不同种类的砖和砌法，还砌出了内凹文字，“100% 的砖都由我们的机器人完成”，未来几周还有另外 15 栋房子。帖子获约 4,700 赞、60 万浏览，近两天被大量转发。配发 4K 视频 24 秒。",
+  "category": "建筑机器人/落地应用",
+  "company": "Monumental",
+  "source": "X：@salar（Monumental 创始人，第一手）",
+  "source_url": "https://x.com/salar/status/2115459435300532266",
+  "published_at": "2026-10-28T23:03:27+08:00",
+  "collected_at": "2026-11-01T09:02:09+08:00",
+  "engagement": {
+    "likes": 4746,
+    "reposts": 479,
+    "replies": 207,
+    "views": 607780
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "原帖发布于 10-28，超过 24 小时窗口；因前几天未收且近两天持续发酵补收",
+    "“100% 由机器人砌砖”为公司自述；砂浆、地基等其他工序是否有人参与，原帖未说明",
+    "“另外 15 栋”为公司计划"
+  ],
+  "credit": "来源：X @salar",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 24.26,
+      "transcoded": true,
+      "bytes": 7837487,
+      "sha256": "aca61ea123a091b4340310e7e408e9af6d5d7883aa3ece6a7be82a72393b65bd",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 200153,
+      "sha256": "9fdab62f22d1d85e51672ff554ad50bff547102f0c6b39e5f6e7c5abff54feb9",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

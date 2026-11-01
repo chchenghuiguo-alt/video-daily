@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-01",
+  "title": "据称宇树演示“聊天框编舞”：输入一段话，8 台人形机器人同步跳舞",
+  "summary": "X 账号 @SchiedC60393 发布一段 16 秒视频，称宇树（Unitree）展示了用聊天框给一队人形机器人编舞：屏幕上的指令写着先静止 2 秒、然后全体同步跳“Popping 1”、任意两台不碰撞、路径保持平滑；发送后软件为每台机器人生成时间线，8 台机器人在聚光灯下排队形起舞；同一界面实时监控每台机器人，电量告急时会单独让那一台停下。视频画面偏暗，为舞台表演。",
+  "category": "产品演示/多机协同",
+  "company": "宇树 Unitree（据称）",
+  "source": "X：@SchiedC60393（个人号，未注明原始出处，来源网络）",
+  "source_url": "https://x.com/SchiedC60393/status/2116651919557185996",
+  "published_at": "2026-11-01T06:01:57+08:00",
+  "collected_at": "2026-11-01T09:02:09+08:00",
+  "engagement": {
+    "likes": 15,
+    "reposts": 0,
+    "replies": 3,
+    "views": 364
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "未在 @UnitreeRobotics 官方账号近几天的帖子里找到这段视频，原始出处和发布时间不明",
+    "“宇树发布”“8 台机器人”“电量告急单独停机”均为发帖者描述，待核实",
+    "视频较暗，剪辑时可能需要提亮"
+  ],
+  "credit": "来源：X @SchiedC60393",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 604,
+      "codec": "h264",
+      "fps": 31.09,
+      "has_audio": true,
+      "duration": 15.68,
+      "transcoded": true,
+      "bytes": 4727066,
+      "sha256": "c7a8b5cf38b944b4bac0221117887d250a333738f6a8ca5c6825b66673247ad4",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 670,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 22579,
+      "sha256": "c972505437a6b55783ae743ee1b6f16ab6044b6861395e240988e3b54e434a2b",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

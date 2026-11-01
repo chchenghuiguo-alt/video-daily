@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-01",
+  "title": "Roboflow 上线异常检测：只用 237 张“好橙子”照片，就能找出烂橙子",
+  "summary": "机器人与 AI 博主 Ilir Aliu（@IlirAliu_）介绍，计算机视觉公司 Roboflow 新推出异常检测模型支持，解决工厂质检“次品太少、每次长得都不一样”的难题：只拿合格品训练，让模型学会“正常长什么样”，再标出没见过的缺陷，并用热力图标出位置。示例：用 237 张好橙子图片训练后，能找出腐烂和斑点；在鸡蛋分拣线上检测污渍、破损。支持 PatchCore 和 FoundAD 两种架构，在鸡蛋测试集上 PatchCore 抓到 15 个缺陷中的 14 个，误报 2 次。配发 13 秒视频（无声）。",
+  "category": "工业视觉/质检",
+  "company": "Roboflow",
+  "source": "X：@IlirAliu_（博主，介绍 Roboflow 发布）",
+  "source_url": "https://x.com/IlirAliu_/status/2116455385905209432",
+  "published_at": "2026-10-31T17:01:00+08:00",
+  "collected_at": "2026-11-01T09:02:09+08:00",
+  "engagement": {
+    "likes": 94,
+    "reposts": 10,
+    "replies": 15,
+    "views": 5720
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "检测数字（237 张、15 个中 14 个、误报 2 次）来自 Roboflow 示例，经博主转述，未独立验证",
+    "视频没有声音"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": false,
+      "duration": 12.96,
+      "transcoded": true,
+      "bytes": 3423030,
+      "sha256": "6af169cde22f0716e6ec539931ec029b1b6312b2f66705bcf10e3dde22b0ae60",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 128271,
+      "sha256": "0a23472f88635303bd408b51d9ac4c52dfbf9772b5af9b85474409f3060c37e6",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

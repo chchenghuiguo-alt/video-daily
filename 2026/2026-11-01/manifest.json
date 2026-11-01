@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-01",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "外媒：Meta 找中国傅利叶，三个月造出人形机器人原型 Max",
+      "selected": null,
+      "bytes": 81772,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "002",
+      "title": "Lightberry 人形机器人 Lumi 称获美国政府“有条件批准”，可豁免 FCC 外国机器人禁令",
+      "selected": null,
+      "bytes": 14645861,
+      "has_video": true,
+      "duration": 60.86
+    },
+    {
+      "id": "003",
+      "title": "荷兰 Monumental：一栋房子的砖全部由机器人砌完，接下来还有 15 栋",
+      "selected": null,
+      "bytes": 8037640,
+      "has_video": true,
+      "duration": 24.26
+    },
+    {
+      "id": "004",
+      "title": "家用机器人 Matic 万圣节上新：喊一声“Hey Matic, cheese”就拍照",
+      "selected": null,
+      "bytes": 2655140,
+      "has_video": true,
+      "duration": 26.91
+    },
+    {
+      "id": "005",
+      "title": "Roboflow 上线异常检测：只用 237 张“好橙子”照片，就能找出烂橙子",
+      "selected": null,
+      "bytes": 3551301,
+      "has_video": true,
+      "duration": 12.96
+    },
+    {
+      "id": "006",
+      "title": "据称京东七鲜咖啡上岗机器人咖啡师：无界动力 K15 双臂轮式机器人从接单做到出杯",
+      "selected": null,
+      "bytes": 36951,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "007",
+      "title": "据称宇树演示“聊天框编舞”：输入一段话，8 台人形机器人同步跳舞",
+      "selected": null,
+      "bytes": 4749645,
+      "has_video": true,
+      "duration": 15.68
+    }
+  ],
+  "order": [],
+  "total_bytes": 33758310,
+  "updated_at": "2026-11-01T09:02:09+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

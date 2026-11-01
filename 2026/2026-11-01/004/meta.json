@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-01",
+  "title": "家用机器人 Matic 万圣节上新：喊一声“Hey Matic, cheese”就拍照",
+  "summary": "家用扫地机器人公司 Matic（@maticrobots）万圣节发布新功能：对机器人说“Hey Matic, cheese!”，它就会拍一张照片，官方说“正好用来拍万圣节装扮”。配发 27 秒竖屏视频。功能引发部分用户对隐私的讨论；科技博主 Robert Scoble（@Scobleizer）回复称，必须先喊口令才会拍照，照片也只存在用户自己的设备上，除非用户主动分享。",
+  "category": "家用机器人/新功能",
+  "company": "Matic",
+  "source": "X：@maticrobots（官方）；@Scobleizer 回复",
+  "source_url": "https://x.com/maticrobots/status/2116671863380381906",
+  "published_at": "2026-11-01T07:21:12+08:00",
+  "collected_at": "2026-11-01T09:02:09+08:00",
+  "engagement": {
+    "likes": 8,
+    "reposts": 1,
+    "replies": 0,
+    "views": 834
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“照片只走本地 Wi-Fi、不上云、未保存会删除、之后会加关闭选项”等说法来自 X 新闻摘要和第三方回复，官方原帖未写",
+    "原帖互动量很低，属于轻松向小新闻"
+  ],
+  "credit": "来源：X @maticrobots",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 26.91,
+      "transcoded": true,
+      "bytes": 2595131,
+      "sha256": "f9b7c137e88067bdf1eef83623b6a1df3334839ddb298e86292d42ad56fec008",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 60009,
+      "sha256": "3d92e1fcff756cc1d9b9baadc23fb70316da45ecb2b601f0b22b457804f2ade4",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}
