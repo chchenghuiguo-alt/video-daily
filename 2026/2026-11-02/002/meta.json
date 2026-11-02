@@ -1,0 +1,68 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-02",
+  "title": "Lucen Robotics 发布模块化机器人套件 Laika：一套零件拼成双足、四足、轮式和机械臂，不到 6000 美元",
+  "summary": "创业公司 Lucen Robotics 推出开源模块化机器人套件 Laika。创始人 Linyan Fu（@Linyan_Fu）10 月 30 日发帖称，同一套核心执行器可以改装成双足机器人、7 自由度机械臂、双臂、轮式机器人和四足机器人，可复用、可维修、开放；全套配置不到 6000 美元，相当于一套顶 4 台机器人，她称比宇树 EDU 版便宜 3 倍；单独的机械臂套件 1999 美元起。预订已开放，限量 100 套，12 月发货，获 Founders, Inc.（@fdotinc）早期支持。机器人媒体号 @ctorobotics 11 月 1 日转发了 72 秒竖屏介绍视频（视频出自 Founders, Inc.），并提到固件和 SDK 开放。",
+  "category": "产品发布/开源硬件",
+  "company": "Lucen Robotics",
+  "source": "X：@Linyan_Fu（Lucen Robotics 创始人，官方发布 https://x.com/Linyan_Fu/status/2115886534293614868 ）；视频来自 @ctorobotics（媒体号，注明视频出自 Founders, Inc.）",
+  "source_url": "https://x.com/ctorobotics/status/2116893028304728148",
+  "published_at": "2026-11-01T22:00:02+08:00",
+  "collected_at": "2026-11-02T08:59:56+08:00",
+  "engagement": {
+    "likes": 27,
+    "reposts": 2,
+    "replies": 7,
+    "views": 989,
+    "original_post_likes": 216,
+    "original_post_views": 28061
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方发布时间是 10 月 30 日 03:20（UTC+8），不是当天新闻；视频是 11 月 1 日媒体号转发",
+    "价格、“比宇树 EDU 便宜 3 倍”、限量 100 套、12 月发货均为公司自述",
+    "“开放固件和 SDK”出自媒体号 @ctorobotics 的介绍，创始人原帖只写了 open"
+  ],
+  "credit": "来源：X @ctorobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 72.13,
+      "transcoded": true,
+      "bytes": 16579167,
+      "sha256": "098d1f2e9f2e59529394fc8f6b6228235a6548e5b920e00013b94a87b9e8669a",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 79382,
+      "sha256": "6dcbaa8b4859d37a335ae550b579039da0e87ac64965996a2187136b975195f4",
+      "orig_name": "002_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 107672,
+      "sha256": "717137f9c951d6f57c10ce059647a0f962eae14650f78e3b4217d15d7446c92d",
+      "orig_name": "002_2.jpg"
+    }
+  ]
+}

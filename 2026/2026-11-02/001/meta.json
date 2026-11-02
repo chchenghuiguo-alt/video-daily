@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-02",
+  "title": "哈佛 GRASP：先在仿真里“修正”人类示范动作，机器人灵巧手转笔、人形机器人搬物更好学",
+  "summary": "哈佛大学计算机器人组（Harvard Computational Robotics Group）负责人 Heng Yang（@hankyang94）11 月 1 日发布 GRASP 方法：用梯度引导采样，把从人类示范里直接“照搬”的动作，在物理仿真中修正成机器人真正做得到的参考轨迹。团队指出，按关节直接映射的动作看起来对，但需要的接触和力学机器人往往实现不了，后续强化学习只能一边学技能一边追一个物理上不自洽的目标。GRASP 在学策略之前先把参考动作修好，帖子展示了转笔和人形机器人与物体交互两类任务。真机上，团队在 Sharpa 灵巧手上做了开环轨迹回放，在宇树 G1 人形机器人上部署了学到的跟踪策略。配发视频约 2 分钟，横屏。",
+  "category": "科研/灵巧操作",
+  "company": "哈佛大学（Harvard Computational Robotics Group）",
+  "source": "X：@hankyang94（Heng Yang，哈佛计算机器人组，第一手研究者发布）",
+  "source_url": "https://x.com/hankyang94/status/2116691190389379302",
+  "published_at": "2026-11-01T08:38:00+08:00",
+  "collected_at": "2026-11-02T08:59:56+08:00",
+  "engagement": {
+    "likes": 160,
+    "reposts": 31,
+    "replies": 11,
+    "views": 13885
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "效果好坏是论文作者自述，帖子未给出具体量化数字，口播不要编数字",
+    "“哈佛”身份依据帖子自述（Harvard Computational Robotics Group）"
+  ],
+  "credit": "来源：X @hankyang94",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 119.06,
+      "transcoded": true,
+      "bytes": 12426477,
+      "sha256": "b2f6c7579b99c91a10a9ed6000380e673e50384afcc8e65d4b29b991fde82f2d",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 81559,
+      "sha256": "9129d66741663dd8b0f33ee1277f435dde80ad36bab2f3359883546749bf9429",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

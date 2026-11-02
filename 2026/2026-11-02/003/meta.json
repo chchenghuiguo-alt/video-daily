@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-02",
+  "title": "上海源策未来（Archon Robotics）做人形机器人“全身智能”基础模型，走路、操作、感知一体训练",
+  "summary": "据机器人媒体号 @ctorobotics 介绍，上海具身智能创业公司源策未来（Archon Robotics，@Archon_Robotics）正在开发其所称的“面向全身智能的人形机器人基础模型”：不再把走路、操作、感知和控制当作互相独立的问题，而是用一个可扩展的学习框架把整个身体连起来。其路线包括四部分：用大规模人类全身动作数据做预训练，用机器人数据做真实世界校准，用仿真和失败数据做适应与恢复，再通过高效后训练把模型能力变成可部署的技能。配发 31 秒横屏视频，画面为人形机器人在厨房等场景活动。媒体号把它称作“中国版人形机器人 OpenAI”。",
+  "category": "具身模型/创业公司",
+  "company": "源策未来 Archon Robotics",
+  "source": "X：@ctorobotics（媒体号，自称不拥有相关技术、版权归原作者）；公司账号 @Archon_Robotics",
+  "source_url": "https://x.com/ctorobotics/status/2116757125640671619",
+  "published_at": "2026-11-01T13:00:00+08:00",
+  "collected_at": "2026-11-02T08:59:56+08:00",
+  "engagement": {
+    "likes": 65,
+    "reposts": 6,
+    "replies": 2,
+    "views": 4960
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "技术路线来自媒体号转述，未核对公司官方原文；没有公开的模型指标或论文",
+    "“中国版 OpenAI”是媒体号的说法，不是公司或第三方评价",
+    "视频中的动作是否全自主、是否加速，帖子未说明"
+  ],
+  "credit": "来源：X @ctorobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 31.17,
+      "transcoded": true,
+      "bytes": 2884639,
+      "sha256": "26d6f3957d426900a5e660bd450c5efc9427ded5d5337fc9e1295a1da94b9600",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 54175,
+      "sha256": "3d50bb92ae4d4ee336b11ea5a0811ee4c3f9a488eee513d17d4e0d952f13595b",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

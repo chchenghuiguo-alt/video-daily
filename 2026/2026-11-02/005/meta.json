@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-02",
+  "title": "宇树机器狗亮相泰山具身智能洽谈会，轮足机器狗空翻吸引围观",
+  "summary": "X 用户 @xitin655326 11 月 1 日发帖称，宇树科技亮相泰山具身智能洽谈会，机器狗空翻表演吸引不少嘉宾驻足围观。帖子附 3 张现场照片和 1 段 59 秒竖屏视频，画面中可见一台轮足机器狗在展台地垫上做动作。帖子浏览约 4.3 万次。",
+  "category": "展会/现场",
+  "company": "宇树科技 Unitree",
+  "source": "X：@xitin655326（个人号，现场拍摄或搬运不明）",
+  "source_url": "https://x.com/xitin655326/status/2116721676973187186",
+  "published_at": "2026-11-01T10:39:09+08:00",
+  "collected_at": "2026-11-02T08:59:56+08:00",
+  "engagement": {
+    "likes": 21,
+    "reposts": 1,
+    "replies": 6,
+    "views": 42948
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "个人号发布，活动名称、时间和地点未见官方或媒体报道核实",
+    "视频里的机器狗型号帖子未说明，“宇树”是发帖人说法",
+    "是否为现场原创拍摄不明，署名建议写“来源网络 / @xitin655326”"
+  ],
+  "credit": "来源：X @xitin655326",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 59.3,
+      "transcoded": true,
+      "bytes": 18365792,
+      "sha256": "f7c79a45e1044ee39d55ffa2cc9e298652a7b6b5b6105f3c1bc9e880d1941b31",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 137038,
+      "sha256": "da041e0b70e70cbcd294d75dd3af2e4604223a3e06a0700213e5f459cf3e014c",
+      "orig_name": "005_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1440,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 414455,
+      "sha256": "7d083bd5c8f680f01eb1af8141c33280074aefa1d9bea786e0647f57bbabdbbe",
+      "orig_name": "005_2.jpg"
+    }
+  ]
+}

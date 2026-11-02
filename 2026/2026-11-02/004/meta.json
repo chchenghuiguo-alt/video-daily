@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-02",
+  "title": "人形机器人“躲避球”：新论文用强化学习教机器人闪躲迎面飞来的物体",
+  "summary": "arXiv 预印本 2610.40003《Humanoid Dodgeball》（10 月 29 日提交，作者包括 Aoqian Zhang、Fan Shi、Shuzhi Sam Ge 等）提出一个强化学习框架，让人形机器人在保持平衡、动作物理可行的前提下，快速做出全身闪避动作躲开飞来的物体。方法要点：按威胁程度设计奖励，并用多个按方向区分的对抗式动作先验，把学到的动作约束得稳定、多样、像人。摘要称仿真和真机实验显示，在不同的物体速度和发射距离下，闪避表现都明显提升。科普号 @mengpaper 11 月 1 日发布 57 秒竖屏讲解视频，视频里列出的参与单位为新加坡国立大学、机器人公司众擎（EngineAI）和大连理工大学。",
+  "category": "科研/人形运动控制",
+  "company": "新加坡国立大学 / 众擎 EngineAI / 大连理工大学（据视频）",
+  "source": "X：@mengpaper（论文科普个人号，讲解视频）；论文 https://arxiv.org/abs/2610.40003",
+  "source_url": "https://x.com/mengpaper/status/2116880540846669954",
+  "published_at": "2026-11-01T21:10:25+08:00",
+  "collected_at": "2026-11-02T08:59:56+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 5
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频是科普号制作的动画讲解，不是作者团队官方视频；其中是否含真机画面需剪辑时逐段确认",
+    "参与单位（NUS、众擎、大连理工）取自视频画面，arXiv 摘要页未核对作者单位",
+    "“明显提升”是论文摘要原话，没有具体数字",
+    "原帖互动极低，主要价值在论文本身"
+  ],
+  "credit": "来源：X @mengpaper",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 56.68,
+      "transcoded": true,
+      "bytes": 3561745,
+      "sha256": "5ccfafadc191a9465e4ef0b26d48bd705d0b91b8a8f1c95c663724fe40ce5133",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 42692,
+      "sha256": "dbafce6f615f632bbb074f1fb9e6fc6e7faeb19a6af6d00ea72ffe6e9f5ddf8b",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}
