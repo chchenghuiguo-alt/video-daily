@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-03",
+  "title": "Agility Robotics 借壳上市获股东批准：11 月 4 日完成合并，5 日起以 AGLT 在纳斯达克交易",
+  "summary": "Agility Robotics 官方（@agilityrobotics）11 月 3 日 06:38（UTC+8）发帖：特殊目的收购公司 Churchill Capital Corp XI（纳斯达克代码 CCXI）的股东当天批准了与 Agility Robotics 的业务合并，预计 11 月 4 日完成交割，11 月 5 日起以代码 AGLT 在纳斯达克交易。配图为官方公告图。",
+  "category": "资本/人形机器人",
+  "company": "Agility Robotics",
+  "source": "X：@agilityrobotics（官方）",
+  "source_url": "https://x.com/agilityrobotics/status/2117385924820775003",
+  "published_at": "2026-11-03T06:38:38+08:00",
+  "collected_at": "2026-11-03T08:57:05+08:00",
+  "engagement": {
+    "likes": 120,
+    "reposts": 9,
+    "replies": 12,
+    "views": 6434
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "10-31 已收过“11 月 5 日上市”，这条是股东批准的后续进展，可做简短更新",
+    "交割和交易日期是“预计”，以实际为准",
+    "只有一张公告图，没有视频"
+  ],
+  "credit": "来源：X @agilityrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1280,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 49761,
+      "sha256": "7cafc575364e219a506497a48dabe046a3362d426b253b4fb84b7165a346e389",
+      "orig_name": "006_1.jpg"
+    }
+  ]
+}

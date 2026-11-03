@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-03",
+  "title": "渐冻症患者用 Neuralink 脑机接口“意念”操控 Matic 家用机器人在家里移动",
+  "summary": "家用机器人公司 Matic Robots（@maticrobots）11 月 3 日 01:41（UTC+8）发布 26 秒视频：Neuralink 第 22 位受试者 Zach 用意念控制 Matic 机器人在家中移动。Matic 机器人本身是会自己建图的扫地拖地机器人。多家账号转述称 Zach 患有渐冻症（ALS），全名 Zach McManus。",
+  "category": "脑机接口/家用机器人",
+  "company": "Matic Robots；Neuralink",
+  "source": "X：@maticrobots（Matic Robots 官方）",
+  "source_url": "https://x.com/maticrobots/status/2117311176657059992",
+  "published_at": "2026-11-03T01:41:36+08:00",
+  "collected_at": "2026-11-03T08:57:05+08:00",
+  "engagement": {
+    "likes": 471,
+    "reposts": 57,
+    "replies": 28,
+    "views": 47074
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "有账号（@servospace、@PulsoIA_ES）称 Zach 本人 10 月 20 日就发过这段演示，Matic 是 11 月 2 日转发扩散，不一定是首发",
+    "植入物如何连到机器人，官方没有解释",
+    "ALS、全名 Zach McManus 来自转述账号，Matic 原帖只写了 Zach 和“第 22 位患者”",
+    "11-01 已收过 Matic 拍照功能，这条是新内容"
+  ],
+  "credit": "来源：X @maticrobots",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 612,
+      "codec": "h264",
+      "fps": 59.94,
+      "has_audio": true,
+      "duration": 25.7,
+      "transcoded": true,
+      "bytes": 5928360,
+      "sha256": "4ceaea30e5ea066f568bdc963009907085b5ef6ec52853e5c17de7eda5e3a6ec",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 680,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 169390,
+      "sha256": "54bffcdba85820359fa831e37828912f02720c4e78b0acffeeca9120e933c3d4",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-03",
+  "title": "micro1 要在马里布建真机评测实验室：在同一批真实机械臂和人形机器人上比较机器人模型",
+  "summary": "机器人博主 Ilir Aliu（@IlirAliu_）发布播客 22Astronauts 新一期预告（38 秒横屏）：嘉宾是 AI 数据公司 micro1 的 CEO Ali Ansari（@aliansarinik）。帖子称几乎没人在同一套真实硬件上测试机器人模型，所以说不清哪个更好；micro1 要在马里布建实验室，先在真实机械臂和人形机器人上做安全评测，主张用真实世界而不是仿真做基准。按 Ali 的说法，micro1 的机器人业务年化收入已超过 1 亿美元；公司让全球数千人拍摄家务，已有 10 万多小时第一视角视频，重点在后期标注（动作标签、手部姿态等）。",
+  "category": "数据/评测",
+  "company": "micro1",
+  "source": "X：@IlirAliu_（播客 22Astronauts 主持人，采访一手）",
+  "source_url": "https://x.com/IlirAliu_/status/2117322287963660488",
+  "published_at": "2026-11-03T02:25:46+08:00",
+  "collected_at": "2026-11-03T08:57:05+08:00",
+  "engagement": {
+    "likes": 7,
+    "reposts": 0,
+    "replies": 8,
+    "views": 1037
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“机器人业务年化收入超 1 亿美元”“10 万多小时第一视角视频”均为 Ali 本人说法，原帖写的是 By his account",
+    "实验室规模、开放时间帖子没有说",
+    "视频是播客访谈画面，机器人画面可能有限"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 37.95,
+      "transcoded": true,
+      "bytes": 1768694,
+      "sha256": "354aa3c4b39d170722a82b15eeb7c20356a304cf66dc205b33e34841872b0e31",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 64288,
+      "sha256": "f05232f56fa5668ef423e3f092b671d8030a29871a29b04239cd801320751efe",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

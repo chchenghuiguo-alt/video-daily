@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Figure 新造好的 F.03 人形机器人自己走出 BotQ 工厂，排队穿过园区",
+      "selected": null,
+      "bytes": 4444666,
+      "has_video": true,
+      "duration": 19.46
+    },
+    {
+      "id": "002",
+      "title": "首届机器人登泰山大赛开赛：机器狗轻松爬 3100 级台阶，人形机器人踉跄，一台宇树 G1 过热被担架抬下山",
+      "selected": null,
+      "bytes": 15088330,
+      "has_video": true,
+      "duration": 36.21
+    },
+    {
+      "id": "003",
+      "title": "渐冻症患者用 Neuralink 脑机接口“意念”操控 Matic 家用机器人在家里移动",
+      "selected": null,
+      "bytes": 6097750,
+      "has_video": true,
+      "duration": 25.7
+    },
+    {
+      "id": "004",
+      "title": "波士顿动力 CFO 首次谈价格：机器狗 Spot 基础款约 10 万美元，加配件最高 30 万",
+      "selected": null,
+      "bytes": 15912226,
+      "has_video": true,
+      "duration": 74.86
+    },
+    {
+      "id": "005",
+      "title": "micro1 要在马里布建真机评测实验室：在同一批真实机械臂和人形机器人上比较机器人模型",
+      "selected": null,
+      "bytes": 1832982,
+      "has_video": true,
+      "duration": 37.95
+    },
+    {
+      "id": "006",
+      "title": "Agility Robotics 借壳上市获股东批准：11 月 4 日完成合并，5 日起以 AGLT 在纳斯达克交易",
+      "selected": null,
+      "bytes": 49761,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "007",
+      "title": "Phoenix 技术报告：视觉加触觉仿真器再训练，机器人插试管的真机成功率从 58% 提到 75%",
+      "selected": null,
+      "bytes": 382585,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 43808300,
+  "updated_at": "2026-11-03T08:57:05+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
