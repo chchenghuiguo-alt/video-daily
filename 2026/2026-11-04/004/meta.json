@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-04",
+  "title": "优必选超仿生人形机器人 U1 Pro 亮相乌镇：硅胶皮肤、会眨眼会聊天，标价 16.98 万元",
+  "summary": "11 月 3 日（周二），优必选的全尺寸超仿生人形机器人在世界互联网大会乌镇峰会“互联网之光”博览会亮相。印度媒体 The Federal 发布 42 秒竖屏视频（23:41 UTC+8）：机器人有逼真的皮肤质感和微表情，能流畅对话，会眨眼、抬手、转头，观众与它握手、聊天、合影；报道称售价 169,800 元（约 2.5 万美元），一位吴女士说价格可以接受，想买一台帮忙做家务。菲律宾 TV5 News 同日发布 52 秒横屏现场视频。另有多条中文帖称该机型叫 U1 Pro（昵称“小优”），主打情感陪伴，坐姿展出，不会走路、不做家务。",
+  "category": "人形机器人/仿生陪伴",
+  "company": "优必选 UBTECH",
+  "source": "X：@TheFederal_News（The Federal，印度媒体）；@TV5NewsPH（TV5 News，菲律宾电视台）",
+  "source_url": "https://x.com/TheFederal_News/status/2117643338442743899",
+  "published_at": "2026-11-03T23:41:30+08:00",
+  "collected_at": "2026-11-04T09:08:05+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 304
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "型号“U1 Pro”、“全球首款可量产全尺寸仿真机器人”、硅胶皮肤恒温 37℃等说法来自个人号转述（@PolyOkeyZHO、@jill_adc1988），没找到优必选官方 X 帖",
+    "售价 16.98 万元来自 The Federal 报道和中文转述，未见官方公告",
+    "“想买来做家务”是观众说法，中文转述称该机器人不做家务，口播注意别矛盾"
+  ],
+  "credit": "来源：X @TheFederal_News",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 42.26,
+      "transcoded": true,
+      "bytes": 5621285,
+      "sha256": "56d41a315c5b77ace6dda54f4bbf767b6779335485b3ca4993a235680466d960",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 120093,
+      "sha256": "92f640a465fe1508657342385da6a56db1f2aa8b5a21bfe2533d2c33e44218f5",
+      "orig_name": "004_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 59.94,
+      "has_audio": true,
+      "duration": 51.62,
+      "transcoded": true,
+      "bytes": 8864042,
+      "sha256": "e1aec57aa9bd8fe1697acbed2a9b36c7147ce8361d67bfcb09ad3a5d6b3945b2",
+      "orig_name": "004_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 123671,
+      "sha256": "6040f7c883a841bd4ecabf2d8f6f8ce0f8235aa09c87fda6420bb128d49eadff",
+      "orig_name": "004_2_thumb.jpg"
+    }
+  ]
+}

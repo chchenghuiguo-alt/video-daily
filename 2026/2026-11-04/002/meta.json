@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-04",
+  "title": "小米具身大模型 Xiaomi-Robotics-1 进青年公寓试运行：30 分钟跨 3 个房间完成 50 多个任务链",
+  "summary": "同一天 18:07（UTC+8），@XiaomiTech_ 发布 2 分 37 秒视频：由 Xiaomi-Robotics-1 驱动的具身智能系统经过多轮后训练、加强了 Agent 框架后，开始在小米青年公寓试运行。官方称在一次 30 分钟的运行中，跨 3 个房间完成了 50 多个任务链。视频里是一台双臂轮式机器人（不是双足人形），收纳桌面、把书放回书架、用簸箕清扫桌面碎屑、搬收纳篮；画面右侧显示任务和机器人当前的“思考”步骤，并标注“autonomous, 4x/20x speed”，片中字幕“32 minutes. 3 rooms. … Zero cuts.”。官方还称 Xiaomi-Robotics-1 获得了世界互联网大会“领先科技奖”。",
+  "category": "具身智能/家庭场景",
+  "company": "小米",
+  "source": "X：@XiaomiTech_（Xiaomi Tech，小米官方技术账号，第一手）",
+  "source_url": "https://x.com/XiaomiTech_/status/2117559275627348274",
+  "published_at": "2026-11-03T18:07:28+08:00",
+  "collected_at": "2026-11-04T09:08:05+08:00",
+  "engagement": {
+    "likes": 168,
+    "reposts": 25,
+    "replies": 8,
+    "views": 10005
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“30 分钟 50 多个任务链”“无剪辑”是小米自述，视频是 4 倍/20 倍速",
+    "视频里是双臂轮式机器人，不要说成人形机器人",
+    "画面是超宽 21:9，竖屏使用需裁切"
+  ],
+  "credit": "来源：X @XiaomiTech_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 460,
+      "codec": "h264",
+      "fps": 50.0,
+      "has_audio": true,
+      "duration": 157.08,
+      "transcoded": true,
+      "bytes": 33955708,
+      "sha256": "a0b094739f9498c729c3a25bb1a3382665b4c2138d9cc3402b7c6ec5ac839c0a",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 512,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 42062,
+      "sha256": "0d989024d6eb08c4bd1addf761e2d929c19730c298dadc8b51a8c34a6848cdf1",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

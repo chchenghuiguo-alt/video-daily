@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-04",
+  "title": "波士顿动力发布第二代卸货机器人 Stretch Gen 2：主打“少停机、好维修”",
+  "summary": "Boston Dynamics 官方 11 月 4 日 01:03（UTC+8）宣布 Stretch Gen 2，即第二代自主移动卸货机器人（从集装箱/货车车厢里卸箱子）。物流机器人业务副总裁兼总经理 Brian Donnelly 在帖中说：客户靠 Stretch 让货物流动，机器人闲置一小时，月台上的活就堆一小时；Gen 2 专门针对真实场景里让机器人停机的问题，做得更耐用、更容易维修，并且部署后还会持续变好。帖子配一张产品图。多家转述（引用波士顿动力官网）称：Gen 2 基于 10 万多小时实际运行经验，内部线缆减少 81%，更换一整套驱动模块从一整天缩短到约 1 小时，最高每小时可搬约 1000 箱。",
+  "category": "物流机器人/新品",
+  "company": "Boston Dynamics",
+  "source": "X：@BostonDynamics（官方，第一手）",
+  "source_url": "https://x.com/BostonDynamics/status/2117663862564573240",
+  "published_at": "2026-11-04T01:03:03+08:00",
+  "collected_at": "2026-11-04T09:08:05+08:00",
+  "engagement": {
+    "likes": 342,
+    "reposts": 39,
+    "replies": 21,
+    "views": 14096
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "线缆减少 81%、换驱动约 1 小时、10 万小时运行、每小时 1000 箱等数字来自转述帖（@LogicalSG、@xmercury_one、@cyrus77x 等），官方 X 原帖没写，官网原文未能打开核对",
+    "官方帖只有一张图，没有视频"
+  ],
+  "credit": "来源：X @BostonDynamics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1440,
+      "h": 1016,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 372618,
+      "sha256": "618b33ec9fc8450ee2342fafdaf11e40db20ef9aacc5bbaa469a807ccf19b1b8",
+      "orig_name": "003_1.jpg"
+    }
+  ]
+}

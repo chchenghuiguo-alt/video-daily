@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-04",
+  "title": "韩国首个人形机器人“数据工厂”在大田启用：12 台人形机器人遥操作做家务，专门产训练数据",
+  "summary": "11 月 3 日，韩国首个“AI 人形机器人数据工厂”在大田的韩国机械研究院（KIMM）启用，与电子通信研究院（ETRI）共建，属于科学技术信息通信部 K-Moonshot 项目。据转述：两层约 1000 平方米，目前 12 台人形机器人，计划增至 25 台；由人遥控或动作映射让机器人从冰箱取物、处理衣物、收拾沙发、按车内按钮和拉杆，每个关节动作都记录下来训练视觉-语言-动作模型；KIMM 自研人形机器人 KAIROS 在仪式上演示，首个完整版本预计 2027 年 4 月；2027 年底起分阶段向企业、大学和研究机构开放。韩国 ZDNet 也报道了“服务 2027 年底开放”。",
+  "category": "具身智能/数据",
+  "company": "韩国机械研究院 KIMM / ETRI",
+  "source": "X：@meimachines（个人号，中文解读+10 秒视频）；@Goeun_6121（个人号，长文+图）；@zdnet_kor（韩国 ZDNet）",
+  "source_url": "https://x.com/meimachines/status/2117614348436656287",
+  "published_at": "2026-11-03T21:46:18+08:00",
+  "collected_at": "2026-11-04T09:08:05+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "views": 66
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "面积、台数、扩到 25 台、KAIROS 2027 年 4 月等细节来自个人号转述，未看到 KIMM/科技部原始公告",
+    "视频和图片原始出处不明，标注“来源网络”",
+    "“中国至少 90 个数据训练中心”是 @meimachines 引 Interact Analysis 的对比，非本条新闻本身"
+  ],
+  "credit": "来源：X @meimachines",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 612,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 10.1,
+      "transcoded": true,
+      "bytes": 2054006,
+      "sha256": "ea4cf30b5b068859f29fbcda62681de274cda8d50f273c9f0492aa51869bf5a2",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 680,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 117150,
+      "sha256": "85b2e47da81b24c83e7fc8f8695f5a5b8d499629cb9c15851b0ab3af0b9c1878",
+      "orig_name": "007_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 1920,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 117725,
+      "sha256": "21a8a87b3406c66c3c8e9355eabd1c9b3c3e1cee1a1ef79e43a5afa9af313eff",
+      "orig_name": "007_2.jpg"
+    }
+  ]
+}

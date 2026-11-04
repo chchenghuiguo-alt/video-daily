@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-04",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "小米人形机器人在自家汽车工厂连续干满 8 小时：中控台侧盖板分拣，异常自己纠正",
+      "selected": null,
+      "bytes": 70184969,
+      "has_video": true,
+      "duration": 254.12
+    },
+    {
+      "id": "002",
+      "title": "小米具身大模型 Xiaomi-Robotics-1 进青年公寓试运行：30 分钟跨 3 个房间完成 50 多个任务链",
+      "selected": null,
+      "bytes": 33997770,
+      "has_video": true,
+      "duration": 157.08
+    },
+    {
+      "id": "003",
+      "title": "波士顿动力发布第二代卸货机器人 Stretch Gen 2：主打“少停机、好维修”",
+      "selected": null,
+      "bytes": 372618,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "优必选超仿生人形机器人 U1 Pro 亮相乌镇：硅胶皮肤、会眨眼会聊天，标价 16.98 万元",
+      "selected": null,
+      "bytes": 14729091,
+      "has_video": true,
+      "duration": 93.88
+    },
+    {
+      "id": "005",
+      "title": "智元 6 台 G2 机器人便利店 24 小时“试用期”直播收官：完成 1730 个任务，6 台里 4 台“转正”",
+      "selected": null,
+      "bytes": 3584642,
+      "has_video": true,
+      "duration": 23.04
+    },
+    {
+      "id": "006",
+      "title": "苏黎世联邦理工 ADAPT：一句话指挥人形机器人做动作，端到端控制不用单独的动作跟踪器",
+      "selected": null,
+      "bytes": 15022547,
+      "has_video": true,
+      "duration": 141.87
+    },
+    {
+      "id": "007",
+      "title": "韩国首个人形机器人“数据工厂”在大田启用：12 台人形机器人遥操作做家务，专门产训练数据",
+      "selected": null,
+      "bytes": 2288881,
+      "has_video": true,
+      "duration": 10.1
+    }
+  ],
+  "order": [],
+  "total_bytes": 140180518,
+  "updated_at": "2026-11-04T09:08:05+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

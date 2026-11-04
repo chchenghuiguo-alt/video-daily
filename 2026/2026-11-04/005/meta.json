@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-04",
+  "title": "智元 6 台 G2 机器人便利店 24 小时“试用期”直播收官：完成 1730 个任务，6 台里 4 台“转正”",
+  "summary": "智元（AGIBOT）此前预告让 6 台 G2 机器人当便利店“实习生”，在上海一家营业中的便利店直播 24 小时（11 月 2 日 10:00 至 3 日 10:00，UTC+8），覆盖早高峰、深夜独自值班和早餐时段，上货、做咖啡、热食、招呼顾客、清理垃圾。结束后多条转述给出的最终数字：共完成 1730 个任务，其中做了 147 杯咖啡、打招呼 683 次；据上观新闻，6 台里只有 4 台“通过试用期”。视频来自个人账号 @ScottonW23643 搬运的 23 秒智元画面。",
+  "category": "人形机器人/零售场景",
+  "company": "智元 AGIBOT",
+  "source": "X：@ScottonW23643（个人号，搬运智元画面）；智元官方预告见 @AGIBOTofficial",
+  "source_url": "https://x.com/ScottonW23643/status/2117577885909135433",
+  "published_at": "2026-11-03T19:21:25+08:00",
+  "collected_at": "2026-11-04T09:08:05+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 1,
+    "views": 2
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "1730 个任务、147 杯咖啡、683 次问候、4 台转正等数字来自转述帖（@ScottonW23643、@42HOWRobotics、@poezhao0605 引界面、证券时报、时代周报），智元官方 X 账号没发收官数据",
+    "“全程无人介入”是智元说法；@poezhao0605 指出报道只有完成数，没有成功率和人工接管次数",
+    "视频是个人号搬运，原始出处为智元，具体来自哪段直播未知"
+  ],
+  "credit": "来源：X @ScottonW23643",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 23.04,
+      "transcoded": true,
+      "bytes": 3421460,
+      "sha256": "973525cd19b87a92910ad9067b28f9ab9debe532f8c9018e6611d1bdc8844ee0",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 163182,
+      "sha256": "115db4e5419e083577275bba0c70a61a198812ed098d28ca0144eaa8202ed3a4",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

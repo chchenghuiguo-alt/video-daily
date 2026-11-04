@@ -1,0 +1,79 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-04",
+  "title": "苏黎世联邦理工 ADAPT：一句话指挥人形机器人做动作，端到端控制不用单独的动作跟踪器",
+  "summary": "苏黎世联邦理工机器人系统实验室（@leggedrobotics）11 月 3 日 18:27（UTC+8）发布 CoRL 2026 论文 ADAPT：一个端到端、可交互、用文字指令控制人形机器人的框架。团队称，主流做法是先生成运动学动作，再交给单独的强化学习跟踪器执行，ADAPT 则把两步合在一起。帖子附 16 秒预告视频，跟帖附 2 分多钟完整视频、论文和项目页。作者包括 Yan Wu、Chenhao Li、Kaifeng Zhao、Gen Li、Marco Hutter、Siyu Tang，将在 CoRL 2026 第 3 场海报 #174 展示。",
+  "category": "研究/人形机器人控制",
+  "company": "ETH Zurich 机器人系统实验室",
+  "source": "X：@leggedrobotics（ETH Zurich Robotic Systems Lab，第一手）",
+  "source_url": "https://x.com/leggedrobotics/status/2117564271249051665",
+  "published_at": "2026-11-03T18:27:19+08:00",
+  "collected_at": "2026-11-04T09:08:05+08:00",
+  "engagement": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 2,
+    "views": 1236
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "论文效果、对比结论未读原文核对，口播只说“团队称”",
+    "互动量较低，属研究类素材"
+  ],
+  "credit": "来源：X @leggedrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 16.32,
+      "transcoded": true,
+      "bytes": 2548462,
+      "sha256": "6699b91030e7a5f37bcff2da7d293a3305ec29366b22bf2d585cd855a52a1189",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 29880,
+      "sha256": "d53b1b0ec800a555782c3b836cf7a8c7ab039609879044ce47836a9d3da5b53a",
+      "orig_name": "006_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 125.55,
+      "transcoded": true,
+      "bytes": 12366877,
+      "sha256": "204624924ca44610fe9eb010660e6bc4ba044204178b36c221a4eb3d2f3e69a8",
+      "orig_name": "006_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 77328,
+      "sha256": "2d6a07616df7b477cd2340fab2e313a7bffd9b23a3b5401020171ecc45ae9864",
+      "orig_name": "006_2_thumb.jpg"
+    }
+  ]
+}
