@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-05",
+  "title": "RoboColosseum 上线：开源真机评测网络，100+ 机器人、140+ 真实场景、1 万小时免费评测额度",
+  "summary": "RoboColosseum 官方账号 11 月 4 日 22:09（UTC+8）宣布上线开源机器人真机评测倡议，由 Hugging Face、BitRobot Network、EAIC Singapore 与 Jiafei Duan（@DJiafei）等推动。官方称可接入 100+ 台机器人（含宇树 Unitree G1、LeRobot SO-101、YAM、Franka 等）、140+ 野外真实场景、开放 rollout 数据，并提供 1 万小时免费评测时长。宇树官方随后转发支持，称 G1 是该评测网络人形类别的主要本体。帖子附约 87 秒介绍视频。",
+  "category": "评测基准/开源生态",
+  "company": "RoboColosseum / Hugging Face / BitRobot / Unitree",
+  "source": "X：@RoboColosseum（官方，第一手）；@UnitreeRobotics 转发支持",
+  "source_url": "https://x.com/RoboColosseum/status/2117982605274710483",
+  "published_at": "2026-11-04T22:09:37+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 329,
+    "reposts": 57,
+    "replies": 32,
+    "views": 69000
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "100+ 机器人、140+ 场景、1 万小时免费额度等数字来自官方自述，实际可预约容量与排队情况未独立核实",
+    "宇树官方支持帖见 https://x.com/UnitreeRobotics/status/2117996574584574130，称 G1 为人形评测主本体"
+  ],
+  "credit": "来源：X @RoboColosseum",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 87.47,
+      "transcoded": true,
+      "bytes": 13195448,
+      "sha256": "b3110d75f7ba624a721c7e19d8d7fd6bc0f4c70bf098148f7072626fc8fab351",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 149841,
+      "sha256": "ff2853649649cf2c24cc9f2717e2d7fa01691434d7b25c5ddd6a9cd18bb88d40",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

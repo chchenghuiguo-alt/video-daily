@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-05",
+  "title": "StarBot 发布 90 厘米开发者人形 Spark：22 自由度、标价 7999 美元，自称北美同档首款美制机",
+  "summary": "Humanoid News（@Humanoid_News）11 月 5 日 03:54（UTC+8）报道：圣巴巴拉公司 StarBot Robotics 发布 Spark，身高约 90 厘米、22 自由度，售价 7999 美元；公司称全部在美国制造，并自称是北美该尺寸与价位档的首款美制开发者人形。定位面向家庭、学校与开发者，偏儿童陪伴与青少年机器人教育。报道还称其 Nova 服务机器人 2026 年初上市后已服务逾 2 万人（餐厅场景），Nova 硬件 4999 美元外加每月 499 美元订阅；Spark 公告未提订阅费。帖子配一张产品图，无视频。",
+  "category": "人形机器人/新品",
+  "company": "StarBot Robotics",
+  "source": "X：@Humanoid_News（媒体转述）",
+  "source_url": "https://x.com/Humanoid_News/status/2118069495822799000",
+  "published_at": "2026-11-05T03:54:54+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "views": 148
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "7999 美元、22 自由度、美制、首款同档等说法来自 Humanoid News 转述，未见 StarBot 官方 X 原帖",
+    "Nova 服务 2 万人、硬件+订阅价格同为报道转述，未独立核实",
+    "只有产品图，没有现场演示视频"
+  ],
+  "credit": "来源：X @Humanoid_News",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 800,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 80533,
+      "sha256": "e76d7c1d0326d6fbfb2394b09b60c3505a40bf52c65e4f78a1ced99052044e72",
+      "orig_name": "006_1.jpg"
+    }
+  ]
+}

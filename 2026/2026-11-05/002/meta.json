@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-05",
+  "title": "Verne 开源工业机器人世界动作模型 V0.5：自称美产开源权重在 LIBERO / RoboTwin 2.0 领先",
+  "summary": "Verne Robotics（@VerneRobotics）11 月 5 日 01:15（UTC+8）发布 V0.5：面向工业机器人的开源权重世界动作模型（world action model）。官方称希望把前沿基础模型开源，让更多团队共建；并称 V0.5 是美产开源权重模型中在 LIBERO 与 RoboTwin 2.0 基准上表现领先的版本。帖子附约 2 分 42 秒演示视频，画面含工业机械臂作业与模型介绍。",
+  "category": "世界模型/开源模型",
+  "company": "Verne Robotics",
+  "source": "X：@VerneRobotics（官方，第一手）",
+  "source_url": "https://x.com/VerneRobotics/status/2118029255804129448",
+  "published_at": "2026-11-05T01:15:00+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 257,
+    "reposts": 65,
+    "replies": 31,
+    "views": 17602
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“美产开源权重在 LIBERO / RoboTwin 2.0 领先”为厂商自述，未见第三方独立评测对照表",
+    "视频为宣传片，具体成功率与部署客户未在原帖给出"
+  ],
+  "credit": "来源：X @VerneRobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 162.2,
+      "transcoded": true,
+      "bytes": 19236206,
+      "sha256": "11d377eaa9ae25bbb54c873c522b07a3344a5fd1acb9b77dc46da19a6f4dd89a",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 132395,
+      "sha256": "5b1ce3d76178e08dc5ad7309756e686974f9c1e4dcb5d7fd16c7631f0f525d5a",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

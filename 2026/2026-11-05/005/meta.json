@@ -1,0 +1,79 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-05",
+  "title": "Perceptron Egocentric 1.0：把第一人称人/机视频自动标成训练数据，自称子任务质量接近 GPT-6 Astra、成本约 1/8",
+  "summary": "The Humanoid Hub（@TheHumanoidHub）11 月 5 日 03:16（UTC+8）介绍 Perceptron Egocentric 1.0：自助 API，把第一人称人类与机器人视频转成结构化训练标签，包括亚秒级子任务时间线、左右手/夹爪各自活动时间线，以及无需相机标定的 3D 手部重建。转述称子任务质量可对标 GPT-6 Astra，成本约 9 美元/视频小时对约 76 美元，全栈约 29 美元/小时。帖子附两段演示视频（约 10 秒与 19.5 秒）。",
+  "category": "机器人数据/标注工具",
+  "company": "Perceptron",
+  "source": "X：@TheHumanoidHub（聚合账号转述 Perceptron）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2118059948936696023",
+  "published_at": "2026-11-05T03:16:58+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 96,
+    "reposts": 7,
+    "replies": 14,
+    "views": 8263
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "价格与“对标 GPT-6 Astra”来自 The Humanoid Hub 转述/厂商宣传，未见独立盲测",
+    "未找到 Perceptron 官方 X 原帖核对；口播请标明“据称/转述”"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 10.0,
+      "transcoded": true,
+      "bytes": 2775030,
+      "sha256": "4c432707027f7a310c22f23d0e42dd15edb7bc54d79b01f575b26b5f005bd1de",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 85265,
+      "sha256": "547328353858583540c7ce3f0551a4e7dc5432d37ce7212bd557c080ac24e7b5",
+      "orig_name": "005_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 19.5,
+      "transcoded": true,
+      "bytes": 7365092,
+      "sha256": "afbe8b02b423ebad4a16871bccb04b6ad838dc81e5d82334e2de904afcb1baef",
+      "orig_name": "005_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 131311,
+      "sha256": "cae327ddf0c71edc73f7007d0ec4fae84afe1daf7b2670cfd6b9eedf773e9eb0",
+      "orig_name": "005_2_thumb.jpg"
+    }
+  ]
+}

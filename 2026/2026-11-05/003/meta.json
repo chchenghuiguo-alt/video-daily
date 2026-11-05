@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-05",
+  "title": "LiberAI 发布 Liber-0：用 220 万小时人类经验做零样本机器人操作，60 项 GPT-6 出题任务总成功率约 36%",
+  "summary": "LiberAI（@liberai_robot）11 月 4 日 10:17（UTC+8）发布 Liber-0 世界动作模型，主打零样本机器人操作（含灵巧、多步任务）。官方称在 GPT-6 提出的 60 项任务、共 600 次试验中，未使用针对这些任务专门采集的机器人示教数据，整体成功率约 36%：拣放约 63.5%、其他操作约 34.0%、困难多步约 10.5%。模型预训练于 220 万小时以上人类经验，联合预测未来观测与动作。技术博客：liberai.com/blog/liber0。帖子附约 2 分 53 秒视频。",
+  "category": "世界模型/零样本操作",
+  "company": "LiberAI",
+  "source": "X：@liberai_robot（官方，第一手）",
+  "source_url": "https://x.com/liberai_robot/status/2117803284039905456",
+  "published_at": "2026-11-04T10:17:04+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 118,
+    "reposts": 23,
+    "replies": 23,
+    "views": 261869
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "36%/63.5%/34%/10.5% 等数字与“无任务专用机器人示教”均为 LiberAI 自述，评测协议细节需看技术博客",
+    "任务由 GPT-6 提出，任务难度分布与是否可复现未独立核实",
+    "与 11-02 已收的「Robot Intelligence Index / GPT-6 Astra vs WAMs」不是同一条新闻：本条是 LiberAI 产品发布"
+  ],
+  "credit": "来源：X @liberai_robot",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 172.82,
+      "transcoded": true,
+      "bytes": 16751668,
+      "sha256": "92b3a7d6f5f72ed95fc5305668c2778565615e8ca94dafbd57624ac36973d10b",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 166422,
+      "sha256": "54c83664c8e084132375c4ed81a513eec2611f0f7f8d3a934d48e29a99166118",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

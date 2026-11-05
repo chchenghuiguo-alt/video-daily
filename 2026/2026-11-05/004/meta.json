@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-05",
+  "title": "智元发布 Genie Studio 2.0：把数据采集到机队运维打成一条具身 AI 产线，称新任务最快约 7 天可验证部署",
+  "summary": "智元官方（@AGIBOTofficial）11 月 4 日 17:37（UTC+8）发布 Genie Studio 2.0，称把数据采集、模型训练、仿真、评测、部署、任务编排与机队运维串成同一平台，面向真实车间里材料变化、设备约束和异常。官方称新任务可在最短约 7 天到达部署验证。产品页：genie.agibot.com/geniestudio。帖子附约 2 分 12 秒介绍视频。",
+  "category": "具身智能平台/工具链",
+  "company": "智元 AGIBOT",
+  "source": "X：@AGIBOTofficial（官方，第一手）",
+  "source_url": "https://x.com/AGIBOTofficial/status/2117914213188239559",
+  "published_at": "2026-11-04T17:37:52+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 29,
+    "reposts": 5,
+    "replies": 5,
+    "views": 877
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“最快约 7 天可验证部署”是智元自述，未给出对应案例的任务类型与人工介入量",
+    "与 11-04 已收的 G2 便利店 24 小时直播不是同一条：本条是工具链产品更新"
+  ],
+  "credit": "来源：X @AGIBOTofficial",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 132.19,
+      "transcoded": true,
+      "bytes": 16237493,
+      "sha256": "6716561d28ed7891e5a9f2109549e1788057278b51ba09bbd794687f25dad709",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 34343,
+      "sha256": "2c0cca23a1d119b9dc12018f91439e20076500f7e5ec512a05e28ac908075d84",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

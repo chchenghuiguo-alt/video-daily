@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-05",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "RoboColosseum 上线：开源真机评测网络，100+ 机器人、140+ 真实场景、1 万小时免费评测额度",
+      "selected": null,
+      "bytes": 13345289,
+      "has_video": true,
+      "duration": 87.47
+    },
+    {
+      "id": "002",
+      "title": "Verne 开源工业机器人世界动作模型 V0.5：自称美产开源权重在 LIBERO / RoboTwin 2.0 领先",
+      "selected": null,
+      "bytes": 19368601,
+      "has_video": true,
+      "duration": 162.2
+    },
+    {
+      "id": "003",
+      "title": "LiberAI 发布 Liber-0：用 220 万小时人类经验做零样本机器人操作，60 项 GPT-6 出题任务总成功率约 36%",
+      "selected": null,
+      "bytes": 16918090,
+      "has_video": true,
+      "duration": 172.82
+    },
+    {
+      "id": "004",
+      "title": "智元发布 Genie Studio 2.0：把数据采集到机队运维打成一条具身 AI 产线，称新任务最快约 7 天可验证部署",
+      "selected": null,
+      "bytes": 16271836,
+      "has_video": true,
+      "duration": 132.19
+    },
+    {
+      "id": "005",
+      "title": "Perceptron Egocentric 1.0：把第一人称人/机视频自动标成训练数据，自称子任务质量接近 GPT-6 Astra、成本约 1/8",
+      "selected": null,
+      "bytes": 10356698,
+      "has_video": true,
+      "duration": 29.5
+    },
+    {
+      "id": "006",
+      "title": "StarBot 发布 90 厘米开发者人形 Spark：22 自由度、标价 7999 美元，自称北美同档首款美制机",
+      "selected": null,
+      "bytes": 80533,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "007",
+      "title": "Darwin Robotics 训练通用机器人当数据中心技术员：布线装机，目标 2027 年初首批部署",
+      "selected": null,
+      "bytes": 2721764,
+      "has_video": true,
+      "duration": 20.3
+    }
+  ],
+  "order": [],
+  "total_bytes": 79062811,
+  "updated_at": "2026-11-05T09:00:30+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

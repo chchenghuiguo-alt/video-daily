@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-05",
+  "title": "Darwin Robotics 训练通用机器人当数据中心技术员：布线装机，目标 2027 年初首批部署",
+  "summary": "CyberRobo（@CyberRobooo）11 月 4 日 20:10（UTC+8）转发 Darwin Robotics 方向：随着 AI 扩容，数据中心需要装服务器、布线、调测、巡检与维修等体力活。Darwin 称正用人类示教训练通用机器人当数据中心技术员，靠真实失败迭代，而不是逐任务脚本。难点包括狭窄空间、复杂线缆、多工具与极低容错。早期演示可见机器人在机柜上处理线缆，首批部署目标指向 2027 年初。帖子附约 20 秒宽屏演示视频（原始来自 @darwin_robotics）。",
+  "category": "工业落地/数据中心",
+  "company": "Darwin Robotics",
+  "source": "X：@CyberRobooo（转述）；视频原帖 @darwin_robotics",
+  "source_url": "https://x.com/CyberRobooo/status/2117952574339092719",
+  "published_at": "2026-11-04T20:10:18+08:00",
+  "collected_at": "2026-11-05T09:00:30+08:00",
+  "engagement": {
+    "likes": 24,
+    "reposts": 6,
+    "replies": 5,
+    "views": 1609
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "2027 年初部署、示教学习路线等为转述/厂商方向介绍，商业合同与现场进度未核实",
+    "视频为早期演示，是否全自主、是否有远程遥操作未说明",
+    "画面超宽 2160×720，竖屏需裁切"
+  ],
+  "credit": "来源：X @CyberRobooo",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 360,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 20.3,
+      "transcoded": true,
+      "bytes": 2612778,
+      "sha256": "d1c59d52265a5216e46e737c0636115ffe401fe81357f2ac7a6a75e3beef68b4",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 640,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 108986,
+      "sha256": "e46573b529bc0934def87d89c687dc5f9d2def7eb7727beeaa17b4d85c5f87ce",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}
