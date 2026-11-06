@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-06",
+  "title": "NVIDIA 开源 Cosmos 3 Nano 交互式世界模型：Transfer-Auto / Sim-Auto 上线 Hugging Face",
+  "summary": "NVIDIA DRIVE 官方账号 11 月 6 日 07:02（UTC+8）宣布两款开源权重 Cosmos3-Nano 模型：Transfer-Auto 生成相机+LiDAR 驾驶数据，Sim-Auto 用于交互仿真中观察策略决策；并指向 Hugging Face 博客。同日多条转述称 Cosmos 3 共有四个开源检查点（约 16B），亦可用于机器人视频/仿真，许可 OpenMDW 1.1。本条以官方 AV 发布帖为准，机器人向能力见博客与技术报告。帖子附约 43 秒视频。",
+  "category": "世界模型/开源",
+  "company": "NVIDIA",
+  "source": "X：@NVIDIADRIVE（官方，第一手）",
+  "source_url": "https://x.com/NVIDIADRIVE/status/2118478996174172228",
+  "published_at": "2026-11-06T07:02:06+08:00",
+  "collected_at": "2026-11-06T09:05:15+08:00",
+  "engagement": {
+    "likes": 33,
+    "reposts": 8,
+    "replies": 1,
+    "views": 1995
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方帖聚焦自动驾驶 Transfer-Auto / Sim-Auto；「四个 16B 检查点含机器人」等来自转述与博客，需对照 https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "与同日 VFlash 同属 NVIDIA，但产品线不同：VFlash 是 System-1 VLM，Cosmos 3 是世界模型"
+  ],
+  "credit": "来源：X @NVIDIADRIVE",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 42.97,
+      "transcoded": true,
+      "bytes": 9382016,
+      "sha256": "b184714da96ff888f5ed5e4ce9c8ea008badc868997984845caad35272d7b1b1",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 51419,
+      "sha256": "8baaff7071f1f0e556c604ae5bdec076073484030b0d01e2a865248d79dd5ab8",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

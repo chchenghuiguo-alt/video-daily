@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-06",
+  "title": "英伟达开源 VFlash：面向 Physical AI 的 System-1 视觉模型，动作解码最高约快 12 倍",
+  "summary": "NVIDIA 机器人负责人 Jim Fan（@DrJimFan）11 月 6 日 00:31（UTC+8）发布 VFlash：面向 Physical AI 的 System-1 视觉语言模型。他称多数具身预测（目标定位、机械臂轨迹、稠密 3D 运动）是固定长度浮点向量，不必自回归逐 token 解码，可一次输出整段几何。官方称在 Jetson Thor / DGX Spark 等端侧 GPU 上，动作解码最高约快 12 倍、整体机器人推理约快 5.1 倍，且 3D 轨迹误差可比骨干 VLM 低约 61%。开源论文与代码，项目页 research.nvidia.com/labs/lpr/vflash/。帖子附约 56 秒介绍视频。协同发布见 LPR 的 Zhiding Yu 线程。",
+  "category": "具身模型/开源",
+  "company": "NVIDIA",
+  "source": "X：@DrJimFan（NVIDIA GEAR，第一手）；项目页见 @ZhidingYu 线程",
+  "source_url": "https://x.com/DrJimFan/status/2118380813498892301",
+  "published_at": "2026-11-06T00:31:58+08:00",
+  "collected_at": "2026-11-06T09:05:15+08:00",
+  "engagement": {
+    "likes": 784,
+    "reposts": 80,
+    "replies": 82,
+    "views": 35777
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "12×/5.1×/61% 等数字来自官方自述，独立基准与对照设置需看论文",
+    "项目页：https://research.nvidia.com/labs/lpr/vflash/"
+  ],
+  "credit": "来源：X @DrJimFan",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 55.91,
+      "transcoded": true,
+      "bytes": 6417585,
+      "sha256": "1a3ce82d5a7e2b3945045e147980837ae7874919e9e7fc5f1260199677c26677",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 49829,
+      "sha256": "c3aa89c7493d242aedcbef261ae04db5bf5c68561bc78d3418660eab660de7dd",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

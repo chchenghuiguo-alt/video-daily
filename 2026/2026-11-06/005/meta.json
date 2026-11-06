@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-06",
+  "title": "Ctrl-F：用显式力指令做人形机器人 loco-manipulation，论文与项目页公开",
+  "summary": "清华姚班本科生 Mengjie Zhao（@qxjyqzw）11 月 6 日 08:33（UTC+8）发帖介绍 Ctrl-F：Force as an Interface for Humanoid Loco-Manipulation。称参考动作只告诉人形「往哪动」，交互力仍不明确；Ctrl-F 给手脚增加可在线选择的三维力指令。项目页 forcectrl.github.io，论文 arXiv:2611.05507。帖子附约 32 秒演示。另有帖标注作者单位含 UC Berkeley 等，作者归属以论文为准。",
+  "category": "学术/人形控制",
+  "company": "学术（Ctrl-F / UC Berkeley 等，以论文为准）",
+  "source": "X：@qxjyqzw（作者之一，第一手）",
+  "source_url": "https://x.com/qxjyqzw/status/2118502056034213927",
+  "published_at": "2026-11-06T08:33:44+08:00",
+  "collected_at": "2026-11-06T09:05:15+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 1,
+    "replies": 1,
+    "views": 15
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "作者单位与合作方以 https://arxiv.org/abs/2611.05507 与 https://forcectrl.github.io 为准",
+    "演示中的负重/拖拽等定量结果原帖未给出完整评测表"
+  ],
+  "credit": "来源：X @qxjyqzw",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 31.74,
+      "transcoded": true,
+      "bytes": 3110679,
+      "sha256": "54d3875145db73c4147b7098a73c49e2ce45bcbb906fd52cb0ba4840aaaa7851",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 123583,
+      "sha256": "ad1ddeecfb19667da63d8f19a4eb6515ea5a66a8da1b704b34c22920a3cf35b2",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-06",
+  "title": "CMU Pathak 实验室开源 Pixel：自称不到 1.5 万美元可组轮式人形，配 Pixel-UMI 示教框架",
+  "summary": "CMU 教授 Deepak Pathak（@deepakpathak）11 月 5 日 09:19（UTC+8）介绍实验室项目 Pixel 与 Pixel-UMI，由 @_tonytao_ 与 @JasonJZLiu 主导。他称 Pixel 是造价低于 1.5 万美元的人形（轮式底盘）整机，Pixel-UMI 是面向全身/移动操作的训练框架；并称按该栈可在低成本下复现多数前沿实验室级别的移动灵巧结果，希望推动通用机器人民主化。帖子含约 21 秒简介与约 143 秒演示视频。具体自由度、任务成功率与开源时间表以论文/项目页为准。",
+  "category": "开源硬件/学术",
+  "company": "CMU / Pathak Lab",
+  "source": "X：@deepakpathak（实验室 PI，第一手）",
+  "source_url": "https://x.com/deepakpathak/status/2118151126445129928",
+  "published_at": "2026-11-05T09:19:16+08:00",
+  "collected_at": "2026-11-06T09:05:15+08:00",
+  "engagement": {
+    "likes": 395,
+    "reposts": 21,
+    "replies": 28,
+    "views": 33241
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "「under $15K」「SOTA / frontier lab level」为实验室自述，BOM 与对照实验需看论文",
+    "第三方复述的 17 DoF、Pixel-UMI <$1K、87%/82% 任务进度等不在本帖正文，未独立核实",
+    "开源代码「即将/已开源」说法不一，以项目页实际仓库为准"
+  ],
+  "credit": "来源：X @deepakpathak",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": false,
+      "duration": 20.82,
+      "transcoded": true,
+      "bytes": 2316148,
+      "sha256": "69be5865a7dc7c69fd1808094cae4c33c9159cb04acccae251c3d4ec15e2b116",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 90085,
+      "sha256": "28593b3a5f3ad92916fd22a612f9456990d928a2a8fbcbe967ee43123a93ded7",
+      "orig_name": "007_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 142.72,
+      "transcoded": true,
+      "bytes": 21697950,
+      "sha256": "d3712684aca9c973479432b893800606bff4ea0fa59b2b3519218089051b6f64",
+      "orig_name": "007_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 47557,
+      "sha256": "e5644c0d3116771e41bd8bdc631b39bb6d0670e80565ad8afe2108fa84c3176e",
+      "orig_name": "007_2_thumb.jpg"
+    }
+  ]
+}

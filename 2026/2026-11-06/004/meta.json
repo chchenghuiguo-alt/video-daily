@@ -1,0 +1,77 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-06",
+  "title": "据称新华社×优必选发布仿生人形主播「新言」「新语」，形象主创张艺谋",
+  "summary": "多条中文帖 11 月 5–6 日称：在第七届世界媒体峰会相关论坛上，新华社与优必选联合发布仿生人形机器人新闻主播「新言」「新语」，自称全球首个同类产品；形象由张艺谋任主创设计，背后接新华社时政智能体「新华语典」，仿生皮肤与情感模型来自优必选。收集到约 106 秒演示/报道视频与现场照片。未见新华社或优必选官方 X 账号原帖，细节来自个人号转述，已全部列入待核实。",
+  "category": "人形产品/媒体应用",
+  "company": "新华社 / 优必选 UBTech",
+  "source": "X：个人号转述（@jhyang045753699 视频；@ahsuzm / @haishenling 图文），非官方账号",
+  "source_url": "https://x.com/jhyang045753699/status/2118485926557155708",
+  "published_at": "2026-11-06T07:29:00+08:00",
+  "collected_at": "2026-11-06T09:05:15+08:00",
+  "engagement": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 0,
+    "views": null
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "「全球首个」「张艺谋主创」「新华语典」等均为个人号转述，未见新华社/优必选官方 X 原帖核验",
+    "视频与图片版权归属不明，剪辑须标注来源网络",
+    "发布场合「第七届世界媒体峰会」论坛名称以官方通稿为准"
+  ],
+  "credit": "来源：X @jhyang045753699",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 105.93,
+      "transcoded": true,
+      "bytes": 15141028,
+      "sha256": "a7531ff3dad76345f8e6a7a9e1bf1a20ad4e0461c74e9ac1e5ea63bfed0016f4",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 101209,
+      "sha256": "d3a4142f06eb0d5e842ca9a60b4aaaecd7c3293696aa8ba1e78b8f51660c9e61",
+      "orig_name": "004_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 65689,
+      "sha256": "0dfe02e13b2343cb8cb078f67ffc08ce9e1caa922e1411894f2a1441fe4ce24a",
+      "orig_name": "004_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 857,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 109620,
+      "sha256": "d59ed5b32f0311ea4588b51e3ae5687050094f3bac9c6471747933fedc5e5969",
+      "orig_name": "004_3.jpg"
+    }
+  ]
+}

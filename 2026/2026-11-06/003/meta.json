@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-06",
+  "title": "Agility 今天起以 AGLT 在纳斯达克交易：自称美国首家公开上市的纯人形机器人公司",
+  "summary": "Agility Robotics 官方账号 11 月 5 日 20:05（UTC+8）宣布：即日起以股票代码 AGLT 在纳斯达克开始交易，并指向官网公告。公告标题称其成为美国首家公开上市的纯人形机器人公司。此前 11-03 已收录股东批准/合并进度；本条是正式开盘交易日官方确认。配套收录 @MTSlive 约 81 秒解说视频（非官方），其中复述约 4.65 亿美元融资等数字，列入待核实。",
+  "category": "公司动态/资本市场",
+  "company": "Agility Robotics",
+  "source": "X：@agilityrobotics（官方，第一手）；解说视频 @MTSlive（媒体转述）",
+  "source_url": "https://x.com/agilityrobotics/status/2118313713396793615",
+  "published_at": "2026-11-05T20:05:20+08:00",
+  "collected_at": "2026-11-06T09:05:15+08:00",
+  "engagement": {
+    "likes": 205,
+    "reposts": 17,
+    "replies": 28,
+    "views": 9347
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "开盘交易事实以 Agility 官方帖与官网公告为准：https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt",
+    "MTSlive 视频中的 4.65 亿融资构成、$2.5B 估值等为媒体复述，需对照 SEC/官网文件",
+    "11-03 已收股东批准与预计 11 月 5 日交易信息，本条为交易日官方确认，不重复收合并细节"
+  ],
+  "credit": "来源：X @agilityrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 960,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 85142,
+      "sha256": "dd025c5d5dca8f9b4c54efd061bff5370fcee09e8443b842f498ef7ed4073a59",
+      "orig_name": "003_1.jpg"
+    },
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 81.45,
+      "transcoded": true,
+      "bytes": 9710175,
+      "sha256": "df0dc2bf6c617bb3678caae3e73f4faf638044c1270eabb735f83412a2dacccb",
+      "orig_name": "003_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 79183,
+      "sha256": "58e98f45813439cd6d5965825e42d446ea5e5a96944040446e4aee32cbb29622",
+      "orig_name": "003_2_thumb.jpg"
+    }
+  ]
+}

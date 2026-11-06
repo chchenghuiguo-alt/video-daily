@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-06",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "英伟达开源 VFlash：面向 Physical AI 的 System-1 视觉模型，动作解码最高约快 12 倍",
+      "selected": null,
+      "bytes": 6467414,
+      "has_video": true,
+      "duration": 55.91
+    },
+    {
+      "id": "002",
+      "title": "Apple 研究员发布 HALO：纯仿真训练，宇树 G1 零样本进未见过的真实房间",
+      "selected": null,
+      "bytes": 23758959,
+      "has_video": true,
+      "duration": 167.13
+    },
+    {
+      "id": "003",
+      "title": "Agility 今天起以 AGLT 在纳斯达克交易：自称美国首家公开上市的纯人形机器人公司",
+      "selected": null,
+      "bytes": 9874500,
+      "has_video": true,
+      "duration": 81.45
+    },
+    {
+      "id": "004",
+      "title": "据称新华社×优必选发布仿生人形主播「新言」「新语」，形象主创张艺谋",
+      "selected": null,
+      "bytes": 15417546,
+      "has_video": true,
+      "duration": 105.93
+    },
+    {
+      "id": "005",
+      "title": "Ctrl-F：用显式力指令做人形机器人 loco-manipulation，论文与项目页公开",
+      "selected": null,
+      "bytes": 3234262,
+      "has_video": true,
+      "duration": 31.74
+    },
+    {
+      "id": "006",
+      "title": "NVIDIA 开源 Cosmos 3 Nano 交互式世界模型：Transfer-Auto / Sim-Auto 上线 Hugging Face",
+      "selected": null,
+      "bytes": 9433435,
+      "has_video": true,
+      "duration": 42.97
+    },
+    {
+      "id": "007",
+      "title": "CMU Pathak 实验室开源 Pixel：自称不到 1.5 万美元可组轮式人形，配 Pixel-UMI 示教框架",
+      "selected": null,
+      "bytes": 24151740,
+      "has_video": true,
+      "duration": 163.54
+    }
+  ],
+  "order": [],
+  "total_bytes": 92337856,
+  "updated_at": "2026-11-06T09:05:15+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
