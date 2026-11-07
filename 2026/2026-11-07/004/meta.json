@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-07",
+  "title": "瑞士 Embodied AI 发布轮式人形 AIR：腱驱动手臂，声称进工厂与人共线",
+  "summary": "科技评论者 John Koetsier（@johnkoetsier）11 月 7 日 00:39（UTC+8）介绍瑞士公司 Embodied AI 在 Humanoid Europe 2026（慕尼黑）发布的轮式人形 AIR：腱驱动手臂、电机置于躯干、轮式底盘；称先遥操作，约 30 天学会任务后可自主，并称有付费工厂客户、任务可靠度约 98%。附约 31 秒视频。Humanoid_News 等亦有图文报道。厂商数字与客户名单未见官方完整披露，已列入待核实。",
+  "category": "人形机器人/产品发布",
+  "company": "Embodied AI",
+  "source": "X：@johnkoetsier（媒体/评论，非厂商官号）；同题见 @Humanoid_News",
+  "source_url": "https://x.com/johnkoetsier/status/2118744989094265152",
+  "published_at": "2026-11-07T00:39:04+08:00",
+  "collected_at": "2026-11-07T09:01:43+08:00",
+  "engagement": {
+    "likes": 9,
+    "reposts": 0,
+    "replies": 3,
+    "views": 891
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "98% 任务可靠度、30 天学会、付费工厂客户等为转述/厂商口径，客户未具名",
+    "CE 认证计划等第三方帖提到 2027，未见本帖证实",
+    "非公司官方账号原帖，原始发布会材料待核对"
+  ],
+  "credit": "来源：X @johnkoetsier",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 980,
+      "h": 720,
+      "codec": "h264",
+      "fps": 57.0,
+      "has_audio": false,
+      "duration": 31.35,
+      "transcoded": true,
+      "bytes": 2330967,
+      "sha256": "dfbab9c8002466d2472732a9f671ad2c26d380f812a3a5e8226f37aea66c147f",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 980,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 67980,
+      "sha256": "b31057edcc3be2b9d8f93734d1b8af345b151475a3ad5890d91bc70f371fb104",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

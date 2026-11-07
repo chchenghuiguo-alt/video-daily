@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-07",
+  "title": "IEEE Spectrum 体验 TARS 人体动作采集：做人形机器人通用训练数据",
+  "summary": "IEEE Spectrum（@IEEESpectrum）11 月 7 日 02:00（UTC+8）发帖：TARS 正在做可供任何人形机器人训练的人体动作数据集；编辑在 ICRA 2026 体验了其动作采集系统。附约 45 秒竖屏现场视频，并链到 IEEE RAS 会议信息。属媒体第一手体验报道，技术细节与开放计划需看 TARS 官方材料。",
+  "category": "数据/科研",
+  "company": "TARS",
+  "source": "X：@IEEESpectrum（媒体，第一手体验）",
+  "source_url": "https://x.com/IEEESpectrum/status/2118765456534171926",
+  "published_at": "2026-11-07T02:00:24+08:00",
+  "collected_at": "2026-11-07T09:01:43+08:00",
+  "engagement": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 1,
+    "views": 1017
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "数据集规模、开源/授权方式、支持机型列表本帖未给出",
+    "ICRA 2026 展台演示不等于已公开发布完整数据集"
+  ],
+  "credit": "来源：X @IEEESpectrum",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 45.0,
+      "transcoded": true,
+      "bytes": 10303782,
+      "sha256": "ba8ecd87f3942c3ac4ebf6eb66fad29578ccec8165b8beb0b84711a5a19f6c07",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 150763,
+      "sha256": "c1136e68fb1eec0625f0523f272ea6c600780c36b07a0678b339b12055d812f3",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

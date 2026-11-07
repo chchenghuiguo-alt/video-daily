@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-07",
+  "title": "Lightwheel×NVIDIA SimReady Central：为开源仿真资产补物理精度与 QA",
+  "summary": "Lightwheel（@LightwheelAI）11 月 6 日 03:20（UTC+8）发帖称其物理精度工作已上线 NVIDIA SimReady Central。强调多数仿真资产“看起来对”，但接触、摩擦、质量与关节是否经得起机器人交互更难；其做法包括 agentic QA（仿真→调碰撞与关节→再测）、基于实机测量的物理调参，以及对描述物理属性的 schema 反馈。附约 71 秒介绍视频。当日聚合账号与 Omniverse 亦跟进 SimReady 资产与下载量话题；本条保留 Lightwheel 第一手。",
+  "category": "仿真资产/开源",
+  "company": "Lightwheel / NVIDIA",
+  "source": "X：@LightwheelAI（第一手）；协同讨论见 @NVIDIARobotics / @nvidiaomniverse / @TheHumanoidHub",
+  "source_url": "https://x.com/LightwheelAI/status/2118423126895898930",
+  "published_at": "2026-11-06T03:20:06+08:00",
+  "collected_at": "2026-11-07T09:01:43+08:00",
+  "engagement": {
+    "likes": 38,
+    "reposts": 3,
+    "replies": 2,
+    "views": 8920
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“3500+ OpenUSD 资产”“百万下载”等数字多见于第三方复述与 @nvidiaomniverse 后续帖，需对照 Hugging Face / NVIDIA 页面",
+    "物理 QA 覆盖范围与资产清单以 SimReady Central 官方库为准"
+  ],
+  "credit": "来源：X @LightwheelAI",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 71.23,
+      "transcoded": true,
+      "bytes": 7926214,
+      "sha256": "08f56b310f477a5a06d61a6dd5f679a4a943a28a062c6d7b578eca53f77f0616",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 14986,
+      "sha256": "00f4296fa1a0a5125f477f13258b8ada4a1c43b0e973ffee9eaf022ffa70c9ca",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

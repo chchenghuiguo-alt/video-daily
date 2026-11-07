@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-07",
+  "title": "Figure 创始人放出园区机群漫步视频：多台人形在总部内外自由走动",
+  "summary": "Figure 创始人 Brett Adcock（@adcock_brett）11 月 7 日 06:17（UTC+8）发布约 86 秒竖屏视频，配文仅一句 “One day the entire world will look like this”。画面可见多台白黑配色人形机器人在 Figure 园区（门口可见门牌 4000）内外行走：室外步道、办公大厅、实验/产线区域均有机群活动，胸前可见 Figure 标识。互动很高（点赞约 1680+、浏览约 9 万）。未说明是否全自主、是否新一代机型或剪辑合成；与 11-03 已收的 F.03 走出 BotQ 工厂为同一公司相关题材，本条是创始人新发的园区机群影像。",
+  "category": "人形机器人/演示",
+  "company": "Figure",
+  "source": "X：@adcock_brett（Figure 创始人，第一手）",
+  "source_url": "https://x.com/adcock_brett/status/2118830039710285953",
+  "published_at": "2026-11-07T06:17:02+08:00",
+  "collected_at": "2026-11-07T09:01:43+08:00",
+  "engagement": {
+    "likes": 1686,
+    "reposts": 164,
+    "replies": 313,
+    "views": 89800
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "未说明是否全自主导航、遥控或后期剪辑",
+    "未标注具体机型代数；与 11-03 F.03 出厂视频题材相关但不重复使用同一原帖",
+    "门牌 4000 与 Figure 总部地址公开信息一致，仍属画面推断"
+  ],
+  "credit": "来源：X @adcock_brett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 86.25,
+      "transcoded": true,
+      "bytes": 35596840,
+      "sha256": "b1ba28a588cadc9cb86ff3c2ea76e6c1c92e2963cb2f9389c93d142303ae58bd",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 117737,
+      "sha256": "8fc252702054b8de215b9c8a0476e582337106485e089257e0ff6806669a7029",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

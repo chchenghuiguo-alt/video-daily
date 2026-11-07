@@ -1,0 +1,87 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-07",
+  "title": "优必选 Walker C1 亮相柏林蔡司峰会：与人共做主题演讲并跳华尔兹",
+  "summary": "优必选官方（@UBTECHRobotics）11 月 6 日 20:19（UTC+8）发帖：Walker C1 在柏林 ZEISS Innovation Summit 2026 亮相，开幕式上与人类讲者共同完成关于 “AI in Products” 的主题演讲，并与女舞者跳华尔兹，称是欧洲首次此类展示。官方帖为现场照片；另收录网络流传的约 40 秒华尔兹剪辑（YouTube 搬运，非官方成片）便于剪辑使用。",
+  "category": "人形机器人/活动演示",
+  "company": "UBTECH",
+  "source": "X：@UBTECHRobotics（官方，第一手照片）；华尔兹视频来源网络（YouTube 剪辑）",
+  "source_url": "https://x.com/UBTECHRobotics/status/2118679585432969322",
+  "published_at": "2026-11-06T20:19:10+08:00",
+  "collected_at": "2026-11-07T09:01:43+08:00",
+  "engagement": {
+    "likes": 33,
+    "reposts": 4,
+    "replies": 0,
+    "views": 3830
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方帖未附华尔兹完整视频；005_4 为第三方 YouTube 剪辑，画面真实性与是否同场次需对照官方后续素材",
+    "“欧洲首次”为厂商表述"
+  ],
+  "credit": "来源：X @UBTECHRobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1199,
+      "h": 800,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 61803,
+      "sha256": "7198e6d1fcb1029483f7dce9924ff361945e2a04575a95184585b307868ca498",
+      "orig_name": "005_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 800,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 60977,
+      "sha256": "3382272c3ff43f1cae1b47523ca7c7697667a543fe937a33bb8de06c7ac9f4ba",
+      "orig_name": "005_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 1199,
+      "h": 800,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 69715,
+      "sha256": "75fc51aa90b4b6eeac3a50f68f3198797a1f6c69a68223db52283601328d12c8",
+      "orig_name": "005_3.jpg"
+    },
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 40.01,
+      "transcoded": true,
+      "bytes": 5623471,
+      "sha256": "2e98ffa3eb87330d5b69ec5baba5eec559860956bed1299e922055a918338d57",
+      "orig_name": "005_4.mp4"
+    },
+    {
+      "file": "images/04.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 608,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 78183,
+      "sha256": "63ca8f8644dfce13d80152b05a081a445bdc20e08a99d84be706d5d25cb8f866",
+      "orig_name": "005_4_thumb.jpg"
+    }
+  ]
+}

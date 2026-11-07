@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-07",
+  "title": "进博会 AI 乒乓球机器人：新华社称临场决策回球，并可与另一台机器人对打",
+  "summary": "新华社中文账号（@XinhuaChinese）11 月 6 日 20:48（UTC+8）报道第九届中国国际进口博览会现场：一台 AI 乒乓球机器人吸引观众；称四个月前在世界人工智能大会上曾与记者交手，此次稳定性提升，不再靠轨迹预测和预设脚本“背题”，每一拍由 AI 根据来球临场决策，并实现与另一台机器人全自主对抗。附约 123 秒竖屏现场视频。另有北京日报等称智元远征 A3 与人连续对打超 1000 拍——品牌/拍数口径不一致，统一按新华社现场报道收录，其余列入待核实。",
+  "category": "人形机器人/展会演示",
+  "company": "待核实（现场展台；部分转述称智元/Hitch Open）",
+  "source": "X：@XinhuaChinese（新华社，媒体现场）；同题转述见 @DailyBeijing 等",
+  "source_url": "https://x.com/XinhuaChinese/status/2118686913158951141",
+  "published_at": "2026-11-06T20:48:18+08:00",
+  "collected_at": "2026-11-07T09:01:43+08:00",
+  "engagement": {
+    "likes": 6,
+    "reposts": 3,
+    "replies": 0,
+    "views": 1093
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "展台品牌：新华社本帖未点名；部分账号称 Hitch Open / HOPE，另有账号称智元远征 A3——未交叉核实",
+    "“超 1000 拍”见于 @DailyBeijing 等，非本帖数字，待核实",
+    "“临场 AI 决策、无脚本”为报道口径，独立评测未见"
+  ],
+  "credit": "来源：X @XinhuaChinese",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 123.37,
+      "transcoded": true,
+      "bytes": 29477072,
+      "sha256": "80e53b5be310feabbef712b1f9ec7bfb3f20fab2a8d2a51717b51c917961eb66",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 48035,
+      "sha256": "618f673ec4ed602f0be19cc9e544f3152ebfff46d856dd6c692ea695eb47bb99",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}
