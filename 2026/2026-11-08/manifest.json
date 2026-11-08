@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-08",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Figure 创始人再发 F.03 园区横屏视频：草坪、大厅和门口站满人形机器人",
+      "selected": null,
+      "bytes": 36041432,
+      "has_video": true,
+      "duration": 90.77
+    },
+    {
+      "id": "002",
+      "title": "英伟达 Jim Fan 发布 CoRL 主题演讲预告：灵巧手把方块排成 GROOT2，称真实、自主、未加速",
+      "selected": null,
+      "bytes": 1500168,
+      "has_video": true,
+      "duration": 6.14
+    },
+    {
+      "id": "003",
+      "title": "韩媒 The Elec：现代已敲定 Atlas 电池规格，三星 SDI 与 LG 新能源供应约 1.3kWh 电池包",
+      "selected": null,
+      "bytes": 117420,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "马斯克在 Baron 投资会议上称：特斯拉很可能出租而非出售 Optimus",
+      "selected": null,
+      "bytes": 1886223,
+      "has_video": true,
+      "duration": 27.84
+    },
+    {
+      "id": "005",
+      "title": "IlirAliu 分享德国 M2-Automation 微量液体分配演示：纳升级到微升级点样",
+      "selected": null,
+      "bytes": 8393777,
+      "has_video": true,
+      "duration": 66.6
+    }
+  ],
+  "order": [],
+  "total_bytes": 47939020,
+  "updated_at": "2026-11-08T09:05:43+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

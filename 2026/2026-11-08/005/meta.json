@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-08",
+  "title": "IlirAliu 分享德国 M2-Automation 微量液体分配演示：纳升级到微升级点样",
+  "summary": "启用聚合账号 @IlirAliu_ 11 月 8 日 03:03（UTC+8）分享约 66.6 秒横屏视频，介绍一套把液体分配到 96 孔板的机器人系统，称体积范围从 1 纳升到 1 微升，针头在孔间移动时几乎看不出振动或超调。帖子长文把镜头归功于德国公司 M2-Automation GmbH。视频带有 M2 Automation / M2 Instruments 标志，除孔板点样外，还可以看到不同大小的蓝色液滴阵列、培养皿/圆孔阵列上的点阵，以及双移液头在圆形图案上分配有色液体。这是实验室自动化演示，不是人形机器人新闻；帖中也没有宣布新产品发布日期。",
+  "category": "机器人/实验室自动化",
+  "company": "M2-Automation",
+  "source": "X：@IlirAliu_（聚合账号）；视频署名 M2-Automation GmbH",
+  "source_url": "https://x.com/IlirAliu_/status/2119143734411485193",
+  "published_at": "2026-11-08T03:03:32+08:00",
+  "collected_at": "2026-11-08T09:05:43+08:00",
+  "engagement": {
+    "likes": 28,
+    "reposts": 7,
+    "replies": 7,
+    "views": 2372
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "这是聚合账号转发的公司演示片段，不是厂商今日发布会稿",
+    "1 纳升至 1 微升、96 孔板等参数来自转述文案，需对照 M2-Automation 官方产品说明",
+    "视频未给出机型名称、重复精度测试数据或是否新款",
+    "与人形机器人/具身智能主线较远，作为实验室机器人影像收录"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 66.6,
+      "transcoded": true,
+      "bytes": 8346193,
+      "sha256": "4c63eb70e034f3aee11fbdc8eb073acc0eef2906857eb81dc08de9981d5abb89",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1138,
+      "h": 640,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 47584,
+      "sha256": "b999b8e5f5604cac62588029ac659a877d590cf325b49be5242b2ace0d42ebbd",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

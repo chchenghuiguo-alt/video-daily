@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-08",
+  "title": "英伟达 Jim Fan 发布 CoRL 主题演讲预告：灵巧手把方块排成 GROOT2，称真实、自主、未加速",
+  "summary": "英伟达研究员 Jim Fan（@DrJimFan）11 月 8 日 01:14（UTC+8）发帖预告：CoRL 主题演讲将于 11 月 9 日（周一）下午 1:45 在奥斯汀 Hilton 举行，并写 “Something extraordinary”。附约 6.1 秒横屏视频：一只金属灵巧手在深色桌面上摆弄印有绿色字母的方块，先排出 GROOT，旁边另有一块 “1”，随后改成 GROOT2，并比出两指手势；画面左下角标注 “AUTONOMOUS 1×”。他本人后来回复 “Real. Autonomous. No speed up.” 以及 “Real. Autonomous, no speedup”。这是主题演讲前的预告短片，未在帖中说明将发布的具体模型名称、任务或指标。",
+  "category": "具身智能/预告",
+  "company": "NVIDIA",
+  "source": "X：@DrJimFan（第一手）",
+  "source_url": "https://x.com/DrJimFan/status/2119116338765685094",
+  "published_at": "2026-11-08T01:14:41+08:00",
+  "collected_at": "2026-11-08T09:05:43+08:00",
+  "engagement": {
+    "likes": 645,
+    "reposts": 65,
+    "replies": 47,
+    "views": 53950
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "帖文只写 “Something extraordinary”，没有公布模型名称、任务清单或成功率等指标",
+    "方块字母看起来是 GROOT / GROOT2；英伟达人形项目通常写作 GR00T，是否即为下一代或新版本要等 11 月 9 日演讲",
+    "“真实、自主、未加速” 来自他本人的后续回复，不等于完整任务评测已经公开",
+    "6 秒预告无法判断双手操作之外还有哪些能力"
+  ],
+  "credit": "来源：X @DrJimFan",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 59.94,
+      "has_audio": true,
+      "duration": 6.14,
+      "transcoded": true,
+      "bytes": 1346890,
+      "sha256": "0d1c75e7c6eb6925c81a4eaaabe62b806db0f3dae21f4b1a8835ce1866e9aac5",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 153278,
+      "sha256": "23dd4b8fc6de1b6db7bf2b64afc20f4e1603f912d9470a13e03edd22e2534462",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

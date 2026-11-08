@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-08",
+  "title": "Figure 创始人再发 F.03 园区横屏视频：草坪、大厅和门口站满人形机器人",
+  "summary": "Figure 创始人 Brett Adcock（@adcock_brett）11 月 8 日 01:58（UTC+8）再发一条约 90.8 秒横屏视频，配文只有 “F.03 humanoid robots”。画面从园区草坪上的多台白黑配色人形机器人起幅，经过印有 Figure 字样的玻璃门厅（门牌可见 3980）和台阶上的员工，进入木梁屋顶的大厅：两侧和通道里仍有多台机器人站立或走动，一名员工捧着纸箱从其间穿过，最后回到室外入口，访客与机器人并肩。这与 11-07 已收的约 86 秒竖屏园区漫步是同一园区机群题材的另一段第一手影像（方向相反、画幅改为横屏），片中机器人几乎都在行走或站立，未见明确作业任务。互动很高（点赞约 3576、浏览约 24.7 万）。",
+  "category": "人形机器人/演示",
+  "company": "Figure",
+  "source": "X：@adcock_brett（Figure 创始人，第一手）",
+  "source_url": "https://x.com/adcock_brett/status/2119127304265949511",
+  "published_at": "2026-11-08T01:58:15+08:00",
+  "collected_at": "2026-11-08T09:05:43+08:00",
+  "engagement": {
+    "likes": 3576,
+    "reposts": 320,
+    "replies": 341,
+    "views": 247055
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "未说明这些机器人是否全自主导航、遥控或经过剪辑加速",
+    "未给出园区内具体台数，也未说明有多少台在客户现场做有偿工作",
+    "与 11-07 已收竖屏园区漫步为同一题材的另一段视频，不是新的作业能力演示",
+    "门牌画面可见 3980，与昨日条目里根据另一视角推断的 4000 不完全相同，以本片画面为准"
+  ],
+  "credit": "来源：X @adcock_brett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 90.77,
+      "transcoded": true,
+      "bytes": 35783210,
+      "sha256": "6cef98261d8ac6a67c7985832368386d1ca9c78fcc094feaf866e125844e3ff7",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 258222,
+      "sha256": "69b535fb91c4cb5d12d67456f11027d98fd0b01e950ec2585e27b29a2c06a989",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}
