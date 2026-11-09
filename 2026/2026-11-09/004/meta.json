@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-09",
+  "title": "Festo 平面传送模块：齿轮滚子拼成地板，箱子能前后左右任意移动分拣",
+  "summary": "聚合号 Ilir Aliu（@IlirAliu_）11 月 8 日 16:56（UTC+8）发了一段约 51 秒横屏视频，注明“Credit: Festo”。帖子介绍这是 Festo 的一种传送系统，可让物体在平面上沿 X、Y 两个方向移动，不需要机械臂或移动机器人，通过控制两轴运动就能对箱子和零件重新定位、转向和分拣，适合仓库、产线和分拣场景。画面为产品 CG 动画：带齿的滚子驱动单元、带 FESTO 标识的方形模块，以及多块模块拼成的大面积平台。帖子互动较高（点赞约 267、浏览约 1.2 万）。",
+  "category": "其他机器人/工业自动化",
+  "company": "Festo",
+  "source": "X：@IlirAliu_（聚合号转发，注明 Credit: Festo）",
+  "source_url": "https://x.com/IlirAliu_/status/2119353257445261714",
+  "published_at": "2026-11-08T16:56:06+08:00",
+  "collected_at": "2026-11-09T09:00:03+08:00",
+  "engagement": {
+    "likes": 267,
+    "reposts": 24,
+    "replies": 8,
+    "views": 12070
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "聚合号转发，帖子未给出产品名称、发布时间或 Festo 原始链接，可能不是新品",
+    "画面是 CG 产品动画，不是实拍运行"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 50.65,
+      "transcoded": true,
+      "bytes": 5279571,
+      "sha256": "c3641b5e2e0e0b7883b3158416eaf32270c46f0fc14f0e5bfcfc28feba2b47a8",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 70167,
+      "sha256": "e89ab351c33f2c0703250ded8993249acb686d156ec47dae0cd89f3f2834943a",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

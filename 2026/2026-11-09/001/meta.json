@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-09",
+  "title": "YC 新创 Theseus Robotics 亮相：人形机器人夜里给苏黎世超市补货、白天拣线上订单",
+  "summary": "Theseus Robotics（@theseuscom，YC F26）11 月 8 日 01:50（UTC+8）发布首支约 113 秒横屏视频，配文称其机器人“夜里给超市货架补货、白天拣选线上订单，不需要改动店里任何东西”，“晚 9 点熄灯，早 9 点货架补满”，下一站是旧金山。片中以 21:04 熄灯、23:20、08:27、09:00 开门等时间字幕串起一夜：双臂轮式人形机器人在超市货架间取放商品、推着红色购物篮拣订单（画面有订单清单字幕），穿插团队成员采访，并有一段“ERROR CORRECTION”字幕。官方帖互动较高（点赞约 1007、浏览约 8.9 万）。聚合号 @CyberRobooo 11-09 01:01 转述称硬件为深圳星尘智能 Astribot S1、已在苏黎世两家超市部署、每小时最多补货 400 件、必要时人员通过 VR 远程介入，这些细节官方帖未写。",
+  "category": "人形机器人/零售落地",
+  "company": "Theseus Robotics",
+  "source": "X：@theseuscom（Theseus Robotics 官方，第一手）",
+  "source_url": "https://x.com/theseuscom/status/2119125226969849933",
+  "published_at": "2026-11-08T01:50:00+08:00",
+  "collected_at": "2026-11-09T09:00:03+08:00",
+  "engagement": {
+    "likes": 1007,
+    "reposts": 91,
+    "replies": 96,
+    "views": 89201
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "硬件是否为星尘智能 Astribot S1、是否已在苏黎世两家超市部署，来自 @CyberRobooo 转述，官方帖未说明",
+    "“每小时补货 400 件”来自转述（@clankrmedia 称为公司说法），未见官方帖原文",
+    "VR 远程介入、干预数据用于训练等说法来自转述；官方视频未说明自主比例或是否加速",
+    "发布时间 11-08 01:50（UTC+8），略早于今日 24 小时窗口，前几日未收"
+  ],
+  "credit": "来源：X @theseuscom",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 112.98,
+      "transcoded": true,
+      "bytes": 11422427,
+      "sha256": "84566aea8e92c105970571c59414d34d6c6f7c9f64052c3063cc4bb0478d859f",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 95642,
+      "sha256": "d2678653c9168bcbd1b20b9de9aedfdf4b8da1a7595686fe563115aef7254f5e",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

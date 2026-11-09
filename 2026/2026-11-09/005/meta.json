@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-09",
+  "title": "不到 10 美元的机器人指尖触觉：NYU 等开源 PanoTac，摸出试管朝向、感到塞子松开",
+  "summary": "纽约大学、纽约城市大学和哥伦比亚大学研究者推出开源三轴触觉传感器 PanoTac。作者之一 Jeff Cui（@jeffacce）11 月 5 日 05:53（UTC+8）发帖称其为成本不到 10 美元的稠密 3D 触觉传感器，演示机器人把试管放上试管架并拔塞子：PanoTac 能判断试管朝向，并感知塞子何时松脱（约 8 秒视频）。聚合号 @IlirAliu_ 11 月 9 日 03:03（UTC+8）再次介绍：指尖内结合接触位置感应和磁性形变测量，输出 12×32×3 的接触图，最高 100Hz；视觉加触觉成功率 92%，只用视觉 45%；还演示估计瓶子重量、处理颗粒物等，每个指尖硬件成本约 9–50 美元。素材为该帖约 29 秒视频：机械臂操作画面配右侧黄色触觉力场可视化。",
+  "category": "具身智能/触觉",
+  "company": "NYU / Columbia（学术）",
+  "source": "X：@jeffacce（作者，第一手）；@IlirAliu_（聚合号介绍）",
+  "source_url": "https://x.com/jeffacce/status/2118099341084950720",
+  "published_at": "2026-11-05T05:53:29+08:00",
+  "collected_at": "2026-11-09T09:00:03+08:00",
+  "engagement": {
+    "likes": 111,
+    "reposts": 15,
+    "replies": 6,
+    "views": 5510
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "论文 11-03 至 11-05 已发布，今日是聚合号再次介绍，不算当日新闻",
+    "92% 对 45%、9–50 美元成本、100Hz 等数字来自聚合号转述的论文说法，未逐一核对论文原文",
+    "作者帖写“<$10”，聚合号写“$9 到 $50 每指尖”，口径不同"
+  ],
+  "credit": "来源：X @jeffacce",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 388,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 29.47,
+      "transcoded": true,
+      "bytes": 4684130,
+      "sha256": "7a2aff87b1672916d25a4aa619b8165e00d95acbe25cbf8f7dd02ee76e2d3b03",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1199,
+      "h": 432,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 34482,
+      "sha256": "e10013770164749bb9238c06834cb5b57c76c0841e604db4b3d1dfe101b89888",
+      "orig_name": "005_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 388,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 7.9,
+      "transcoded": true,
+      "bytes": 1431920,
+      "sha256": "94527abde47eb57955046a0e1b1703f4ff2ae2513a702995af8f73c9f2f0a524",
+      "orig_name": "005_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1199,
+      "h": 432,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 34557,
+      "sha256": "b8b09796a7285636f0a1a631f4ff779aae0495fb104518cf365db6b00ac79b65",
+      "orig_name": "005_2_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "YC 新创 Theseus Robotics 亮相：人形机器人夜里给苏黎世超市补货、白天拣线上订单",
+      "selected": null,
+      "bytes": 11518069,
+      "has_video": true,
+      "duration": 112.98
+    },
+    {
+      "id": "002",
+      "title": "Google DeepMind 发布 MuJoCo 4：浏览器里就能跑的物理仿真，新增可塑形软体和防穿透接触",
+      "selected": null,
+      "bytes": 5853255,
+      "has_video": true,
+      "duration": 112.75
+    },
+    {
+      "id": "003",
+      "title": "韩国 RLWRLD 在进博会宝马展台现场演示：双臂五指灵巧手在传送带上分拣",
+      "selected": null,
+      "bytes": 6304768,
+      "has_video": true,
+      "duration": 27.48
+    },
+    {
+      "id": "004",
+      "title": "Festo 平面传送模块：齿轮滚子拼成地板，箱子能前后左右任意移动分拣",
+      "selected": null,
+      "bytes": 5349738,
+      "has_video": true,
+      "duration": 50.65
+    },
+    {
+      "id": "005",
+      "title": "不到 10 美元的机器人指尖触觉：NYU 等开源 PanoTac，摸出试管朝向、感到塞子松开",
+      "selected": null,
+      "bytes": 6185089,
+      "has_video": true,
+      "duration": 37.37
+    }
+  ],
+  "order": [],
+  "total_bytes": 35210919,
+  "updated_at": "2026-11-09T09:00:03+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

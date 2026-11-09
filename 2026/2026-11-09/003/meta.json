@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-09",
+  "title": "韩国 RLWRLD 在进博会宝马展台现场演示：双臂五指灵巧手在传送带上分拣",
+  "summary": "机器人基础模型公司 RLWRLD（@RLWRLD_ai）11 月 8 日 10:11（UTC+8）发帖称，宝马邀请其在第九届进博会（上海，11 月 5–10 日）宝马主办的初创展区展示，现场用其灵巧操作基础模型 RLDX 运行双臂分拣演示：识别传送带上陆续到来的不同形状物体，协调两只五指手完成分拣。约 27 秒竖屏视频：宝马展台与进博会场馆外景、“RLWRLD is running Live Demo in BMW booth”字幕、印有 RLWRLD 的双臂上身机器人在传送带前抓取绿色和纸盒物件，背景屏幕有基准对比图表，结尾字幕“Ready for Real World”。官方帖互动较低（点赞 4）。",
+  "category": "具身智能/灵巧操作",
+  "company": "RLWRLD",
+  "source": "X：@RLWRLD_ai（RLWRLD 官方，第一手）",
+  "source_url": "https://x.com/RLWRLD_ai/status/2119251466305306939",
+  "published_at": "2026-11-08T10:11:38+08:00",
+  "collected_at": "2026-11-09T09:00:03+08:00",
+  "engagement": {
+    "likes": 4,
+    "reposts": 1,
+    "replies": 1,
+    "views": 572
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "未说明演示是否全自主、成功率多少；视频为剪辑版",
+    "背景屏幕上的基准对比图（RLDX 与 NVIDIA GR00T 等）画面不清，未核实具体数字",
+    "机器人本体硬件品牌未说明"
+  ],
+  "credit": "来源：X @RLWRLD_ai",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 27.48,
+      "transcoded": true,
+      "bytes": 6220232,
+      "sha256": "2138c3b553e54f983921063246372047a00e3b507c65c02b318d209b4b9597d5",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 84536,
+      "sha256": "cc832ea1da9ee021c9b47bb3a471cc037be1cb1457fd495d1bca1d5d3922e7b9",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}
