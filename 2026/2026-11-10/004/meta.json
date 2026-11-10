@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-10",
+  "title": "特斯拉 Optimus 2.5 在 CoRL 给人发零食，博主称是遥操作",
+  "summary": "聚合号 The Humanoid Hub（@TheHumanoidHub）11 月 10 日 05:03（UTC+8）从 CoRL 奥斯汀现场发帖，称 Optimus 2.5 正在展台给人发零食小包，并写明“是遥操作的”。他和特斯拉工程师聊过，对方不能透露细节，但有人说很快会看到一些很酷的自主演示。约 18.5 秒横屏视频为展台实拍（点赞约 204、浏览约 1.2 万）。另有 @GoingBallistic5 发图称这次带来的是基于近期放弃专利的 22 自由度手、17 个执行器的小臂，并称自主作业不会在 CoRL 展示、会留给下一代手，这些细节官方未确认。",
+  "category": "人形机器人/会议现场",
+  "company": "Tesla",
+  "source": "X：@TheHumanoidHub（聚合号现场第一手）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2119898604072522164",
+  "published_at": "2026-11-10T05:03:07+08:00",
+  "collected_at": "2026-11-10T09:06:41+08:00",
+  "engagement": {
+    "likes": 204,
+    "reposts": 12,
+    "replies": 18,
+    "views": 11939
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "原帖已写明这台是遥操作，不是自主发零食；剪辑口播须带上“遥操作”",
+    "“Optimus 2.5”这一叫法来自博主，特斯拉官方今日未见对应发帖",
+    "“很快会有自主演示”来自未具名的展台工程师口述，第二手转述",
+    "@GoingBallistic5 关于 22 自由度手、17 执行器小臂、自主演示留给下一代手等说法非官方，未核实"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 18.53,
+      "transcoded": true,
+      "bytes": 2624214,
+      "sha256": "7b4ad9d8d3592f4dd3646065be241ae95b95710576eb532c80d471295fe0a120",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 80635,
+      "sha256": "7d4cae9a004c6c2caceb077ec1a7ed2dc5fd7a2b9d64374790a25b09a7537101",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

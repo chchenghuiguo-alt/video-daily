@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-10",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "波士顿动力给 Atlas 装上轮子：用滑板车轮测试全身强化学习控制器，官方称不是产品",
+      "selected": null,
+      "bytes": 30621054,
+      "has_video": true,
+      "duration": 170.88
+    },
+    {
+      "id": "002",
+      "title": "英伟达在 CoRL 发布 GR00T 2：预测未来画面和动作的世界动作模型，同步推出 Isaac Lab 3.0",
+      "selected": null,
+      "bytes": 28621387,
+      "has_video": true,
+      "duration": 203.15
+    },
+    {
+      "id": "003",
+      "title": "谷歌 DeepMind 在 CoRL 展台：观众可向 Apptronik Apollo 人形机器人现场点任务",
+      "selected": null,
+      "bytes": 15708549,
+      "has_video": true,
+      "duration": 80.06
+    },
+    {
+      "id": "004",
+      "title": "特斯拉 Optimus 2.5 在 CoRL 给人发零食，博主称是遥操作",
+      "selected": null,
+      "bytes": 2704849,
+      "has_video": true,
+      "duration": 18.53
+    },
+    {
+      "id": "005",
+      "title": "南极冰上超级马拉松：人形机器人 Qestr 跑了约 3 公里因电池耗尽退赛",
+      "selected": null,
+      "bytes": 4633346,
+      "has_video": true,
+      "duration": 20.69
+    },
+    {
+      "id": "006",
+      "title": "Apple 和 Meta 都在 CoRL 设展台却没什么可演示，博主称主要在招人",
+      "selected": null,
+      "bytes": 3578465,
+      "has_video": true,
+      "duration": 14.07
+    }
+  ],
+  "order": [],
+  "total_bytes": 85867650,
+  "updated_at": "2026-11-10T09:06:41+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-10",
+  "title": "Apple 和 Meta 都在 CoRL 设展台却没什么可演示，博主称主要在招人",
+  "summary": "聚合号 The Humanoid Hub（@TheHumanoidHub）11 月 10 日 06:53（UTC+8）从 CoRL 奥斯汀现场发帖，称 Apple 和 Meta 都设了展台，但都没什么可展示，来这里是为了招人。他写道：Apple 在说服机器人研究者加入一个“特别保密项目”，具体内容对方什么都不能说；Meta 则在为 Meta Robotics Studio 的人形机器人团队招人，向硬件和 AI 人才游说，一起做消费级人形机器人。约 14 秒横屏视频为展台现场（点赞约 52、浏览约 4000）。Apple 与 Meta 官方今日未见对应说明。",
+  "category": "行业/会议现场",
+  "company": "Apple / Meta",
+  "source": "X：@TheHumanoidHub（聚合号现场见闻，非官方）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2119926329256894570",
+  "published_at": "2026-11-10T06:53:17+08:00",
+  "collected_at": "2026-11-10T09:06:41+08:00",
+  "engagement": {
+    "likes": 52,
+    "reposts": 0,
+    "replies": 7,
+    "views": 4045
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "内容是博主在展会现场的见闻和转述，Apple、Meta 官方未确认",
+    "“特别保密项目”“消费级人形机器人”是博主对招人说辞的概括，不是公司公告",
+    "“两边都没什么可展示”是博主判断，不排除有不对公众开放的内部演示"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 14.07,
+      "transcoded": true,
+      "bytes": 3492217,
+      "sha256": "16053133be213376772aaab99f9d29596dacbf9befa70cad0aa6e1a6d6f5ba5f",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 86248,
+      "sha256": "9a3506946e7f6a33130edf00d375761cc9f1511a4ca8d81552c4c1c1062e42d6",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

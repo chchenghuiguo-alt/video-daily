@@ -1,0 +1,81 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-10",
+  "title": "英伟达在 CoRL 发布 GR00T 2：预测未来画面和动作的世界动作模型，同步推出 Isaac Lab 3.0",
+  "summary": "英伟达研究员 Yuke Zhu（@yukez）11 月 10 日 03:50（UTC+8）发帖“Meet GR00T 2”，称这是新一代世界动作模型（WAM）：同时想象物理世界会如何展开，并生成抵达那里的动作；同一套模型可跑在平行夹爪、灵巧手和人形机器人上（点赞约 640、浏览约 3.2 万），并给出项目页。他在随后帖文中说：GR00T 2 Turbo 是更快版本，在搭载 NVIDIA Jetson Thor 的人形机器人上端侧运行，驱动全身走路、弯腰、伸手和搬运，演示包括递爆米花、擦桌子和清理桌面；还可通过 WAM API 与推理模型配合，在相机画面上标出抓取点和放置点来“指哪打哪”。官方账号 @NVIDIARobotics 稍早（11-09 22:09 UTC+8）发帖宣布在 CoRL 2026 推出面向人形的开放世界动作模型 GR00T 2，以及由 @RLWRLD_ai 和加州大学伯克利分校基于 Isaac Lab-Arena 建立的新工业基准。英伟达博客（2026-11-09）写道：GR00T 2 建立在 NVIDIA Cosmos 上，训练数据包括约 10 万小时英伟达开源第一人称人体数据；自称在 50 项评估任务中有 40 项至少成功过一次（无需该任务的专门演示），平均成功率在每项 1 次演示时约 71%、5 次演示时约 95%；同时发布 Isaac Lab 3.0（可用智能体搭建训练环境，切换 PhysX 与 Newton 物理引擎），并称在一项基于视觉的灵巧操作基准上，Isaac Lab 3.0+Newton 的训练吞吐最高约为 Isaac Lab 2.3+PhysX 的 2.5 倍。Yuke Zhu 另称代码计划 12 月放出，并已在 Hugging Face 发布约 10 万小时人体视频数据集。素材为 Yuke Zhu 的约 91 秒发布视频，以及约 113 秒的 GR00T 2 Turbo 人形端侧演示。",
+  "category": "具身智能/基础模型",
+  "company": "NVIDIA",
+  "source": "X：@yukez（英伟达研究员，第一手）；@NVIDIARobotics 官方公告；NVIDIA 博客核实",
+  "source_url": "https://x.com/yukez/status/2119880324075377094",
+  "published_at": "2026-11-10T03:50:29+08:00",
+  "collected_at": "2026-11-10T09:06:41+08:00",
+  "engagement": {
+    "likes": 640,
+    "reposts": 91,
+    "replies": 20,
+    "views": 31906
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "40/50 项至少成功一次、1 次演示约 71%、5 次演示约 95%、训练吞吐最高约 2.5 倍等数字出自英伟达官方博客，属开发方自述，未见第三方复现",
+    "Yuke Zhu 另写数据金字塔为“40 万小时以上第一人称人体视频 + 1 万小时 UMI 演示 + 2.35 万小时机器人遥操作”，与博客所写“约 10 万小时英伟达开源第一人称人体数据”口径不同，未看到完整对照说明",
+    "GR00T 2 Turbo 端侧演示中的人形机器人品牌、是否全程自主、视频是否剪辑或加速，原帖未说明",
+    "Yuke Zhu 称代码将在 12 月放出；博客称 GR00T 2 为开放模型，但帖文发布时未见权重、许可证和参数量的完整说明"
+  ],
+  "credit": "来源：X @yukez",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 90.64,
+      "transcoded": true,
+      "bytes": 14614752,
+      "sha256": "f246aec4f39c33145df466428cfc3e0c0b3374ac1c8f7f2d941d6e313ef6c49a",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 134193,
+      "sha256": "8cf056a2d0022812686d04a74c14e3e3659ba06fa1f973fc9cdaa94548d48ab2",
+      "orig_name": "002_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": false,
+      "duration": 112.51,
+      "transcoded": true,
+      "bytes": 13705588,
+      "sha256": "577c5020c8c844004480ef3a33b1b94ef4073387d8c44e9d3a99a687547e747f",
+      "orig_name": "002_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 166854,
+      "sha256": "5fa9b0f0460a3520a9aa8d07f64f9495919d9737068264d894dab1f467ac41e8",
+      "orig_name": "002_2_thumb.jpg"
+    }
+  ]
+}
