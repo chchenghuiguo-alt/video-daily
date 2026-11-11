@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-11",
+  "title": "Gemini Robotics 2.5 驱动 Apptronik Apollo 2 进奔驰产线：自主给汽车零件配料，官方称成功率 96%",
+  "summary": "DeepMind 机器人负责人 Carolina Parada（@carolina_parada）11 月 10 日 23:58（UTC+8）发布约 26 秒横屏视频，称衡量机器人模型的最终标准是能否在真实工作场所可靠工作：在与 @Apptronik 和 @MercedesBenz 的概念验证中，Gemini Robotics 2.5 帮助 Apollo 2 人形机器人拣选并整理汽车零件。画面中 Apollo 2 站在印有 Mercedes-Benz 字样的产线旁，从料箱取件放入托盘，片尾为 Gemini Robotics、梅赛德斯-奔驰和 Apptronik 三方标志。DeepMind 官方博客写明：试验在匈牙利凯奇凯梅特和德国辛德芬根的在产汽车产线进行，Apollo 2 自主完成“配料（kitting）”——把散装料箱里的零件按每辆车所需顺序分拣进托盘，拣选装盘成功率 96%。昨日已收 DeepMind 展台上 Apollo 的现场互动，本条是新公布的工厂实测，不重复。",
+  "category": "人形机器人/工厂落地",
+  "company": "Google DeepMind × Apptronik × Mercedes-Benz",
+  "source": "X：@carolina_parada（DeepMind 机器人负责人，第一手）；DeepMind 官方博客",
+  "source_url": "https://x.com/carolina_parada/status/2120184213429473550",
+  "published_at": "2026-11-10T23:58:02+08:00",
+  "collected_at": "2026-11-11T08:59:01+08:00",
+  "engagement": {
+    "likes": 88,
+    "reposts": 10,
+    "replies": 6,
+    "views": 6541
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "96% 成功率出自 DeepMind 博客，属厂商自述的概念验证结果，未披露样本量和持续时长",
+    "这是概念验证，不代表已在奔驰工厂正式部署"
+  ],
+  "credit": "来源：X @carolina_parada",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 26.0,
+      "transcoded": true,
+      "bytes": 3337048,
+      "sha256": "9159dbfefe43dfd99e5bd3ad0422831c69db4b0927b5521421e8851f5123c95f",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 39029,
+      "sha256": "ca38c6108a00fd7bf7e3c49d25d077314a9308612b6b032919de57f759f3586a",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

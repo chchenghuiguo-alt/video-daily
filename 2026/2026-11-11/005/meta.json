@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-11",
+  "title": "CoRL 现场：人类和 Sharpa 机器人比“接落棒”反应速度，机器人赢了",
+  "summary": "中国科技媒体智东西（@Chinazhidx）11 月 10 日 19:25（UTC+8）发布约 17 秒竖屏视频，配文称：在 CoRL 2026 现场，一名观众和一台 Sharpa 机器人玩“接落棒”反应游戏，机器人赢了。画面中一台白色上半身人形机器人立在圆形底座上，周围围满参会者，旁边竖着几根红色短棒。Sharpa 是灵巧手厂商，其 SharpaWave 五指手也出现在今天 DeepMind 公布的 Apollo 2 配置中。帖子互动很低（点赞 3、浏览约 300），适合作为轻松的现场花絮。",
+  "category": "人形机器人/会展花絮",
+  "company": "Sharpa",
+  "source": "X：@Chinazhidx（智东西，媒体现场拍摄/转发）",
+  "source_url": "https://x.com/Chinazhidx/status/2120115638983340222",
+  "published_at": "2026-11-10T19:25:32+08:00",
+  "collected_at": "2026-11-11T08:59:01+08:00",
+  "engagement": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 0,
+    "views": 306
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "拍摄者和机器人型号帖子未注明；“机器人赢了”是发帖方说法，视频未见计时或比分",
+    "互动量很低，只作花絮使用"
+  ],
+  "credit": "来源：X @Chinazhidx",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 17.44,
+      "transcoded": true,
+      "bytes": 3654541,
+      "sha256": "0a8dc3fba55a6eabebd302dabd3e45dab8020c9bd0be49b226be9767fab722c2",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 115987,
+      "sha256": "bbe47823b1e2b2b2259dda1cf2fc6ae9249d2aff3b09728ecdf77b76370ab124",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

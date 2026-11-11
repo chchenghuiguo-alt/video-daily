@@ -1,0 +1,77 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-11",
+  "title": "谷歌 DeepMind 发布 Gemini Robotics 2.5：数月内学会数百项灵巧操作，从叠衣服、夹点心到工厂分拣零件",
+  "summary": "Google DeepMind（@GoogleDeepMind）11 月 10 日 23:00（UTC+8）发布约 29 秒横屏视频，称“Gemini Robotics 2.5 来了”，新一代物理 AI 能学会数百项日常技能，从叠衣服、用夹子夹点心，到在工厂车间自主分拣汽车零件（点赞约 3474、浏览约 29 万）。官方博客（作者为 DeepMind 机器人负责人 Carolina Parada）称：这是其迄今最强的视觉-语言-动作（VLA）模型，在 200 多项不同任务上测试，例如用夹子上餐、给礼盒系蝴蝶结、用移液器移液；与此前基线相比，成功率依任务类型提升 30% 到 100%，完成速度快 20% 到 30%；同一模型可用于 Apptronik 的 Apollo 2 人形（配 22 自由度的 SharpaWave 五指手）和双平行夹爪的 Franka Duo 平台。DeepMind 称研发提速很大程度来自 Gemini 4 Argon：它能从单个相机视角搭建虚拟练习环境、回看自己的失误来改进动作。安全方面，官方称改进了避让人类和识别危险的能力，并推出针对机器人越狱攻击的新基准（Ars Technica 报道名为 ASIMOV-jailbreak）。模型目前只向机器人合作伙伴推送，产品页为“加入候补名单”，不是公开可用。配图两张来自 Carolina Parada 同日帖子。",
+  "category": "具身智能/机器人大模型",
+  "company": "Google DeepMind",
+  "source": "X：@GoogleDeepMind（官方，第一手）；DeepMind 官方博客；Ars Technica、The Verge 报道",
+  "source_url": "https://x.com/GoogleDeepMind/status/2120169787896525104",
+  "published_at": "2026-11-10T23:00:42+08:00",
+  "collected_at": "2026-11-11T08:59:01+08:00",
+  "engagement": {
+    "likes": 3474,
+    "reposts": 420,
+    "replies": 282,
+    "views": 291604
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“成功率提升 30%–100%、速度快 20%–30%”是 DeepMind 实验室评测的自述数字，比较对象是此前基线，未见第三方复现",
+    "“数月内学会数百项任务”“200 多项任务”为厂商自述",
+    "视频是多段剪辑合集，未逐段标注是否加速；目前只向合作伙伴推送，普通开发者需排队"
+  ],
+  "credit": "来源：X @GoogleDeepMind",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": false,
+      "duration": 29.03,
+      "transcoded": true,
+      "bytes": 3543795,
+      "sha256": "c865390a6ff948cbc457dd040f8d524955e64df2d25e79e4cf7eda3a77d5f12a",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 132470,
+      "sha256": "829e15d6f5e2ee5c379e9f232b970c6e4bfabb1899120a540b643fc5b0701480",
+      "orig_name": "001_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 388941,
+      "sha256": "bb103b97986400682784fd18248fe5f932ae462772c237e807110f5ea20c9a0d",
+      "orig_name": "001_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 234504,
+      "sha256": "da713d2d85079c47e7f9205c5846bca691ce61da3eda3020272b68a0045fb983",
+      "orig_name": "001_3.jpg"
+    }
+  ]
+}

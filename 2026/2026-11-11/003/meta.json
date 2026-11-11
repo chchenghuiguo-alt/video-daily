@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-11",
+  "title": "亚马逊 Ring 推出 Ring Robotics：250 美元室内巡逻无人机 + 1000 美元商用巡逻机器人",
+  "summary": "亚马逊设备与服务负责人 Panos Panay（@panos_panay）11 月 10 日 22:00（UTC+8）发布约 20 秒 4K 横屏预告片，宣布 Ring Robotics——“一个新的自主安防品类”，首发两款产品 Ring Drone Cam 和 Ring Rover Cam（点赞约 1085、浏览约 11.4 万）。亚马逊官方新闻稿写明：两者都由名为 AI Pilot 的系统驱动，能建图、推荐巡逻点并自主绕障。Ring Drone Cam 是室内飞行安防摄像头，平时停在充电座里，可按设定航线和时间巡逻，Ring 门铃、传感器或警报触发时会自动飞到预设点查看，148° 视场角、2K 视频、自带补光灯。Ring Rover Cam 是面向商户的自主巡逻机器人，可最高 4K 推流，官方称灵感来自 Amazon Astro 用户最喜欢的“移动安防”功能。媒体报道（GeekWire、TechCrunch）：Rover 售价 999.99 美元，12 月 16 日在美国发货并已开放预订；Drone Cam 售价 249.99 美元，计划 2027 年 1 月 27 日发货，目前只接受邮件登记，且尚未获得美国 FCC 授权。视频为产品特写预告，没有真实使用场景。",
+  "category": "消费/安防机器人",
+  "company": "Amazon Ring",
+  "source": "X：@panos_panay（亚马逊设备负责人，第一手）；About Amazon 官方新闻稿；GeekWire、TechCrunch、Engadget 报道",
+  "source_url": "https://x.com/panos_panay/status/2120154701308350677",
+  "published_at": "2026-11-10T22:00:46+08:00",
+  "collected_at": "2026-11-11T08:59:01+08:00",
+  "engagement": {
+    "likes": 1085,
+    "reposts": 82,
+    "replies": 59,
+    "views": 113633
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "价格与发货日期来自媒体报道（GeekWire、TechCrunch）；TechCrunch 一处写无人机售价 270 美元，与其他来源的 249.99 美元不一致，以官方页面为准",
+    "Drone Cam 尚未获得 FCC 授权，发货日期可能变化",
+    "视频是渲染/特写式预告，不是实拍功能演示"
+  ],
+  "credit": "来源：X @panos_panay",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 20.33,
+      "transcoded": true,
+      "bytes": 746137,
+      "sha256": "6d83cace393a41c0961e7a194b1b2b00672f428fb7dfe3b31d10c8bde266529a",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 16323,
+      "sha256": "8b10d62d62edaf3243f0e207d2b9a1704fe16bd7fd99c51dc581b0c8cfca5ff7",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

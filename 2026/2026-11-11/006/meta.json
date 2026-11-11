@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-11",
+  "title": "CoRL 现场：参会者牵着智元 A3 人形机器人的手在展厅里走",
+  "summary": "@TheHumanoidHub 11 月 10 日 14:51（UTC+8）发布约 212 秒 4K 横屏现场视频，配文为“@GoingBallistic5 在 CoRL 奥斯汀牵着智元 AGIBOT A3 的手走”（点赞约 158、浏览约 1.06 万）。画面中一位参会者牵着白黑配色的全尺寸双足人形 A3 在展厅里走动、转向，周围有观众拍摄，背景可见多台同款机器人。据智元官网，A3 定位舞台表演和互动娱乐，身高 173 厘米、体重 55 公斤，双电池 1152 Wh，官方称最长续航 10 小时、10 秒换电。",
+  "category": "人形机器人/会展现场",
+  "company": "智元 AGIBOT",
+  "source": "X：@TheHumanoidHub（现场拍摄）；智元官网 A3 产品页",
+  "source_url": "https://x.com/TheHumanoidHub/status/2120046590069236190",
+  "published_at": "2026-11-10T14:51:10+08:00",
+  "collected_at": "2026-11-11T08:59:01+08:00",
+  "engagement": {
+    "likes": 158,
+    "reposts": 20,
+    "replies": 6,
+    "views": 10565
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频较长（约 3.5 分钟）且中间有大段对话，剪辑时建议截取牵手行走的片段",
+    "牵引行走是否为机器人自主跟随（还是遥控配合）视频和帖子都没说明",
+    "A3 参数来自智元官网，属厂商数据"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 212.09,
+      "transcoded": true,
+      "bytes": 73304463,
+      "sha256": "5d2b9325ffaa6021f7b558f1cd40b2b7b1db3eca5f5b747453d47c91d21ddf59",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 127161,
+      "sha256": "d10654c56ce3f70456be67647a2d26d37fcbecaae424fa6766e7996e33852204",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

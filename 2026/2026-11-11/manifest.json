@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "谷歌 DeepMind 发布 Gemini Robotics 2.5：数月内学会数百项灵巧操作，从叠衣服、夹点心到工厂分拣零件",
+      "selected": null,
+      "bytes": 4299710,
+      "has_video": true,
+      "duration": 29.03
+    },
+    {
+      "id": "002",
+      "title": "Gemini Robotics 2.5 驱动 Apptronik Apollo 2 进奔驰产线：自主给汽车零件配料，官方称成功率 96%",
+      "selected": null,
+      "bytes": 3376077,
+      "has_video": true,
+      "duration": 26.0
+    },
+    {
+      "id": "003",
+      "title": "亚马逊 Ring 推出 Ring Robotics：250 美元室内巡逻无人机 + 1000 美元商用巡逻机器人",
+      "selected": null,
+      "bytes": 762460,
+      "has_video": true,
+      "duration": 20.33
+    },
+    {
+      "id": "004",
+      "title": "蚂蚁灵波开源触觉基础模型 LingBot-Touch：把三类触觉传感器统一成一种“触觉 token”",
+      "selected": null,
+      "bytes": 3798018,
+      "has_video": true,
+      "duration": 36.22
+    },
+    {
+      "id": "005",
+      "title": "CoRL 现场：人类和 Sharpa 机器人比“接落棒”反应速度，机器人赢了",
+      "selected": null,
+      "bytes": 3770528,
+      "has_video": true,
+      "duration": 17.44
+    },
+    {
+      "id": "006",
+      "title": "CoRL 现场：参会者牵着智元 A3 人形机器人的手在展厅里走",
+      "selected": null,
+      "bytes": 73431624,
+      "has_video": true,
+      "duration": 212.09
+    }
+  ],
+  "order": [],
+  "total_bytes": 89438417,
+  "updated_at": "2026-11-11T08:59:01+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
