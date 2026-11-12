@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-12",
+  "title": "英伟达 Jim Fan 放出 GR00T 2 原速不剪辑视频：灵巧手自己做完一整个化学实验还收拾桌面",
+  "summary": "英伟达机器人负责人 Jim Fan（@DrJimFan）11 月 11 日 23:32（UTC+8）发布约 154 秒横屏视频，配文“自主、不剪辑、1 倍速”：GR00T 2 控制真实的灵巧手，端到端完成一个化学实验，并在结束后自己清理。他称这是新系列的第 1 集，之后会持续发布实时机器人视频，不再出现常见的“4 倍速”“8 倍速”标签（点赞约 552、浏览约 3.4 万）。画面中一台白色人形上半身固定在实验台前，双臂五指手在称量台、量筒、试剂瓶之间操作，右上角画中画显示手部特写。GR00T 2 已在 11-10 收录（CoRL 发布），本条是新的整段原速实机演示，不重复。",
+  "category": "具身智能/机器人大模型",
+  "company": "NVIDIA",
+  "source": "X：@DrJimFan（英伟达，第一手）",
+  "source_url": "https://x.com/DrJimFan/status/2120540201994846253",
+  "published_at": "2026-11-11T23:32:36+08:00",
+  "collected_at": "2026-11-12T08:55:30+08:00",
+  "engagement": {
+    "likes": 552,
+    "reposts": 72,
+    "replies": 93,
+    "views": 33786
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“自主、不剪辑、1 倍速”是发帖人自述，无第三方核实；画中画特写说明画面经过合成",
+    "实验具体内容（试剂、步骤数）帖子没写，口播不要自行补充"
+  ],
+  "credit": "来源：X @DrJimFan",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 154.5,
+      "transcoded": true,
+      "bytes": 13187557,
+      "sha256": "c111094b03cebdead9b5ab40231b3510d234bd8cd892dda93eb00ec8a370a028",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 92435,
+      "sha256": "309e8661df07d4acba98dde1e343cbdaff5611e476d861fb381a9a5bb745bd28",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

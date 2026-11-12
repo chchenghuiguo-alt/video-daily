@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-12",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Runway 开源机器人模型 Praxis-1：270 亿参数“世界动作模型”，Apache 2.0 可商用",
+      "selected": null,
+      "bytes": 3097738,
+      "has_video": true,
+      "duration": 30.06
+    },
+    {
+      "id": "002",
+      "title": "英伟达 Jim Fan 放出 GR00T 2 原速不剪辑视频：灵巧手自己做完一整个化学实验还收拾桌面",
+      "selected": null,
+      "bytes": 13279992,
+      "has_video": true,
+      "duration": 154.5
+    },
+    {
+      "id": "003",
+      "title": "博主上手测 Gemini Robotics 2.5：把麦克风收纳盒交给机器人，口头提示一句，它自己按开了卡扣",
+      "selected": null,
+      "bytes": 26219386,
+      "has_video": true,
+      "duration": 92.46
+    },
+    {
+      "id": "004",
+      "title": "AI 焊接机器人公司 Path Robotics 融资 3 亿美元，估值 24.5 亿美元，要从焊接扩展到整座工厂",
+      "selected": null,
+      "bytes": 13543938,
+      "has_video": true,
+      "duration": 89.98
+    },
+    {
+      "id": "005",
+      "title": "英国《金融时报》独家：埃里克·特朗普参股的人形机器人公司与以色列军方洽谈，拟供应最多 1000 台进加沙地道",
+      "selected": null,
+      "bytes": 209506,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 56350560,
+  "updated_at": "2026-11-12T08:55:30+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

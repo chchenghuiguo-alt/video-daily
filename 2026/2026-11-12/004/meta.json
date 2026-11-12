@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-12",
+  "title": "AI 焊接机器人公司 Path Robotics 融资 3 亿美元，估值 24.5 亿美元，要从焊接扩展到整座工厂",
+  "summary": "美国俄亥俄州的 Path Robotics（@PathRobotics）11 月 10 日 22:06（UTC+8）发布约 90 秒官方横屏视频，宣布完成 3 亿美元 E 轮融资、估值 24.5 亿美元，由 Georgian 领投，目标是把物理 AI 用到焊接前后的每一道工序（点赞约 153）；联合创始人兼 CEO Andrew Lonsberry 同日发帖讲述自己 8 岁在家里车库学焊接的经历（点赞约 587、浏览约 7.5 万）。视频里有焊接工作站、估值字幕、“收入增长 17 倍”柱状图和 Georgian 合伙人 Emily Walsh 的采访。据官方新闻稿和 Georgian 博文：公司靠两个自研模型，焊接世界模型（Weld World Model）和在其中训练的焊接 AI 智能体 Obsidian；已在美国、加拿大、墨西哥客户处部署几十个自主焊接工作站；与美国最大军舰制造商亨廷顿英格尔斯（HII）签了 7 年、6 亿美元的按绩效生产协议；18 个月内年经常性收入增长 17 倍。SiliconANGLE 报道，公司 4 月还推出了用于造船的四足机器人 Rove。",
+  "category": "工业机器人/融资",
+  "company": "Path Robotics",
+  "source": "X：@PathRobotics（官方，第一手）、@AndrewLonsberry（CEO）；Path Robotics 官方新闻稿、Georgian 博文、SiliconANGLE、Quartz 报道",
+  "source_url": "https://x.com/PathRobotics/status/2120156131800801422",
+  "published_at": "2026-11-10T22:06:27+08:00",
+  "collected_at": "2026-11-12T08:55:30+08:00",
+  "engagement": {
+    "likes": 153,
+    "reposts": 24,
+    "replies": 19,
+    "views": 15923
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“首次合格率超 97%（人工焊工约 70%–85%）”和“收入增长 17 倍”来自公司内部数据，经投资方 Georgian 转述",
+    "发布时间是 11 月 10 日晚，略早于今天窗口，但前几天未收录"
+  ],
+  "credit": "来源：X @PathRobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 89.98,
+      "transcoded": true,
+      "bytes": 13464709,
+      "sha256": "7e09e7a9f461832dfdbafa30791a978b12b768807ac059a0f171fdd861697cc7",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 79229,
+      "sha256": "253f611ef7e887995af6427ad709a4d4f15d5435e7feb249e4915e042987429c",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

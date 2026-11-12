@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-12",
+  "title": "博主上手测 Gemini Robotics 2.5：把麦克风收纳盒交给机器人，口头提示一句，它自己按开了卡扣",
+  "summary": "人形机器人资讯号 @TheHumanoidHub 11 月 11 日 23:40（UTC+8）发布约 92 秒 4K 横屏实拍，配文称 Gemini Robotics 2.5 让他意外：他把自己的 DJI 麦克风收纳盒交给机器人，用语言提示它去按卡扣，它就打开了；他认为如果人工干预只需简单的语言提示，会比人手动接管好得多（点赞约 94、浏览约 9400）。画面是展台环境，一台双臂机器人站在摆着篮子、碗和小玩具的桌前，几位参会者在旁边交谈和递东西。Gemini Robotics 2.5 已在 11-11 收录（官方发布和奔驰产线），本条是第三方现场上手体验。",
+  "category": "具身智能/上手体验",
+  "company": "Google DeepMind",
+  "source": "X：@TheHumanoidHub（博主现场拍摄，第一手）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2120542217324360180",
+  "published_at": "2026-11-11T23:40:37+08:00",
+  "collected_at": "2026-11-12T08:55:30+08:00",
+  "engagement": {
+    "likes": 94,
+    "reposts": 7,
+    "replies": 17,
+    "views": 9418
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "拍摄地点帖子没写，推测为 CoRL 会场的 DeepMind 展台",
+    "视频较长且多为对话，开盒动作在哪一段需剪辑时确认；机器人型号未注明"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 92.46,
+      "transcoded": true,
+      "bytes": 26095900,
+      "sha256": "9c79ce19843b7607cf4e974934c27fe99c177d0c2d196bc1994571ff5738e6ef",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 123486,
+      "sha256": "098e80a32a6247dbee3b543fd3946fc157f7c5638f9c18b8a822305f3e8a6b35",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}
