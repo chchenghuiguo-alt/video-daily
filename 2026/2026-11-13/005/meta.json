@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-13",
+  "title": "智元 A3 Ultra 进驻珠海长隆宇宙飞船：当迎宾、科普讲解员，号称首个具身智能主题乐园",
+  "summary": "智元机器人的 A3 官方账号（@AGIBOT_A3）11 月 12 日 23:26（UTC+8）发布约 162 秒视频，配文“AGIBOT A3 Ultra × 长隆宇宙飞船：世界首个具身智能主题乐园不再只是想法”，标签含珠海（帖子互动量极低）。画面里多台人形机器人分布在乐园各处：宇宙飞船酒店大堂门口和充能站、正门广场迎宾、长江江豚馆和鲸鲨馆做科普讲解（其中一台自我介绍为科普向导），给孩子上声音小课堂，在美食广场和“小小太空站”互动，最后在虎鲸广场的“机器人嘉年华”上和演员一起表演。每个点位左下角都标着位置名称。",
+  "category": "人形机器人/文旅应用",
+  "company": "AGIBOT（智元）",
+  "source": "X：@AGIBOT_A3（智元官方产品账号，第一手）",
+  "source_url": "https://x.com/AGIBOT_A3/status/2120900927485813159",
+  "published_at": "2026-11-12T23:26:00+08:00",
+  "collected_at": "2026-11-13T08:57:50+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 9
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“世界首个具身智能主题乐园”是厂商自称",
+    "帖子没写机器人数量、上岗时间和是否长期运营，是否有人远程操控也未说明",
+    "X 上可下载的最高清版本只有 720p"
+  ],
+  "credit": "来源：X @AGIBOT_A3",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 50.0,
+      "has_audio": true,
+      "duration": 162.47,
+      "transcoded": true,
+      "bytes": 42811820,
+      "sha256": "5a959f1e9065dbfb4bb68219d2d51773520179f58e615825e68aaf7df1772342",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 51563,
+      "sha256": "df92e85cf6a662a47dda2f15330555e535de106166cc28b853acf41a4f2d3c73",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

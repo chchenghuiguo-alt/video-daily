@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-13",
+  "title": "李飞飞的 World Labs 把世界模型 Atlas 向所有人开放：上传想法就能生成 3D 场景、视频和高斯泼溅",
+  "summary": "World Labs（@theworldlabs）11 月 13 日 02:09（UTC+8）宣布向所有人开放世界模型 Atlas：提供网页应用和 API，可以把搭建 3D 世界的想法变成关键帧、视频片段或 3D 高斯泼溅（点赞约 1400、浏览约 13.8 万）。创始人李飞飞（@drfeifei）随后转发称很期待用户用它做出什么（点赞约 1143），并回复网友说这就是前一天在 CoRL 台上没能播放的视频。官方约 90 秒横屏宣传片：从线框勾勒庭院、加阳台，到生成色彩丰富的街巷场景，展示“像素级精确的镜头控制”，以及 Chisel、Frameboy、Viewfinder 几个应用。据 World Labs 博客，Atlas 于 9 月 1 日发布，是同时处理文字、图片、视频和 3D 的多模态自回归扩散 Transformer，可生成最长 1 分钟 1440p 视频，也可用于机器人的“真实到仿真”流程；此前只对部分合作伙伴开放。",
+  "category": "具身智能/世界模型",
+  "company": "World Labs",
+  "source": "X：@theworldlabs（官方，第一手）、@drfeifei（创始人）；World Labs 官方博客",
+  "source_url": "https://x.com/theworldlabs/status/2120942033401717108",
+  "published_at": "2026-11-13T02:09:20+08:00",
+  "collected_at": "2026-11-13T08:57:50+08:00",
+  "engagement": {
+    "likes": 1401,
+    "reposts": 176,
+    "replies": 42,
+    "views": 138228
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "这是 3D 世界生成模型，偏内容创作，和机器人的关系主要在官方所说的“真实到仿真”用途，口播别夸大成机器人模型",
+    "第三方文章称需注册使用、权重不开源、没有公开价格页，官方帖子没写收费方式"
+  ],
+  "credit": "来源：X @theworldlabs",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 90.18,
+      "transcoded": true,
+      "bytes": 32768759,
+      "sha256": "396b0a372d24a2bf2c225ef878f024c3d757d853a7b2d1f956a38ac37606a3f0",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 106094,
+      "sha256": "98541e20567ed1280cc3515d7cf23d26757a734f891ba000fd924bdbed4835c4",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-13",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "斯坦福 Flash ALOHA 开源：每个任务只教 50 次，机械臂接近人手速度抛接球、翻煎饼、帮人穿外套",
+      "selected": null,
+      "bytes": 16477876,
+      "has_video": true,
+      "duration": 107.97999999999999
+    },
+    {
+      "id": "002",
+      "title": "李飞飞的 World Labs 把世界模型 Atlas 向所有人开放：上传想法就能生成 3D 场景、视频和高斯泼溅",
+      "selected": null,
+      "bytes": 32874853,
+      "has_video": true,
+      "duration": 90.18
+    },
+    {
+      "id": "003",
+      "title": "德国 Agile Robots 融资 5 亿美元、估值 85 亿美元，软银领投、英伟达跟投，慕尼黑工厂年产能 1 万台人形机器人",
+      "selected": null,
+      "bytes": 3157564,
+      "has_video": true,
+      "duration": 24.04
+    },
+    {
+      "id": "004",
+      "title": "云深处山猫 LYNX M20 上岛：帮守塔人运补给、夜间巡逻，七里屿灯塔测试",
+      "selected": null,
+      "bytes": 35894915,
+      "has_video": true,
+      "duration": 156.5
+    },
+    {
+      "id": "005",
+      "title": "智元 A3 Ultra 进驻珠海长隆宇宙飞船：当迎宾、科普讲解员，号称首个具身智能主题乐园",
+      "selected": null,
+      "bytes": 42863383,
+      "has_video": true,
+      "duration": 162.47
+    },
+    {
+      "id": "006",
+      "title": "智元 A3 登上 Web Summit 主舞台“演讲”：摔倒可不是什么好的职业选择",
+      "selected": null,
+      "bytes": 10340649,
+      "has_video": true,
+      "duration": 52.65
+    },
+    {
+      "id": "007",
+      "title": "Web Summit 现场：银河通用 Galbot 当“自助售货员”，观众开口点饮料它就去货架拿",
+      "selected": null,
+      "bytes": 5737048,
+      "has_video": true,
+      "duration": 31.0
+    }
+  ],
+  "order": [],
+  "total_bytes": 147346288,
+  "updated_at": "2026-11-13T08:57:50+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

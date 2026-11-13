@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-13",
+  "title": "智元 A3 登上 Web Summit 主舞台“演讲”：摔倒可不是什么好的职业选择",
+  "summary": "欧洲科技大会 Web Summit 官方账号（@WebSummit）11 月 12 日 23:30（UTC+8）发布约 53 秒横屏视频：智元 AgiBot A3 登上 Web Summit 舞台，分享对机器人未来的看法，称智元把移动、操作和交互智能结合起来，打造能移动、干活、像人一样交流的机器人；引语是“摔倒可不是什么好的职业选择”（点赞约 11、浏览约 2350）。画面是里斯本大会主舞台，一台白色人形机器人独自站在台上边说边做手势，大屏同步特写，结尾有两台 A3 并排的镜头。",
+  "category": "人形机器人/大会亮相",
+  "company": "AGIBOT（智元）",
+  "source": "X：@WebSummit（大会官方，第一手）",
+  "source_url": "https://x.com/WebSummit/status/2120902018646589916",
+  "published_at": "2026-11-12T23:30:20+08:00",
+  "collected_at": "2026-11-13T08:57:50+08:00",
+  "engagement": {
+    "likes": 11,
+    "reposts": 4,
+    "replies": 0,
+    "views": 2352
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "机器人的讲稿是否预先编写、是否有人在后台操控，帖子没说明",
+    "演讲具体日期帖子没写（Web Summit 本周在里斯本举行）"
+  ],
+  "credit": "来源：X @WebSummit",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 52.65,
+      "transcoded": true,
+      "bytes": 10197364,
+      "sha256": "3bc616605e111300c53a1bd6fbdab7411a209305dcd9aff861b800c2b9360ee5",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 143285,
+      "sha256": "6afc225eff51276d2b35284cf760e2dfd61ee7ff3aec806f3b8956479c5ea1c2",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

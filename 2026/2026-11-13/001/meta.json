@@ -1,0 +1,79 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-13",
+  "title": "斯坦福 Flash ALOHA 开源：每个任务只教 50 次，机械臂接近人手速度抛接球、翻煎饼、帮人穿外套",
+  "summary": "斯坦福研究者 John Yao（@JohnHYao）11 月 12 日 11:24（UTC+8）发布 Flash ALOHA：只用 50 次示范，机器人就能以接近人类的速度自主完成动态、精细的任务，全部开源；团队成员包括 Chelsea Finn、Zipeng Fu 等（点赞约 644、浏览约 6.9 万）。Chelsea Finn（@chelseabfinn）同日补充：遥操作采集的数据偏慢，UMI 类手持设备在高速下跟踪会变差，Flash ALOHA 让人直接手把手带着机械臂做动作，既快又准，论文、代码和硬件都已公开（点赞约 253）。线程里还说：硬件是装了剪刀式手柄、做过摩擦补偿的轻量机械臂；针对首次采集数据的新手做的用户研究显示，比遥操作直观得多，采集速度提高 3 到 4 倍。主视频约 74 秒横屏，每段都标着“自主 1 倍速”，任务包括空中接毛巾、翻煎饼、递餐盘、帮人穿外套、往洗碗机里放碗；第二段约 34 秒视频是双臂抛接球，画面字幕标注“自主、50 次示范、只用 RGB 输入”。",
+  "category": "具身智能/机器人学习研究",
+  "company": "Stanford（斯坦福）",
+  "source": "X：@JohnHYao（论文作者，第一手）、@chelseabfinn（斯坦福教授，论文作者）",
+  "source_url": "https://x.com/JohnHYao/status/2120719263992565828",
+  "published_at": "2026-11-12T11:24:08+08:00",
+  "collected_at": "2026-11-13T08:57:50+08:00",
+  "engagement": {
+    "likes": 644,
+    "reposts": 81,
+    "replies": 32,
+    "views": 69239
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“接近人类速度”“采集速度提高 3 到 4 倍”是论文作者自己的评测结论，暂无第三方复现",
+    "二手帖称抛接球不到 2 秒、叠短裤不到 6 秒、成功率超 80%，原帖首条没写这些数字，口播引用前需对照论文"
+  ],
+  "credit": "来源：X @JohnHYao",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 74.21,
+      "transcoded": true,
+      "bytes": 13454793,
+      "sha256": "1b00d2dd4c268dd6f00e5563ef47583f252eebef91e2f3bfa821e85c7ff4fa73",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 68835,
+      "sha256": "bc15ac4878f991559b2f930b3fc80837b43dd90d7b333c0d46eba63791274dc9",
+      "orig_name": "001_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 33.77,
+      "transcoded": true,
+      "bytes": 2869189,
+      "sha256": "c515ffc3641e18299d13abc601f61f91986c982657c73065572bcacb234630a6",
+      "orig_name": "001_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 608,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 85059,
+      "sha256": "218797227be672447793df05f69f09ee7935eb9c1574936566499321f8169c4f",
+      "orig_name": "001_2_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-13",
+  "title": "云深处山猫 LYNX M20 上岛：帮守塔人运补给、夜间巡逻，七里屿灯塔测试",
+  "summary": "杭州云深处科技（@DeepRobotics_CN）11 月 12 日 20:50（UTC+8）发布约 156 秒官方横屏短片：旗下轮足机器人 LYNX M20（山猫）正在七里屿岛上测试，帮忙运输补给和巡检设备，让灯塔运作更智能、守塔人少干体力活（互动量很低，点赞 3）。片中英文字幕讲述：过去守岛一待就是一个多月，柴油和淡水都要从码头一桶一桶手提上岛；现在机器人能爬坡越障、驮重物；天黑后还能陪守塔人徐淼琦（音译，字幕为 Xu Miaoqi）夜间巡逻，进机房帮忙巡检。画面有灯塔、山路、驮物爬台阶、夜间打灯巡逻、守塔人拍拍机器人等镜头。",
+  "category": "四足/轮足机器人应用",
+  "company": "DEEP Robotics（云深处）",
+  "source": "X：@DeepRobotics_CN（官方，第一手）",
+  "source_url": "https://x.com/DeepRobotics_CN/status/2120861720579326124",
+  "published_at": "2026-11-12T20:50:12+08:00",
+  "collected_at": "2026-11-13T08:57:50+08:00",
+  "engagement": {
+    "likes": 3,
+    "reposts": 0,
+    "replies": 1,
+    "views": 483
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方宣传片，帖子写的是“正在测试”，不是正式部署",
+    "守塔人中文名按字幕拼音推测，需核对；是否遥控操作视频没说明",
+    "视频较长（约 2.5 分钟），剪辑时只取驮物爬坡和夜巡几段即可"
+  ],
+  "credit": "来源：X @DeepRobotics_CN",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 50.0,
+      "has_audio": true,
+      "duration": 156.5,
+      "transcoded": true,
+      "bytes": 35713949,
+      "sha256": "adbeaa81c1524c1093d5b3ec0b6707174cbb0c2c0304a176ec33f6c37d21ae31",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 180966,
+      "sha256": "fb6339e20c4aa0e70ffd952cea9cf00556f40caebf0eb2a930c6fc136fd40012",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}
