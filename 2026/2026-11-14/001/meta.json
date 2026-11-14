@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-14",
+  "title": "华硕发布首款人形机器人 Gallop：已在自家工厂学装主板配件，2027 年客户试点、2028 下半年上市",
+  "summary": "华硕官方新闻账号（@ASUSPressRoom）11 月 13 日 11:01（UTC+8）发布约 38 秒 4K 横屏视频：介绍华硕首款人形机器人 Gallop，称它正在华硕自家工厂的真实产线上学习一份真实工作，用的是和工人一样的工位和工具；2027 年开始客户试点，2028 年下半年上市。据华硕官网博客：Gallop 的第一份工作是在华硕集团的代工厂给主板装配件，一个工位有 15 种小零件、很多装在透明薄袋里，每块板约 20 秒；目标是 20 秒内成功率 99.5%，和对工人的要求相同。它目前是固定底座的双臂机器人，下一步做轮式版本；整机跑在一台英伟达 Jetson AGX Thor 上，灵巧手由华硕自研、带触觉；训练方式包括老员工戴头戴相机示范、仿真生成变体、操作员戴 VR 头显和手套遥操作，再加上线后持续学习。华硕联席 CEO 许先越 11 月 13 日在 CNBC 上介绍了这款机器人。画面有白色机身特写、双臂抓取装着零件的透明袋、俯拍工位装箱等镜头。",
+  "category": "人形机器人/工厂应用",
+  "company": "ASUS（华硕）",
+  "source": "X：@ASUSPressRoom（华硕官方，第一手）；华硕官网博客、CNBC、Humanoids Daily 报道",
+  "source_url": "https://x.com/ASUSPressRoom/status/2121076017406370244",
+  "published_at": "2026-11-13T11:01:44+08:00",
+  "collected_at": "2026-11-14T08:55:25+08:00",
+  "engagement": {
+    "likes": 23,
+    "reposts": 7,
+    "replies": 4,
+    "views": 2999
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "99.5% 是目标，华硕还没公布实测成功率",
+    "官方说是“人形机器人”，但目前是固定底座双臂形态，没有腿也没有轮子",
+    "视频里哪些镜头是自主、哪些是遥操作没说明",
+    "华硕没公布价格和详细参数；CNBC 里许先越说的是 2027 年下半年交给合作伙伴，和官方帖“2027 年客户试点”的说法略有差别"
+  ],
+  "credit": "来源：X @ASUSPressRoom",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 59.94,
+      "has_audio": true,
+      "duration": 37.57,
+      "transcoded": true,
+      "bytes": 4914751,
+      "sha256": "093bccebbbeef7d1ed563aafcaa77230440ffdf7b760a6bd6b30bbf015098453",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 74595,
+      "sha256": "3a3259afef45e6440a116b65947dd84a14578941e9d1376a0ce91baca2e44c04",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

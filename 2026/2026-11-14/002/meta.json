@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-14",
+  "title": "财富杂志独家：OpenAI 解散独立机器人团队，研究员并入主研究部门，CoRL 展位人去台空",
+  "summary": "《财富》（Fortune）11 月 14 日 01:05（UTC+8）独家报道：OpenAI 解散了独立的机器人团队，研究人员调到公司其他部门，OpenAI 向《财富》确认了这次调整。机器人研究团队并入首席研究官 Mark Chen 领导的主研究团队，应用机器人和硬件团队并入总裁 Greg Brockman 负责的 Applied 部门。OpenAI 发言人说机器人仍是公司长期愿景的核心，这次重组是为了加快进度、不是退出；理由是通用模型（包括 GPT-6 Astra）直接接到机器人上，已能完成部分任务。报道还说，调整就发生在这几天：OpenAI 在本周奥斯汀 CoRL 机器人大会上登记的 208 号展位空着，看不到 OpenAI 的标志。这是 OpenAI 第二次解散机器人团队：2020 年曾关掉，2024 年和 Figure 合作时重建。卡内基梅隆大学教授施冠亚对《财富》说，这说明 OpenAI 认为机器人“不再是一个特殊问题”。X 上 @ns123abc 的帖子（点赞约 8000、浏览约 52 万）配了萨姆·奥特曼的照片和报道截图。",
+  "category": "具身智能/行业动态",
+  "company": "OpenAI",
+  "source": "《财富》独家报道；X：@ns123abc（转述，配图）",
+  "source_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+  "published_at": "2026-11-14T01:05:00+08:00",
+  "collected_at": "2026-11-14T08:55:25+08:00",
+  "engagement": {
+    "likes": 7995,
+    "reposts": 760,
+    "replies": 164,
+    "views": 517576
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "没有视频，只有两张图：奥特曼资料照片版权不明，报道截图来自《财富》，剪辑时建议自己做文字卡",
+    "X 帖称“重启五个月后”就解散，《财富》原文说团队是 2024 年重建的，口播别用“五个月”",
+    "OpenAI 称仍在做人形机器人、奥特曼目标 2027 年首次公开演示，这是公司说法",
+    "有二手帖称 GPT-6 Astra 在英伟达仿真测试中得分 74.8% 对 51%，原报道摘录里没看到这组数字，不要引用"
+  ],
+  "credit": "来源：X @ns123abc",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1024,
+      "h": 684,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 57744,
+      "sha256": "8521bbfdeb506f581ae04df72da4d94a8de308abd085a7bb54c5a9ea2496fc1f",
+      "orig_name": "002_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1206,
+      "h": 1466,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 231328,
+      "sha256": "d2645c4d167534678b3faad82e88c44f57f09ab3fb85c5ca2ef1d0b85141ed80",
+      "orig_name": "002_2.jpg"
+    }
+  ]
+}

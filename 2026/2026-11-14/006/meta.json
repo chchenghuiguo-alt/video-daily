@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-14",
+  "title": "TwitchCon 现场：人形机器人格斗联赛 Ultimate Bots 摆起铁笼擂台，小个子人形机器人跟观众互动",
+  "summary": "游戏媒体 Shacknews（@shacknews）11 月 14 日 04:00（UTC+8）发布约 58 秒竖屏 4K 现场视频：“Ultimate Bots：TwitchCon 2026 上的人形机器人体育联赛”（互动量很低）。画面里，展区有一个铁丝网围起来的八角笼擂台，笼边印着 UFB 字样，红色涂装的人形机器人在笼里出拳；旁边大屏幕在播放比赛；笼外几台小个子黑白人形机器人（胸前印 UFB）在场馆地面上挥手、摆姿势，最后一台戴橙色假发的机器人坐在绿色玩具跑车里。",
+  "category": "人形机器人/娱乐赛事",
+  "company": "Ultimate Bots（UFB）",
+  "source": "X：@shacknews（游戏媒体现场拍摄，第一手）",
+  "source_url": "https://x.com/shacknews/status/2121332421136449611",
+  "published_at": "2026-11-14T04:00:36+08:00",
+  "collected_at": "2026-11-14T08:55:25+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 1,
+    "replies": 0,
+    "views": 220
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "帖子只有一句话，联赛的主办方、规则、机器人品牌型号都没说明，画面里的机器人品牌不要猜",
+    "机器人是遥控还是自主没说明",
+    "互动量极低，适合作为花絮"
+  ],
+  "credit": "来源：X @shacknews",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 58.52,
+      "transcoded": true,
+      "bytes": 22212706,
+      "sha256": "a3455770aeb5a6a7b3c8b690244b26e544da0de4ab93c4baca362f569a7a54ef",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 155563,
+      "sha256": "ed97f24f69305851e1858b1df7f2bd882fc28c47f4626a87e9dce87f0fe2472b",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

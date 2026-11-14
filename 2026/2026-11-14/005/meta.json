@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-14",
+  "title": "在《GTA5》里训练人形机器人：YC 初创 Melty 推出 Melty Gym，把任何游戏变成机器人训练场",
+  "summary": "Melty 创始人 David Miller（@davidmilr）11 月 14 日 03:11（UTC+8）发布约 33 秒横屏视频，推出 Melty Gym：“在任何游戏里大规模训练机器人”（点赞约 450、浏览约 33 万）。据 YC 发布页，Melty 是 YC 2026 秋季批次公司，它的 AI 引擎能反编译和改造游戏；Melty Gym 让研究人员把自己的模型和机器人放进定制游戏，调整机制、目标和团队配合，用来训练空间推理和多智能体协作。视频里一群白色人形机器人在《GTA5》的海滨游乐场集合、上街、开车，然后到一个自定义的数据中心里操作服务器机柜。Miller 在回复里说还在用《赛博朋克》等游戏训练。",
+  "category": "具身智能/仿真训练",
+  "company": "Melty",
+  "source": "X：@davidmilr（创始人，第一手）；Y Combinator 发布页",
+  "source_url": "https://x.com/davidmilr/status/2121320174452121635",
+  "published_at": "2026-11-14T03:11:56+08:00",
+  "collected_at": "2026-11-14T08:55:25+08:00",
+  "engagement": {
+    "likes": 447,
+    "reposts": 62,
+    "replies": 54,
+    "views": 325100
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频是游戏内的仿真画面，不是真机器人",
+    "在游戏里训练出的能力能否迁移到真实机器人，帖子没给数据",
+    "画面使用《GTA5》等商业游戏，版权和授权方式没说明"
+  ],
+  "credit": "来源：X @davidmilr",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 60.0,
+      "has_audio": true,
+      "duration": 33.05,
+      "transcoded": true,
+      "bytes": 8036227,
+      "sha256": "92018ce6226971f29276f88c4750c90d62f1a2608fc9624de201ea3fe6d9f033",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 100430,
+      "sha256": "5edda64935c2c5a10eeb1c89e6274cac92fa144dedc991958d731b6ba3013050",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

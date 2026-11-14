@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-14",
+  "title": "特斯拉 Autopilot 仿真团队创业：Zeromatter 结束隐身，融资 1.6 亿美元、估值 11 亿美元，给汽车、无人机和机械臂造“虚拟世界”",
+  "summary": "仿真公司 Zeromatter（@ZeromatterTech）11 月 12 日 23:38（UTC+8）发布约 100 秒 4K 横屏宣传片，宣布结束四年隐身：他们押注设计、训练、测试自动驾驶机器最好先在虚拟世界里完成（点赞约 1400、浏览约 63 万）。创始人 Ian Glow 在官方博客中说，他和两位联合创始人曾负责特斯拉 Autopilot 仿真，在特斯拉为 Autopilot 和 Optimus 搭了同一套仿真平台；公司员工从 13 人增长到 130 多人，累计融资 1.6 亿美元、估值 11 亿美元；B 轮之后为了模拟机器人抓取操作，自研了物理引擎。宣传片里有线框汽车、街景驾驶画面（角落标“MADE IN ZEROMATTER”，即仿真生成）、创始人出镜讲解和机械臂镜头。",
+  "category": "具身智能/仿真",
+  "company": "Zeromatter",
+  "source": "X：@ZeromatterTech（官方，第一手）；Zeromatter 官方博客",
+  "source_url": "https://x.com/ZeromatterTech/status/2120904178042323276",
+  "published_at": "2026-11-12T23:38:55+08:00",
+  "collected_at": "2026-11-14T08:55:25+08:00",
+  "engagement": {
+    "likes": 1394,
+    "reposts": 194,
+    "replies": 67,
+    "views": 631978
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "融资额和估值是公司自己公布的，没披露各轮金额、收入和客户",
+    "发帖时间比 24 小时窗口早约 9 小时，前一天没收",
+    "主要客户是自动驾驶、航空、无人机，机器人只是其中一块，口播别说成机器人公司"
+  ],
+  "credit": "来源：X @ZeromatterTech",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 100.14,
+      "transcoded": true,
+      "bytes": 27952549,
+      "sha256": "8f366a054ae30fd6f5bc3b1bd5b948b1a316b0f7978fdfcfdbc49690ce64c93c",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 49058,
+      "sha256": "fc535993a9af23663c352a549e2cfdd05143721d171fd8bbd6fcaf82208d3a0f",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

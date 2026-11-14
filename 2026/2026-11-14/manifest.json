@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-14",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "华硕发布首款人形机器人 Gallop：已在自家工厂学装主板配件，2027 年客户试点、2028 下半年上市",
+      "selected": null,
+      "bytes": 4989346,
+      "has_video": true,
+      "duration": 37.57
+    },
+    {
+      "id": "002",
+      "title": "财富杂志独家：OpenAI 解散独立机器人团队，研究员并入主研究部门，CoRL 展位人去台空",
+      "selected": null,
+      "bytes": 289072,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "003",
+      "title": "特斯拉 Autopilot 仿真团队创业：Zeromatter 结束隐身，融资 1.6 亿美元、估值 11 亿美元，给汽车、无人机和机械臂造“虚拟世界”",
+      "selected": null,
+      "bytes": 28001607,
+      "has_video": true,
+      "duration": 100.14
+    },
+    {
+      "id": "004",
+      "title": "穿上力反馈外骨骼遥控机器人：博主实测 Mundane，隔着机械臂能分出空瓶和满瓶",
+      "selected": null,
+      "bytes": 9168810,
+      "has_video": true,
+      "duration": 60.44
+    },
+    {
+      "id": "005",
+      "title": "在《GTA5》里训练人形机器人：YC 初创 Melty 推出 Melty Gym，把任何游戏变成机器人训练场",
+      "selected": null,
+      "bytes": 8136657,
+      "has_video": true,
+      "duration": 33.05
+    },
+    {
+      "id": "006",
+      "title": "TwitchCon 现场：人形机器人格斗联赛 Ultimate Bots 摆起铁笼擂台，小个子人形机器人跟观众互动",
+      "selected": null,
+      "bytes": 22368269,
+      "has_video": true,
+      "duration": 58.52
+    }
+  ],
+  "order": [],
+  "total_bytes": 72953761,
+  "updated_at": "2026-11-14T08:55:25+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
