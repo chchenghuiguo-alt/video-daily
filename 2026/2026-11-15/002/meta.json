@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-15",
+  "title": "印度 Strider Robotics 四足机器人：八年自研，挨推、走土路钻草丛，电机来自本土厂商 Vector Technics",
+  "summary": "印度电机厂商 Vector Technics（@vectortechnics）11 月 14 日 14:30（UTC+8）发布约 4 分钟横屏纪录短片（点赞约 630、浏览约 3.3 万）：讲述合作方 Strider Robotics（@strider_robots）花八年时间做可以真正部署的足式机器人，去危险空间、承担会危及人命的任务；Strider 造机器人硬件时用了 Vector Technics 的无刷直流电机，配本地开发的减速齿轮，“在印度设计制造”。画面有车间组装、工程师调试腿部关节、团队负责人访谈，以及机器狗在林荫土路、草丛里行走，有人用力推它、它摔倒后被扶起的镜头。",
+  "category": "四足机器人",
+  "company": "Strider Robotics；Vector Technics",
+  "source": "X：@vectortechnics（电机供应商官方，第一手）",
+  "source_url": "https://x.com/vectortechnics/status/2121490816225181996",
+  "published_at": "2026-11-14T14:30:00+08:00",
+  "collected_at": "2026-11-15T08:55:59+08:00",
+  "engagement": {
+    "likes": 627,
+    "reposts": 127,
+    "replies": 11,
+    "views": 32845
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "拍摄地“班加罗尔”、“有人拿板球拍挥向机器狗”出自转述帖 @ReindentAI，原帖没写",
+    "片中受访者姓名职位帖子没写",
+    "“能真正部署”是厂商说法，没公布客户、价格和参数",
+    "视频约 4 分钟，建议只剪推搡和户外行走片段"
+  ],
+  "credit": "来源：X @vectortechnics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 712,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 243.52,
+      "transcoded": true,
+      "bytes": 62098308,
+      "sha256": "a54766a6422c0818b1146d7c4238bf3c87db33d470f1dca2f983bb292a0e28e6",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1266,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 202014,
+      "sha256": "2fbda123eb3d1751da749d530634ad767bf0ee0f9a809b17223dbb4f74550422",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

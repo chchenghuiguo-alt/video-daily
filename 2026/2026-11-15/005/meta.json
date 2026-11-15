@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-15",
+  "title": "mimic 与宝马合作：灵巧手机器人用真车零件练装配、插接和理线，称成功率最高 100%",
+  "summary": "机器人初创 mimic（@mimicrobotics）11 月 12 日 23:41（UTC+8）发布约 63 秒横屏视频，宣布与宝马集团（@BMW）开展工业操作“视频-动作模型”联合研究：用量产零件和工装训练自家模型 FLUX-mimic，任务包括装配、插接、配料和线束布线；称在自家灵巧手机器人平台上成功率最高达到 100%，训练数据少 4 倍仍持续优于其他模型。视频字幕说，大规模机器人数据集多是家务任务，而汽车零件有紧配合插接、软线缆等难点；他们和宝马用遥操作和可穿戴设备收集了数百小时数据，在 4 个工业场景测试。画面有戴手套的人手示范、操作员戴 VR 头显遥控双臂、双臂灵巧手抓取零件放进分格料盒（标 3 倍速）。聚合博主 @IlirAliu_ 11 月 14 日转发介绍，称目前还是研究项目、没上产线。",
+  "category": "具身智能/工业操作",
+  "company": "mimic；BMW",
+  "source": "X：@mimicrobotics（官方，第一手）；@IlirAliu_ 转述",
+  "source_url": "https://x.com/mimicrobotics/status/2120904816289251507",
+  "published_at": "2026-11-12T23:41:27+08:00",
+  "collected_at": "2026-11-15T08:55:59+08:00",
+  "engagement": {
+    "likes": 141,
+    "reposts": 16,
+    "replies": 6,
+    "views": 11813
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“最高 100%”“少 4 倍数据”是公司自测，没公布对比的是哪些模型",
+    "还是联合研究，宝马没说要上产线",
+    "原帖约 2.5 天前发布，超出 24 小时窗口，前几天没收",
+    "部分镜头标了 3 倍速，剪辑时保留或注明"
+  ],
+  "credit": "来源：X @mimicrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 810,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 62.72,
+      "transcoded": true,
+      "bytes": 13949176,
+      "sha256": "900168daec10ab629144a03a8e6476ff4496483c25fe8b82c184c5cc00cc670c",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1440,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 152306,
+      "sha256": "73ef0be1c381fcbd9dfbbbf2f0fb17a2037a2a0528584b58222e243c70852f74",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

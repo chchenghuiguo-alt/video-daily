@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-15",
+  "title": "CNBC：埃里克·特朗普参股的人形机器人公司 Foundation 10 月 30 日起发不出工资，CEO 去年从公司借 460 万美元买豪宅",
+  "summary": "CNBC 11 月 14 日（美国时间）报道：做军用人形机器人 Phantom 的旧金山公司 Foundation Future Industries 10 月 30 日没能发工资，员工至今没拿到薪水；消息人士称，CEO 兼联合创始人 Sankaet Pathak 去年从公司借了 460 万美元，公开记录显示一家以他为唯一负责人的公司 2025 年 10 月在索萨利托买下一套 460 万美元的房产。报道还说：Pathak 是公司唯一的董事、持有多数股份；8 月公司也曾差点发不出工资，靠现有投资人的过桥贷款延迟约两天发放；公司正以 30 亿美元估值寻求数亿美元融资；外界常引用的 2400 万美元五角大楼合同实际来自它 2024 年收购的 Boardwalk Robotics。Pathak 本周给员工发备忘录称正在筹钱补发工资。埃里克·特朗普是投资人兼首席战略顾问。X 上 @Amanda_Goodall 的帖子（点赞约 190）配了报道标题截图。",
+  "category": "人形机器人/行业动态",
+  "company": "Foundation Future Industries",
+  "source": "CNBC 报道（Hugh Son）；X：@Amanda_Goodall、@BadSignalAI（转述配图）",
+  "source_url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+  "published_at": "2026-11-15T03:54:32+08:00",
+  "collected_at": "2026-11-15T08:55:59+08:00",
+  "engagement": {
+    "likes": 185,
+    "reposts": 38,
+    "replies": 12,
+    "views": 5550
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "全部来自 CNBC 匿名消息人士，Foundation 和 Pathak 的发言人未回应",
+    "没有视频，只有两张二手配图，资料照版权不明，建议做文字卡",
+    "11-12 已收过 Foundation 与以色列军方洽谈的新闻，这是新进展，可以衔接",
+    "“借钱买房”是员工的说法，报道称借款当时被称为短期贷款，口播用“据报道”"
+  ],
+  "credit": "来源：X @Amanda_Goodall",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 338,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 65582,
+      "sha256": "51ad492907b4d391ff1016b66cc658c4b367af0b2a20727c3eee99ce6426b950",
+      "orig_name": "003_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1136,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 249998,
+      "sha256": "c88697b0d12497bfb857c1db3e1bdf6608467c4a6064563573f2f7ca51e4abb8",
+      "orig_name": "003_2.jpg"
+    }
+  ]
+}

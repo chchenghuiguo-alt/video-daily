@@ -1,0 +1,74 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-15",
+  "title": "南京的“机器人老师”：年轻人戴设备给人形机器人示范拧瓶盖、摆水果、焊钢板",
+  "summary": "南京对外宣传账号 iNanjing（@iNanjingJS）11 月 15 日 00:01（UTC+8）发布 4 张图（互动量很低）：南京有一群年轻人当机器人的“老师”，穿戴动作捕捉设备，把拧瓶盖、摆水果、焊钢板、搬抬弯腰等动作变成数据，让机器人能真正干活；帖子说南京在打造“机器人之城”、发展具身智能全产业链，具身智能机器人训练师这个新职业连接算法、机器人硬件和工业、特种、服务场景。照片里：戴 VR 头显的工作人员在水果货架前遥控白色人形机器人、焊接机械臂火花四溅、人形机器人在落地窗前抬手、在仓储货架前搬箱子。",
+  "category": "具身智能/数据采集",
+  "company": "南京具身智能产业（未写具体公司）",
+  "source": "X：@iNanjingJS（南京官方对外宣传账号）",
+  "source_url": "https://x.com/iNanjingJS/status/2121634613936476641",
+  "published_at": "2026-11-15T00:01:24+08:00",
+  "collected_at": "2026-11-15T08:55:59+08:00",
+  "engagement": {
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "views": 22
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "帖子没写是哪家公司、哪个训练场，照片里机器人品牌不要猜",
+    "帖子说“动作捕捉”，照片里多是戴 VR 头显遥操作",
+    "没有视频，只有 4 张图，互动量极低，适合做图文或过渡镜头"
+  ],
+  "credit": "来源：X @iNanjingJS",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1280,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 393899,
+      "sha256": "b2586968d43719214a2a615310260b6ca25d9282e0d2d541aa4dffb9934d7824",
+      "orig_name": "006_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1350,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 278506,
+      "sha256": "6e2d92e9c1bc9433c829292be4ea323e6e0cfcaa0f7528ce3635e6360f0f1c4c",
+      "orig_name": "006_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1334,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 218561,
+      "sha256": "6ec96bf05652fc4fe009c2816b2d1a052c4556fdf94ccbeeaf52c70a409d3462",
+      "orig_name": "006_3.jpg"
+    },
+    {
+      "file": "images/04.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1262,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 244727,
+      "sha256": "1edf568633df61b0f43f8364fa1ea89d9e4bcb289bb0dd4f7e4e394e39211fdf",
+      "orig_name": "006_4.jpg"
+    }
+  ]
+}

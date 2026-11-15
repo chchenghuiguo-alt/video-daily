@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-15",
+  "title": "CoRL 现场：一年前还是怀疑派的伯克利教授 Ken Goldberg，聊他为什么改变看法",
+  "summary": "人形机器人博主 The Humanoid Hub（@TheHumanoidHub）11 月 15 日 03:34（UTC+8）发布约 34 秒 4K 横屏采访片段：他说一年前 Ken Goldberg（@Ken_Goldberg）还是怀疑派，在 CoRL 2026 上 Goldberg 告诉他为什么改变了看法，话题包括：“智能体机器人”是范式转变、为什么工厂不会采用黑盒策略、自下而上的专用机器人对比通用机器人、人形机器人，以及和英伟达（@NVIDIARobotics）的开源合作。画面是两人站在英伟达展台前对话，配大字幕。",
+  "category": "具身智能/观点访谈",
+  "company": "UC Berkeley；NVIDIA",
+  "source": "X：@TheHumanoidHub（博主现场采访，第一手）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2121688257545269416",
+  "published_at": "2026-11-15T03:34:34+08:00",
+  "collected_at": "2026-11-15T08:55:59+08:00",
+  "engagement": {
+    "likes": 38,
+    "reposts": 5,
+    "replies": 11,
+    "views": 5724
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "X 上只有 34 秒预告，完整访谈在帖子外链里，具体观点只能按帖子列出的话题写",
+    "“一年前是怀疑派”是博主的说法",
+    "和英伟达开源合作的具体内容帖子没说明"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 34.18,
+      "transcoded": true,
+      "bytes": 6784305,
+      "sha256": "4dc6b9f0ad30a4be976b6c2db6dc35fce3e2ad994cf24e070a68a559acf4446e",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 133922,
+      "sha256": "5e752f311c594737f1d1d2e64af5bd9154ad47ca322199901787a40469b0d2f8",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

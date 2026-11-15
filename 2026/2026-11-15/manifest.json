@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-15",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "萨尔瓦多军队在海地出动挂步枪的宇树 Go2 机器狗，协助夺回被帮派占据的国家体育场",
+      "selected": null,
+      "bytes": 21326241,
+      "has_video": true,
+      "duration": 76.67
+    },
+    {
+      "id": "002",
+      "title": "印度 Strider Robotics 四足机器人：八年自研，挨推、走土路钻草丛，电机来自本土厂商 Vector Technics",
+      "selected": null,
+      "bytes": 62300322,
+      "has_video": true,
+      "duration": 243.52
+    },
+    {
+      "id": "003",
+      "title": "CNBC：埃里克·特朗普参股的人形机器人公司 Foundation 10 月 30 日起发不出工资，CEO 去年从公司借 460 万美元买豪宅",
+      "selected": null,
+      "bytes": 315580,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "CoRL 现场：一年前还是怀疑派的伯克利教授 Ken Goldberg，聊他为什么改变看法",
+      "selected": null,
+      "bytes": 6918227,
+      "has_video": true,
+      "duration": 34.18
+    },
+    {
+      "id": "005",
+      "title": "mimic 与宝马合作：灵巧手机器人用真车零件练装配、插接和理线，称成功率最高 100%",
+      "selected": null,
+      "bytes": 14101482,
+      "has_video": true,
+      "duration": 62.72
+    },
+    {
+      "id": "006",
+      "title": "南京的“机器人老师”：年轻人戴设备给人形机器人示范拧瓶盖、摆水果、焊钢板",
+      "selected": null,
+      "bytes": 1135693,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 106097545,
+  "updated_at": "2026-11-15T08:55:59+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

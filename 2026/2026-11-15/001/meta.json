@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-15",
+  "title": "萨尔瓦多军队在海地出动挂步枪的宇树 Go2 机器狗，协助夺回被帮派占据的国家体育场",
+  "summary": "萨尔瓦多总统布克尔（@nayibbukele）11 月 13 日 08:14（UTC+8）用海地克里奥尔语发布约 77 秒横屏视频（点赞约 10.8 万、浏览约 253 万）：根据海地和萨尔瓦多两国政府的双边协议，海地国家警察、海地武装部队、Task Force 和萨尔瓦多特种部队联合行动，夺回并控制了太子港的 Sylvio Cator 体育场，行动中在体育场内发现多具人类头骨；他说将在体育场建立行动基地，继续向帮派控制区推进，并要求帮派成员在攻势开始前离开。视频里有装甲车驶过街道、士兵搜索看台、地上的头骨，以及背上架着步枪的白色四足机器狗在草坪和台阶上行走的镜头。据《新闻周刊》、SOFX、萨尔瓦多《新闻画报》等报道，机器狗外形是宇树科技的消费级 Go2，步枪疑为以色列 IWI ARAD 系列，倒装在螺栓固定的支架上，由人远程扣动扳机。",
+  "category": "机器人/军事安全",
+  "company": "Unitree（宇树，机型推断）；萨尔瓦多军方",
+  "source": "X：@nayibbukele（萨尔瓦多总统，第一手）；Newsweek、SOFX、La Prensa Gráfica 报道",
+  "source_url": "https://x.com/nayibbukele/status/2121033839468306541",
+  "published_at": "2026-11-13T08:14:08+08:00",
+  "collected_at": "2026-11-15T08:55:59+08:00",
+  "engagement": {
+    "likes": 107731,
+    "reposts": 19630,
+    "replies": 4100,
+    "views": 2526299
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "布克尔原帖没提机器狗；“宇树 Go2”“IWI ARAD 步枪”“人远程扣扳机”都是媒体根据画面判断，官方没公布型号、数量和操控方式",
+    "没有证据显示机器狗在行动中开过枪，口播不要说“机器狗参战射击”",
+    "宇树称 Go2 是民用产品、禁止改装用于武器，这是厂商立场；萨尔瓦多是否改装过机身未知",
+    "原帖发布已超 24 小时（约 2 天前），前几天没收；画面含头骨和武器，剪辑时注意平台尺度"
+  ],
+  "credit": "来源：X @nayibbukele",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 76.67,
+      "transcoded": true,
+      "bytes": 21059660,
+      "sha256": "393fb6d5a53079ddc635ae608cbe19f2a34978c7ee093f0a07d532f503ae5303",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 266581,
+      "sha256": "78bab31f6f2c88ae88f86a035f24dbd4b13c561cf36511d225152945a0c3bf3e",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}
