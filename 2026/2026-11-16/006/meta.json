@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-16",
+  "title": "Figure 创始人 Brett Adcock 发图：人形机器人在卧室铺床",
+  "summary": "Figure 创始人 Brett Adcock（@adcock_brett）11 月 16 日 01:16（UTC+8）发布一张横屏照片，没有任何文字（点赞约 720、浏览约 2.7 万）。照片里一台白色躯干、黑色头部的人形机器人站在床边，双手拉着深灰色被子铺床，房间是灰绿色护墙板、床头两侧有台灯和床头柜，风格像宣传片截图。",
+  "category": "人形机器人/家用",
+  "company": "Figure AI（推断，帖子未说明）",
+  "source": "X：@adcock_brett（Figure 创始人，第一手）",
+  "source_url": "https://x.com/adcock_brett/status/2122015855760511423",
+  "published_at": "2026-11-16T01:16:19+08:00",
+  "collected_at": "2026-11-16T09:00:36+08:00",
+  "engagement": {
+    "likes": 727,
+    "reposts": 31,
+    "replies": 43,
+    "views": 26822
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "帖子只有图片没有文字：是不是 Figure 03、是否自主完成、是不是新视频的预告，都没说",
+    "画面像宣传片质感，是否经过布景/后期未知",
+    "只有一张图，没有视频，建议做图片卡或预告式口播“据创始人发图”"
+  ],
+  "credit": "来源：X @adcock_brett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 176832,
+      "sha256": "631aceb8aded9992d750ca629559c5d881a312de1b011a5055e5957dd42c3377",
+      "orig_name": "006_1.jpg"
+    }
+  ]
+}

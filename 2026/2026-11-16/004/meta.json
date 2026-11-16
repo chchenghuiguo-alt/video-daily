@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-16",
+  "title": "Reflex Robotics 让轮式双臂机器人拿普通雪铲清理积雪",
+  "summary": "科普搬运号 Massimo（@Rainmaker1973）11 月 13 日 17:10（UTC+8）发布约 32 秒竖屏视频（点赞约 230），文字只写：Reflex Robotics 在测试一款能做铲雪这类真实体力活的机器人，视频来源标注为 reflexrobotics。画面里是一台白色、轮式底盘、双臂的 Reflex 机器人（机身印有 REFLEX 字样），在红砖楼前的雪地里双手握住普通雪铲铲雪、把雪推到路边，背景有停着的面包车，天空还在下雪。这两天这段视频被多个账号继续转发讨论。",
+  "category": "通用机器人/户外作业",
+  "company": "Reflex Robotics",
+  "source": "X：@Rainmaker1973 搬运（视频来源标注 reflexrobotics）",
+  "source_url": "https://x.com/Rainmaker1973/status/2121168692658557436",
+  "published_at": "2026-11-13T17:10:00+08:00",
+  "collected_at": "2026-11-16T09:00:36+08:00",
+  "engagement": {
+    "likes": 231,
+    "reposts": 44,
+    "replies": 19,
+    "views": 51352
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "搬运号转发，没找到 Reflex 官方 X 原帖，原始发布时间和地点未知",
+    "有转发帖说是纽约暴雪后拍的、机器人本来是仓库拣箱用的，原帖没写，别直接用",
+    "是自主还是遥控，视频和帖子都没说明",
+    "发布已约 3 天，超出 24 小时窗口，前几天没收；今天适合当轻松画面"
+  ],
+  "credit": "来源：X @Rainmaker1973",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 708,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 31.81,
+      "transcoded": true,
+      "bytes": 7807521,
+      "sha256": "61fff9eb6e65040039ee71ce5a7b04683e3176c035820f635e13cbb2d783ebb4",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 1098,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 106869,
+      "sha256": "5f058c04fc3568f11a111971ac161722cd9936f8659215df8715ea06391f611d",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

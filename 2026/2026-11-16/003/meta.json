@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-16",
+  "title": "APEC 深圳新闻中心：7 台智平方“爱宝”机器人给记者做咖啡、冰淇淋和果汁",
+  "summary": "深圳卫视国际频道（@sz_mediagroup）11 月 15 日 14:42（UTC+8）发布约 2 分钟竖屏中英双语报道（点赞约 18）：在深圳 APEC 媒体中心，深圳公司智平方（AI² Robotics）开发的 7 台“爱宝”机器人协作为记者制作咖啡、冰淇淋和果汁饮品；机器人由公司的具身大模型 AlphaBrain 驱动，能操作标准饮品机，完成从取杯到制作、递送的全流程。视频里出镜记者现场体验，外国记者端着饮品接受采访，字幕提到爱宝每天工作 10 到 12 个小时，企业负责人称受到很多关注。画面有白色人形上身、黑色面罩的爱宝机器人在吧台前操作，以及记者在工作区休息的场景。",
+  "category": "具身智能/服务机器人",
+  "company": "智平方（AI² Robotics）",
+  "source": "X：@sz_mediagroup（深圳卫视国际频道，官方媒体）",
+  "source_url": "https://x.com/sz_mediagroup/status/2121856411420488187",
+  "published_at": "2026-11-15T14:42:45+08:00",
+  "collected_at": "2026-11-16T09:00:36+08:00",
+  "engagement": {
+    "likes": 18,
+    "reposts": 7,
+    "replies": 0,
+    "views": 2947
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“每天工作 10 到 12 小时”是视频字幕/受访者说法，没有独立核实",
+    "是否全自主、有没有后台人工干预，报道没说明",
+    "视频约 2 分钟、含大量采访，建议只剪机器人做饮品和记者取饮的镜头",
+    "官方宣传口径，互动量很低"
+  ],
+  "credit": "来源：X @sz_mediagroup",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 129.22,
+      "transcoded": true,
+      "bytes": 29993484,
+      "sha256": "5b2d38c8008ae6607fbc650046da7f3ce739a7e5138c7b9a6303b0ba605ec957",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 199903,
+      "sha256": "c5b511690a21eb28842c08fccb4bbf76df6e000495f198341c640dca040f25f0",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-16",
+  "title": "新华社探访 PrimeBOT 昆山产线：37 天日装配量从 10 台到 240 台，第 1 万台个人机器人下线",
+  "summary": "新华社英文账号（@XHNews）11 月 15 日 21:21（UTC+8）发布约 32 秒竖屏视频：带观众看中国 PrimeBOT 的机器人生产线（画面标注江苏昆山），称 37 天内日装配能力从 10 台增长到 240 台，公司刚刚下线第 10000 台人形机器人，距离第 5000 台只隔两周。画面有成排的粉色和白色小型人形机器人在车间行走、挥手，机械臂搬运料箱，成排待测机器人和流水线。据环球时报、Humanoids Daily、第一财经等报道：PrimeBOT 是上纬新材旗下个人机器人品牌，第 1 万台在 11 月 8 日下线、是一台 Q1，第 5000 台在 10 月 25 日；Q1、T1 定价 19999 元起，9 月 20 日开售、10 月 1 日起在上海、深圳、杭州等 7 城交付，组装由蓝思科技昆山工厂代工。",
+  "category": "人形机器人/量产",
+  "company": "PrimeBOT（上纬新材旗下）",
+  "source": "X：@XHNews（新华社，官方媒体）；Global Times、Humanoids Daily、Yicai 报道",
+  "source_url": "https://x.com/XHNews/status/2121956740594094557",
+  "published_at": "2026-11-15T21:21:25+08:00",
+  "collected_at": "2026-11-16T09:00:36+08:00",
+  "engagement": {
+    "likes": 6,
+    "reposts": 1,
+    "replies": 5,
+    "views": 4600
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "第 1 万台下线是 11 月 8 日的事，新华社视频是 11 月 15 日发的，前几天没收过；口播别说“今天下线”",
+    "1 万台是产量，不是销量；公司没公布销售和交付数字（Humanoids Daily 指出）",
+    "“日装配 240 台”是公司说法；另有报道称工厂日产稳定在约 100 台，口径不一",
+    "新华社称其为“人形机器人”，实际是 88 厘米左右的消费级个人/陪伴机器人，别和工业人形混淆"
+  ],
+  "credit": "来源：X @XHNews",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 31.55,
+      "transcoded": true,
+      "bytes": 6622550,
+      "sha256": "1bc0b3eaf0a7c6284b215ff391d4e5118a6f55b413d4234185056120a01d436c",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 139076,
+      "sha256": "d63356c92e05a73e8bac12ec2dbd0b158ffb9ca6d9fac5874d050cdd75810a32",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

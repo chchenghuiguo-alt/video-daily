@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-16",
+  "title": "小鸭子机器人骑在机器狗背上巡游：MIT CSAIL 转发的趣味短片",
+  "summary": "MIT 计算机科学与人工智能实验室（@MIT_CSAIL）11 月 16 日 01:00（UTC+8）发布约 7 秒竖屏短视频（点赞约 120），文字是“机器‘狗’🤝 机器‘鸭’”，视频来自 @cetiennec。画面里一只小型鸭子造型机器人（MicroDuck 外观）骑在一台灰色四足机器狗背上，在室内瓷砖地面上走动，机器狗身上贴着 LeRobot 标志。@cetiennec 随后回复感谢 MIT CSAIL 的转发；他此前发帖提到办公室测试 MicroDuck 的情况。",
+  "category": "趣味/小型机器人",
+  "company": "MicroDuck；LeRobot（画面标志）",
+  "source": "X：@MIT_CSAIL 转发；视频作者 @cetiennec",
+  "source_url": "https://x.com/MIT_CSAIL/status/2122011756457279541",
+  "published_at": "2026-11-16T01:00:02+08:00",
+  "collected_at": "2026-11-16T09:00:36+08:00",
+  "engagement": {
+    "likes": 123,
+    "reposts": 15,
+    "replies": 9,
+    "views": 6540
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "帖子没写机器狗型号、是谁家的项目，也没说是自主还是遥控，别猜品牌",
+    "只有 7 秒，没有新闻事实，只适合当片头/片尾或转场彩蛋",
+    "MicroDuck 10-26 已收过（英伟达 GTC 柏林），这是新画面"
+  ],
+  "credit": "来源：X @MIT_CSAIL",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 59.94,
+      "has_audio": true,
+      "duration": 6.55,
+      "transcoded": true,
+      "bytes": 1523839,
+      "sha256": "7f4aed147d0bdaf843bc1929cc30a52610a774934c7b9cc307867a1738e196ad",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 51253,
+      "sha256": "54a09e4246854dcea0eec0b91153bdd221c83049ec28164fc65b1fc24c4b4a0c",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

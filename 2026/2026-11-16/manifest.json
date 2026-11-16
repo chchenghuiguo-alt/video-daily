@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-16",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Claude Fable 5.2 自己写代码操控 Diana 7 机械臂：不遥控、不示教，完成精密加工厂的真实装配任务",
+      "selected": null,
+      "bytes": 9744322,
+      "has_video": true,
+      "duration": 89.96
+    },
+    {
+      "id": "002",
+      "title": "新华社探访 PrimeBOT 昆山产线：37 天日装配量从 10 台到 240 台，第 1 万台个人机器人下线",
+      "selected": null,
+      "bytes": 6761626,
+      "has_video": true,
+      "duration": 31.55
+    },
+    {
+      "id": "003",
+      "title": "APEC 深圳新闻中心：7 台智平方“爱宝”机器人给记者做咖啡、冰淇淋和果汁",
+      "selected": null,
+      "bytes": 30193387,
+      "has_video": true,
+      "duration": 129.22
+    },
+    {
+      "id": "004",
+      "title": "Reflex Robotics 让轮式双臂机器人拿普通雪铲清理积雪",
+      "selected": null,
+      "bytes": 7914390,
+      "has_video": true,
+      "duration": 31.81
+    },
+    {
+      "id": "005",
+      "title": "小鸭子机器人骑在机器狗背上巡游：MIT CSAIL 转发的趣味短片",
+      "selected": null,
+      "bytes": 1575092,
+      "has_video": true,
+      "duration": 6.55
+    },
+    {
+      "id": "006",
+      "title": "Figure 创始人 Brett Adcock 发图：人形机器人在卧室铺床",
+      "selected": null,
+      "bytes": 176832,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 56365649,
+  "updated_at": "2026-11-16T09:00:36+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
