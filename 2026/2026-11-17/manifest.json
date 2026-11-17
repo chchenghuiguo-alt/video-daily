@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "AMD 完成收购李飞飞的 World Labs：苏姿丰发帖欢迎，李飞飞带团队加入 AMD",
+      "selected": null,
+      "bytes": 1131893,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "002",
+      "title": "华为云发布并开源具身世界模型 CloudRobo-WM1.2：昇腾训练，官方称两项评测第一，11 月 30 日开放权重",
+      "selected": null,
+      "bytes": 206961,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "003",
+      "title": "深圳邮政分拣中心：3 台具身智能机器人上夜班分拣包裹，称每台每小时 1000 到 1200 件",
+      "selected": null,
+      "bytes": 35201596,
+      "has_video": true,
+      "duration": 160.73999999999998
+    },
+    {
+      "id": "004",
+      "title": "Dyna Robotics 讲怎么让机器人干满 8 小时洗衣班：75 个步骤，每步差一点，整班就崩",
+      "selected": null,
+      "bytes": 1298779,
+      "has_video": true,
+      "duration": 27.1
+    },
+    {
+      "id": "005",
+      "title": "上海初创 Maniformer 卖“采数据装备”：工人戴头部和手腕摄像头干活，号称已录满 100 万小时给机器人学",
+      "selected": null,
+      "bytes": 22539228,
+      "has_video": true,
+      "duration": 99.61
+    },
+    {
+      "id": "006",
+      "title": "RT：人形机器人在莫斯科街头练习送货",
+      "selected": null,
+      "bytes": 4087341,
+      "has_video": true,
+      "duration": 42.19
+    },
+    {
+      "id": "007",
+      "title": "Figure 创始人 Adcock 评中国人形机器人：只顾比体操，“没有手、算力只有 U 盘大”",
+      "selected": null,
+      "bytes": 741982,
+      "has_video": true,
+      "duration": 10.73
+    }
+  ],
+  "order": [],
+  "total_bytes": 65207780,
+  "updated_at": "2026-11-17T08:58:21+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-17",
+  "title": "AMD 完成收购李飞飞的 World Labs：苏姿丰发帖欢迎，李飞飞带团队加入 AMD",
+  "summary": "AMD CEO 苏姿丰（@LisaSu）11 月 16 日 22:29（UTC+8）发帖：“欢迎 @drfeifei 和 @theworldlabs 团队加入 AMD！”配一张合影（点赞约 2200、浏览约 16.8 万）。AMD 官方账号随后发了 4 张苏姿丰到访旧金山 World Labs 的照片，称“正式欢迎 World Labs 团队加入 AMD”（浏览约 8.5 万）。李飞飞（@drfeifei）本人发帖说，带领 World Labs 两年多是一生的荣幸，很感激也很兴奋能带团队加入 AMD，“AI 是一项文明级技术”。多家媒体援引 AMD 提交给美国证监会的修订文件报道：这是一笔约 82 亿美元的全股票收购（9 月宣布），已完成交割，李飞飞出任 AMD 执行副总裁兼首席科学家、向苏姿丰汇报。World Labs 做空间智能/世界模型（Marble、Atlas 等，可生成可交互 3D 场景），这类模型也被用来给机器人做仿真训练。",
+  "category": "行业/并购",
+  "company": "AMD；World Labs",
+  "source": "X：@LisaSu（AMD CEO，第一手）；@AMD 官方；@drfeifei（李飞飞本人）",
+  "source_url": "https://x.com/LisaSu/status/2122336277727215988",
+  "published_at": "2026-11-16T22:29:34+08:00",
+  "collected_at": "2026-11-17T08:58:21+08:00",
+  "engagement": {
+    "likes": 2194,
+    "reposts": 150,
+    "replies": 79,
+    "views": 168367
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "约 82 亿美元、全股票、发行约 1497.8 万股 AMD 股票：来自媒体对 SEC 文件的转述（Decrypt 等），苏姿丰和 AMD 帖子本身没写金额",
+    "李飞飞“执行副总裁兼首席科学家、向苏姿丰汇报”的职务来自媒体报道，帖子里没写",
+    "交割日期有 11 月 13 日和 16 日两种说法，口播建议只说“本周完成”",
+    "只有照片没有视频；World Labs 和机器人的关系是背景解释，口播别说成“AMD 进军机器人”"
+  ],
+  "credit": "来源：X @LisaSu",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1280,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 286909,
+      "sha256": "69d0e67813fab543f1a645a7af0e0b824b9554043ad7332e9baae9328b18a2de",
+      "orig_name": "001_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1350,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 198320,
+      "sha256": "9ecd5510384c8b92fff3135cb6f822c80b26c2be1f4cf2abce5f50f3e6119e69",
+      "orig_name": "001_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1350,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 250067,
+      "sha256": "03f95ea1f929f77e8748e155758a1406736d831c3d91ad941c194746c33225c6",
+      "orig_name": "001_3.jpg"
+    },
+    {
+      "file": "images/04.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1350,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 218680,
+      "sha256": "5aa972d981353a17da0a8883dbbd7c523e9d22568d41df7d9e9025ea06eba9f7",
+      "orig_name": "001_4.jpg"
+    },
+    {
+      "file": "images/05.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1350,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 177917,
+      "sha256": "1cf0e4c0276bf98f041e712ff3bff3c016b11b933fd9ae27e4b06b83f42740de",
+      "orig_name": "001_5.jpg"
+    }
+  ]
+}

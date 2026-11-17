@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-17",
+  "title": "深圳邮政分拣中心：3 台具身智能机器人上夜班分拣包裹，称每台每小时 1000 到 1200 件",
+  "summary": "11 月 16 日多家账号发布同一新闻：深圳一个邮政分拣中心有 3 台具身智能机器人加入夜班包裹分拣线，帮工作人员减轻夜班负担。@Bastille_Global 的约 2 分 17 秒横屏视频（浏览约 8 万）字幕写明：机器人用“感知—决策—执行”模型分拣，靠摄像头识别包裹类型、位置和状态；遇到不规则包裹会转给人工，避免错投；每台每小时分拣 1000 到 1200 件，准确率 99% 以上；在长夜班、尤其是高峰期减轻人的体力负担。画面有分拣线上的轮式双臂机器人和接受采访的工作人员。CGTN（@CGTNGlobalBiz）同时发了约 24 秒竖屏 4K 短片，字幕称三台机器人在夜班抓取包裹、把面单翻到朝上并准确放好，并打了 #APECChina2026 标签。",
+  "category": "具身智能/物流落地",
+  "company": "深圳邮政分拣中心（机器人厂商未在帖子中注明）",
+  "source": "X：@Bastille_Global（新闻搬运号）；@CGTNGlobalBiz（CGTN 官方）",
+  "source_url": "https://x.com/Bastille_Global/status/2122250356386312223",
+  "published_at": "2026-11-16T16:48:09+08:00",
+  "collected_at": "2026-11-17T08:58:21+08:00",
+  "engagement": {
+    "likes": 100,
+    "reposts": 3,
+    "replies": 5,
+    "views": 80751
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "每台每小时 1000–1200 件、准确率 99% 以上：来自视频字幕，没有说明统计口径",
+    "机器人是哪家公司的产品帖子没写（CGTN 画面里机器人衣服上有字样，未核实）",
+    "@Bastille_Global 是搬运号，原始出处（疑为新华社/官方媒体）没找到，按“来源网络”标注"
+  ],
+  "credit": "来源：X @Bastille_Global",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 137.04,
+      "transcoded": true,
+      "bytes": 29978622,
+      "sha256": "09046fb168027fd1b5edb4cd3ae184a00bffa30fa991ed45356759f029c1b126",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 90058,
+      "sha256": "0f6b0c238f32036d5779094bfacd4c212b057299bcc90dc96fca9a8db6d68508",
+      "orig_name": "003_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 23.7,
+      "transcoded": true,
+      "bytes": 5051730,
+      "sha256": "d474f3f21851377118f3038f30912409624205a3ff08cca89199a958c860bf58",
+      "orig_name": "003_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 81186,
+      "sha256": "c122183df7bad2f1e4f097978c7138ddebdf310a59e219751294bcb912a6c047",
+      "orig_name": "003_2_thumb.jpg"
+    }
+  ]
+}

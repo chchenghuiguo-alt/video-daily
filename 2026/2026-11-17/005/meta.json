@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-17",
+  "title": "上海初创 Maniformer 卖“采数据装备”：工人戴头部和手腕摄像头干活，号称已录满 100 万小时给机器人学",
+  "summary": "聚合博主 Ilir Aliu（@IlirAliu_）11 月 16 日 16:14（UTC+8）发布约 100 秒横屏视频（视频来自 @XRoboHub）：上海初创公司 Maniformer 卖采集人类作业数据的设备——商店和工厂的工人戴上头部摄像头加手腕摄像头，或者用一个能记录自身运动和开合距离的手持夹爪干活，Maniformer 的软件再把录像变成带标注的训练数据。帖子说该公司 8 月底称已超过 100 万小时、交付第 2 万台设备。博主评论：机器人团队可以按任务直接买数据，而不用自己招人采集；他更想知道这些小时里有多少真让机器人把一份真实工作做得更好。画面有多人佩戴设备作业的拼图、手持夹爪特写和数据分析界面。",
+  "category": "具身智能/数据采集",
+  "company": "Maniformer",
+  "source": "X：@IlirAliu_（聚合博主）；视频来自 @XRoboHub",
+  "source_url": "https://x.com/IlirAliu_/status/2122241762966274235",
+  "published_at": "2026-11-16T16:14:00+08:00",
+  "collected_at": "2026-11-17T08:58:21+08:00",
+  "engagement": {
+    "likes": 47,
+    "reposts": 4,
+    "replies": 9,
+    "views": 2769
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“100 万小时、第 2 万台设备”是公司 8 月底的自述，博主转述，未核实",
+    "视频为宣传片性质，含动效和数据界面，不是新闻现场画面"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 99.61,
+      "transcoded": true,
+      "bytes": 22401684,
+      "sha256": "5231256cda7def831c9ada09714cd5e9874acfe089b8907ef77121ab68093a94",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 137544,
+      "sha256": "03da597b7ccbe03d59bdc4ccc1abd047fd323d0c5e12ff95b3deb8d45f2694ee",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

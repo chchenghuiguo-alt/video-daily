@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-17",
+  "title": "Figure 创始人 Adcock 评中国人形机器人：只顾比体操，“没有手、算力只有 U 盘大”",
+  "summary": "TheHumanoidHub（@TheHumanoidHub）11 月 17 日 03:54（UTC+8）发布约 11 秒 4K 访谈片段（画面带 MOONSHOTS 节目水印；点赞约 180、浏览约 1.6 万），并附上 Figure 创始人 Brett Adcock 这段话的文字：他认为中国公司在比谁的机器人体操更厉害，而 Figure 在意的是怎么用零样本、长时程推理把机器人送进家庭，“在中国没看到这个”；他说包括宇树在内的产品买回来很小，开箱挥挥手，用遥控器操作后就不知道还能干什么，“没有手”，算力“只有 U 盘那么大”，做研究的团队都给它们背计算背包，传感器也不好，硬件“像胶带粘起来的”；但他也说中国公司“随着时间会造出很棒的机器人”，“我们得赢下这场竞赛”。",
+  "category": "人形机器人/观点",
+  "company": "Figure（观点涉及宇树等中国公司）",
+  "source": "X：@TheHumanoidHub（转发访谈片段）；原始访谈疑为 Moonshots 播客",
+  "source_url": "https://x.com/TheHumanoidHub/status/2122418164869079551",
+  "published_at": "2026-11-17T03:54:57+08:00",
+  "collected_at": "2026-11-17T08:58:21+08:00",
+  "engagement": {
+    "likes": 176,
+    "reposts": 13,
+    "replies": 24,
+    "views": 16501
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "这是 Adcock 的个人观点，涉及宇树等公司的说法是竞争对手评价，没有核实，口播必须标“Adcock 称”",
+    "11 秒片段只覆盖其中一部分，帖子文字更长；访谈录制时间和完整出处未核实（画面水印为 MOONSHOTS）",
+    "前一天（11-16）已收过 Adcock 铺床图，如同期只想放一条 Figure 相关，可二选一"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 10.73,
+      "transcoded": true,
+      "bytes": 666208,
+      "sha256": "211914d7e41ee11e6b120da832c0a739671327ca3f6a49530b0791414a2caea6",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 75774,
+      "sha256": "1a4e577aa6c29bdc05315de103a7be43a8b425ae7b69b420c801a2ebe4b72b52",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

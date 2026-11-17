@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-17",
+  "title": "华为云发布并开源具身世界模型 CloudRobo-WM1.2：昇腾训练，官方称两项评测第一，11 月 30 日开放权重",
+  "summary": "华为云 11 月 16 日 14:00（UTC+8）举行线上 CloudRobo 具身世界模型发布会，发布“行业 AI 梦工厂”的昇腾原生具身世界模型 CloudRobo-WM1.2，并宣布开源。据 IT之家、科技日报等报道：模型用共享世界模型骨干网络做“预测增强”的世界表征，基于原生 DualAct 架构直接生成机器人动作，把环境理解、未来预测和动作生成放进同一个模型；官方列了五项技术（PPA 多模态世界表征、DualAct、多粒度监督数据自适应预训练、跨本体运动建模、四种可组合推理模式），称在 RoboTwin 2.0、LiberoPro 2.0 两个评测基准上都排名第一。华为云具身产品线总裁吴小东在会上说，11 月 30 日开放模型权重、推理和后训练代码，预训练最佳实践只定向开放给客户和伙伴；CloudRobo 平台上线一年多已有 1.6 万多名开发者。华为云的定位是不造机器人本体，只做平台和模型。",
+  "category": "具身智能/世界模型",
+  "company": "华为云",
+  "source": "IT之家、科技日报、同花顺、每经网报道（华为云官方发布会）；X 上多个账号转述",
+  "source_url": "https://www.ithome.com/1/027/684.htm",
+  "published_at": "2026-11-16T14:46:00+08:00",
+  "collected_at": "2026-11-17T08:58:21+08:00",
+  "engagement": {},
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“两项评测均排名第一”是华为云自述，具体分数和对比对象报道里没给",
+    "目前只是“宣布开源”，权重和代码要到 11 月 30 日才放出",
+    "没有发布会视频素材，只有海报和一张发布会画面截图（带 IT之家水印）"
+  ],
+  "credit": "来源：X @ithome",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 175069,
+      "sha256": "3f4c754d95d607ace675c1c34a5f26cdf81c7997866448a731848235efa5358a",
+      "orig_name": "002_1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 876,
+      "h": 292,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 31892,
+      "sha256": "d1a7410467a7f34c94d9ef0228b3d158e1075746bf80dc3b2617dcb3de9ee024",
+      "orig_name": "002_2.jpg"
+    }
+  ]
+}

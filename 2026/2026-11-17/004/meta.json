@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-17",
+  "title": "Dyna Robotics 讲怎么让机器人干满 8 小时洗衣班：75 个步骤，每步差一点，整班就崩",
+  "summary": "TheHumanoidHub（@TheHumanoidHub）11 月 17 日 00:32（UTC+8）发布约 27 秒 4K 横屏片段：Dyna Robotics 的 Jason Ma 和 Ethan Jahn 在旧金山 Humanoid Hub Conference 上演讲，讲让机器人跑完一整个 8 小时洗衣班需要什么。帖子说：能叠几条餐巾很酷，能跑完整个 8 小时洗衣班才是生意。片段里讲者身后的幻灯片标题是“小错误会在整个流程里累积”，列出 75 个步骤、每步成功率 95%/99%/99.9%/99.99% 时整个流程都成功的概率；字幕提到这个流程里有 75 个关键步骤，包括推车移动，要做到好几个“9”的可靠性。帖子附了完整演讲链接。",
+  "category": "具身智能/商业落地",
+  "company": "Dyna Robotics",
+  "source": "X：@TheHumanoidHub（大会主办方/聚合号）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2122367283997909340",
+  "published_at": "2026-11-17T00:32:46+08:00",
+  "collected_at": "2026-11-17T08:58:21+08:00",
+  "engagement": {
+    "likes": 43,
+    "reposts": 6,
+    "replies": 16,
+    "views": 4530
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "片段只有 27 秒，主要是讲者和幻灯片，没有机器人干活画面",
+    "Dyna 机器人是否已在客户那里稳定跑满 8 小时班，片段里没给数据，需看完整演讲"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 27.1,
+      "transcoded": true,
+      "bytes": 1225059,
+      "sha256": "784db50dfe8f5b0ed0d394d328fd9136a9f59d696afbe130361d3bb709507ff4",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 73720,
+      "sha256": "9dea5b8dd1e530d8f46a51ef4565eb2315a8dc3fd2e71e8a724884e8c93e583a",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}
