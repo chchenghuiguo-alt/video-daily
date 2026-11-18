@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-18",
+  "title": "路透社：APEC 峰会期间深圳街头人形机器人跳舞、笼中格斗、做冰淇淋；151 台机器人齐舞被报破吉尼斯纪录",
+  "summary": "路透社（@Reuters）11 月 18 日 00:55（UTC+8）发布约 44 秒横屏新闻视频（浏览约 11.2 万）：深圳迎接出席亚太经合组织（APEC）峰会的各国领导人期间，人形机器人在街头跳舞、在金属笼里格斗，还给游客和市民做冰淇淋；画面有成排机器人表演、接受采访的市民和围观的孩子。另一段约 2 分 17 秒视频（素材署名 Viory，由尼日利亚新闻号 @persecondnewsng 发布）称 151 台人形机器人在深圳同步跳舞，创下新的吉尼斯世界纪录。中文帖子称这是 11 月 17 日上午在深圳龙岗机器人街区，由“未来时代机器人”公司完成的“1 小时 151 台人形机器人跳舞”挑战。",
+  "category": "人形机器人/城市活动",
+  "company": "多家（帖子未注明）",
+  "source": "X：@Reuters（路透社官方）；@persecondnewsng（新闻号，素材来自 Viory）",
+  "source_url": "https://x.com/Reuters/status/2122735264602660870",
+  "published_at": "2026-11-18T00:55:00+08:00",
+  "collected_at": "2026-11-18T09:01:58+08:00",
+  "engagement": {
+    "likes": 123,
+    "reposts": 34,
+    "replies": 18,
+    "views": 112099
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "吉尼斯纪录：只看到新闻号和中文网友转述，没找到吉尼斯官方公告；“未来时代机器人”“1 小时 151 台”来自中文帖子，未核实",
+    "路透视频里的机器人是哪几家公司的产品，帖子没写",
+    "11-16 收过 APEC 深圳新闻中心饮品机器人，这条是街头活动，口播注意不要重复"
+  ],
+  "credit": "来源：X @Reuters",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 43.91,
+      "transcoded": true,
+      "bytes": 13485935,
+      "sha256": "8923440fab0bcc648b83e63c3ed9f1192b68845e95e77faa363caf199e6d296b",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 158553,
+      "sha256": "41f0431cfc8297bd3c96e9fd226b51e3fe86be03ebcae4accf1ceed2a73e5396",
+      "orig_name": "004_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 137.18,
+      "transcoded": true,
+      "bytes": 30148741,
+      "sha256": "86c083e74011a416a3af7b9423702962368c15cdf767939b02974e952ced886e",
+      "orig_name": "004_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 79999,
+      "sha256": "6d8726d1a78d6fbc251271c5b57208fb4388d69489a71ee77bbab9877ec9a509",
+      "orig_name": "004_2_thumb.jpg"
+    }
+  ]
+}

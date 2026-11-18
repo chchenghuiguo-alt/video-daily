@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-18",
+  "title": "星动纪元人形机器人铺进中国邮政广东网络：8 个城市 11 个分拣中心，称平均每小时供件 1500 件以上",
+  "summary": "星动纪元（ROBOTERA，@ROBOTERA_global）11 月 17 日 18:38（UTC+8）发帖：公司的人形机器人已部署到中国邮政广东网络，覆盖 1 个省、8 个城市、11 个邮政分拣中心，平均每小时处理 1500 多件包裹，“与熟练工人相当”，配约 44 秒竖屏视频。机器人行业博主 @XRoboHub 同日 21:27 发约 42 秒横屏视频（点赞约 110、浏览约 5700）：星动纪元的 M7 机器人在分拣线上把包裹逐件拿起、放上传送带；帖子说部署从今年 3 月广州试点开始，“再好的演示也比不上真干活”。中文帖子称覆盖城市包括广州、深圳、东莞。",
+  "category": "具身智能/物流落地",
+  "company": "星动纪元（ROBOTERA）；中国邮政",
+  "source": "X：@ROBOTERA_global（官方）；@XRoboHub（行业博主）",
+  "source_url": "https://x.com/XRoboHub/status/2122683107551895684",
+  "published_at": "2026-11-17T21:27:45+08:00",
+  "collected_at": "2026-11-18T09:01:58+08:00",
+  "engagement": {
+    "likes": 107,
+    "reposts": 18,
+    "replies": 10,
+    "views": 5757
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“平均每小时 1500 件以上、与熟练工人相当”是厂商自述，没有说明统计口径；11-16 有帖子转述公司说过混流和异形件时初期只有每小时 800–900 件",
+    "11-17 收过“深圳邮政分拣中心 3 台机器人上夜班”，当时没写厂商；是否就是星动纪元的这批机器人未核实，口播别直接合并",
+    "官方视频分辨率较低（720×960），横屏素材来自博主 @XRoboHub"
+  ],
+  "credit": "来源：X @XRoboHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 42.38,
+      "transcoded": true,
+      "bytes": 9813463,
+      "sha256": "4bf96f366bb27e6618a94954949b4aebbe09ddb473ebfe20cc1f93c0c6208946",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 90032,
+      "sha256": "000149208ed68bbf93726edc1ca4aa73d6c986eb58aae4a47853cc97597468bc",
+      "orig_name": "003_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 720,
+      "h": 960,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 44.47,
+      "transcoded": true,
+      "bytes": 5394728,
+      "sha256": "75e66245d847e3da259147df7c34b7d72f535d98edf71b342570cbbc6a31c307",
+      "orig_name": "003_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 960,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 45819,
+      "sha256": "4201a552b3977fcfa16f43c7f9da9fed6bf88fa23173a565be4914a646ee5343",
+      "orig_name": "003_2_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Genesis AI 完成 5 亿美元 A 轮、估值 35 亿美元：靠传感手套采数据，轮式人形机器人 Eno 明年量产",
+      "selected": null,
+      "bytes": 14621794,
+      "has_video": true,
+      "duration": 125.01
+    },
+    {
+      "id": "002",
+      "title": "谷歌 DeepMind 发布 Gemini 4 Hydrogen 机器人能力和 Antigravity 机器人插件：用聊天教机械臂干活，先仿真再上真机",
+      "selected": null,
+      "bytes": 8873914,
+      "has_video": true,
+      "duration": 103.33
+    },
+    {
+      "id": "003",
+      "title": "星动纪元人形机器人铺进中国邮政广东网络：8 个城市 11 个分拣中心，称平均每小时供件 1500 件以上",
+      "selected": null,
+      "bytes": 15344042,
+      "has_video": true,
+      "duration": 86.85
+    },
+    {
+      "id": "004",
+      "title": "路透社：APEC 峰会期间深圳街头人形机器人跳舞、笼中格斗、做冰淇淋；151 台机器人齐舞被报破吉尼斯纪录",
+      "selected": null,
+      "bytes": 43873228,
+      "has_video": true,
+      "duration": 181.09
+    },
+    {
+      "id": "005",
+      "title": "波士顿动力：格芯成首家参与 Atlas 人形机器人早期试用的半导体厂；现代汽车集团同日被报已 100% 控股波士顿动力",
+      "selected": null,
+      "bytes": 655313,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "006",
+      "title": "Dexmate 联合创始人：人形机器人装轮子“很稳、从不摔倒”，一次充电约跑 20 小时",
+      "selected": null,
+      "bytes": 13708684,
+      "has_video": true,
+      "duration": 73.54
+    },
+    {
+      "id": "007",
+      "title": "雷军在 APEC 工商领导人峰会：具身智能机器人的想象力“应该会超过汽车产业”",
+      "selected": null,
+      "bytes": 12704974,
+      "has_video": true,
+      "duration": 136.47
+    }
+  ],
+  "order": [],
+  "total_bytes": 109781949,
+  "updated_at": "2026-11-18T09:01:58+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

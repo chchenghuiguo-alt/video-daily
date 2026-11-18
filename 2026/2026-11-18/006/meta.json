@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-18",
+  "title": "Dexmate 联合创始人：人形机器人装轮子“很稳、从不摔倒”，一次充电约跑 20 小时",
+  "summary": "机器人资讯号 @RoboDaily 11 月 18 日 01:28（UTC+8）发布约 73 秒横屏访谈片段：Dexmate（@DexmateAI）的 Tao Chen（@taochenshh）解释公司为什么把人形机器人做成轮式——“它很稳，从不摔倒”；他说轮式机器人一次充电大约能跑 20 小时，腿足机器人只有三四个小时；但在建筑工地和户外，腿还是更合适。画面前半段是两人对谈，后半段是 Dexmate 轮式机器人在展会上与人互动的镜头。",
+  "category": "人形机器人/观点",
+  "company": "Dexmate",
+  "source": "X：@RoboDaily（聚合号）",
+  "source_url": "https://x.com/RoboDaily/status/2122743613914529966",
+  "published_at": "2026-11-18T01:28:10+08:00",
+  "collected_at": "2026-11-18T09:01:58+08:00",
+  "engagement": {
+    "likes": 14,
+    "reposts": 0,
+    "replies": 1,
+    "views": 374
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“约 20 小时续航”是公司方说法，没给测试条件",
+    "画面左上有 ROBOSTRATEGY 字样，访谈原始出处可能是 RoboStrategy 节目（该账号在 SOURCES.md 里已停用），录制时间未核实",
+    "互动量较低（浏览约 370）"
+  ],
+  "credit": "来源：X @RoboDaily",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 73.54,
+      "transcoded": true,
+      "bytes": 13658573,
+      "sha256": "4e9c8281391e42c6bd190b5c5a2c89db05121b1ae9b093dd70211238d2e563a4",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 50111,
+      "sha256": "49db6c78656f11e68e737e0df43e8309df658faaee8f7d518b5ae6be30bde527",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}
