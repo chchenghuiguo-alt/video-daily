@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-19",
+  "title": "波士顿动力发布 Spot 新宣传片：巡检、安防、帮手，“明天见”",
+  "summary": "波士顿动力官方账号 11 月 18 日 23:01（UTC+8）发布约 69 秒 1080p 横屏宣传片：“无论哪里需要多一双眼睛或一只手，Spot 都准备好了。今天 Spot 正在与人一起、为人工作，让我们的工作和社区更安全、更可靠、更智能。看看明天会带来什么。”画面有 Spot 在工厂、设施、户外巡检等场景，片尾字幕“TOMORROW REPORTING FOR DUTY”。帖子附 Spot 产品页和“物理智能”页面链接（点赞约 330、浏览约 1.6 万）。",
+  "category": "产品/四足",
+  "company": "波士顿动力",
+  "source": "X：@BostonDynamics（官方）",
+  "source_url": "https://x.com/BostonDynamics/status/2123069190395363353",
+  "published_at": "2026-11-18T23:01:54+08:00",
+  "collected_at": "2026-11-19T08:56:00+08:00",
+  "engagement": {
+    "likes": 331,
+    "reposts": 46,
+    "replies": 24,
+    "views": 16269
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方宣传片，没有公布新功能或新数据；“明天见”是否预告新品不清楚，口播不要猜测"
+  ],
+  "credit": "来源：X @BostonDynamics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 69.08,
+      "transcoded": true,
+      "bytes": 14432231,
+      "sha256": "44b4d9ab10e5ca7c6f5bd21867bfddf22efe74eae3c5ec77ef2f996c81991089",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 151790,
+      "sha256": "a7cf60da96880e9c5fc37b0f650037bc95859735e4079ef28b18b04f84ce25b0",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

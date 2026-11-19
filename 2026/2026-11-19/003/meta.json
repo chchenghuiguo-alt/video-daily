@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-19",
+  "title": "苏黎世联邦理工用强化学习让 5 吨重的约翰迪尔滑移装载机“翘头”：两轮平衡、原地转圈、再安全落地",
+  "summary": "苏黎世联邦理工（ETH Zurich）机器人系统实验室（RSL，@leggedrobotics）与约翰迪尔旗下 Blue River Technology、Gravis Robotics、英特尔合作，用强化学习在仿真里训练控制策略，再直接迁移到一台真实的 5 吨级 John Deere 332G 滑移装载机上。机器能自己晃动积累动量，把后轮抬起、只靠两个前轮平衡，在平衡状态下开过不平的地面、按指定轨迹行驶、原地转圈、来回摆动铲斗，最后平稳落回四轮。论文称这些动作此前只有少数顶尖操作手在世界纪录表演中做到过。论文 11 月 11 日发表于《Science Robotics》。WevolverApp 11 月 17 日 20:59（UTC+8）发布的约 70 秒视频（标注视频来源 @leggedrobotics / ETH）浏览约 175 万、点赞约 1.2 万，11 月 18 日到 19 日仍在被大量转发。",
+  "category": "研究/工程机械",
+  "company": "ETH Zurich RSL",
+  "source": "X：@WevolverApp（转发，视频来源 @leggedrobotics / ETH）；Science Robotics 论文、arXiv 2611.18365",
+  "source_url": "https://x.com/WevolverApp/status/2122676099071009258",
+  "published_at": "2026-11-17T20:59:54+08:00",
+  "collected_at": "2026-11-19T08:56:00+08:00",
+  "engagement": {
+    "likes": 12030,
+    "reposts": 1159,
+    "replies": 342,
+    "views": 1752054
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "网传“只用约 1.5 小时真机数据训练、在普通笔记本上运行、只用倾角和轮速传感器”来自二手报道，口播如用需说“据报道”",
+    "论文和报道都强调这是研究，不建议任何人模仿这些动作"
+  ],
+  "credit": "来源：X @WevolverApp",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 69.85,
+      "transcoded": true,
+      "bytes": 13019885,
+      "sha256": "2dbb86a7c4b77dee288350a7b69401e8e68e80b93141f169c577d66e9ab08fa1",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1138,
+      "h": 640,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 145787,
+      "sha256": "34f258b11900fdcd127626ba732983f81077a89e50a20d483d4809af300d59b6",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

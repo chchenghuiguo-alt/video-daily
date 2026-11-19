@@ -1,0 +1,88 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-19",
+  "title": "特斯拉 Optimus 专用工厂航拍：Giga Texas 新厂房约 700 万平方英尺，钢结构已装约 65%",
+  "summary": "得州无人机博主 Joe Tegtmeyer（@JoeTegtmeyer，长期航拍 Giga Texas）11 月 19 日 01:01（UTC+8）发布约 79 秒 4K 航拍，绕 Giga Texas 的 Optimus 人形机器人工厂工地飞一圈。他说这座厂房面积超过 700 万平方英尺，3 月初开始平整场地，6 月初开始装钢结构，目标是 2027 年 3 月底前钢结构全部装完，他认为进度符合目标。他在 11 月 18 日 22:45 的另一条帖子里说厂房已装好约 65%，东南侧新浇了 4 个加固地基，看起来像 IDRA 压铸机地基，他预计明年到货、用于机器人机身；也看到有设备送到，可能是第一批产线设备。聚合号 @TheHumanoidHub 转发航拍并评论：700 万平方英尺约等于 91 个足球场，比生产 Model 3/Y、并有首条 Optimus 产线的弗里蒙特工厂整体还大（浏览约 6.9 万）。",
+  "category": "工厂/量产",
+  "company": "特斯拉",
+  "source": "X：@JoeTegtmeyer（无人机航拍博主，第一手画面）；@TheHumanoidHub 评论",
+  "source_url": "https://x.com/JoeTegtmeyer/status/2123099240855461969",
+  "published_at": "2026-11-19T01:01:18+08:00",
+  "collected_at": "2026-11-19T08:56:00+08:00",
+  "engagement": {
+    "likes": 326,
+    "reposts": 30,
+    "replies": 9,
+    "views": 32967
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“700 万平方英尺”“约 65% 已装好”“2027 年 3 月底完成钢结构”都是博主估计/转述，特斯拉没有官方公布",
+    "“4 个地基是 IDRA 压铸机用的”是博主推测",
+    "“比弗里蒙特工厂还大”是 @TheHumanoidHub 的说法，未核实"
+  ],
+  "credit": "来源：X @JoeTegtmeyer",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 78.72,
+      "transcoded": true,
+      "bytes": 37997258,
+      "sha256": "d3911c5ad09e76f70536dfc5e33ae796dacd9905bb27159567452f4a98471212",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 263799,
+      "sha256": "890584acbbe045821f12db529719b4b5b98433ebc8da1e15f4675ae3435a431d",
+      "orig_name": "001_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 691682,
+      "sha256": "72a2182ce6215226d874cd86360542035ad7feb97f0bb08d94e6d25ca4c44458",
+      "orig_name": "001_img1.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 666325,
+      "sha256": "5a9ebdc250a2006b8b9cfe73aca8b048314d64aa4bb8f711233dc3c59765abe1",
+      "orig_name": "001_img2.jpg"
+    },
+    {
+      "file": "images/04.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 438283,
+      "sha256": "7cd3c8ddb300700d5a2c5852816eaaa876fcfc670024e9f6edba2c9c4e605d1a",
+      "orig_name": "001_img3.jpg"
+    }
+  ]
+}

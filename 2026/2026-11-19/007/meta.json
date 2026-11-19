@@ -1,0 +1,51 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-19",
+  "title": "Agility 上市后调整高管：Daniel Diez 升任总裁，并宣布带 Digit 参加 CES 2027",
+  "summary": "Agility Robotics 官方账号 11 月 18 日 23:03（UTC+8）宣布三项高管任命：原首席商务官 Daniel Diez 升任总裁，负责全部商业业务；5 月加入的客户成功副总裁 Christopher “Sully” Sullivan 出任首席产品官，负责 Digit、Agility Arc 等产品；原首席法务与人力官 Ana Lang 出任首席行政官。据 Agility 官网新闻稿，这是公司 11 月 4 日与 Churchill Capital Corp XI 完成合并、以代码 AGLT 在纳斯达克上市后的调整；新闻稿称 Diez 主导拿下了 Digit 5 超过 3 亿美元的多年期承诺订单（取决于合同里程碑和产品规格）。同日 00:45 官方又宣布将在 2027 年 1 月 6–9 日的 CES 展出 Digit（拉斯维加斯会展中心北厅 10502 展位）。",
+  "category": "公司/人事",
+  "company": "Agility Robotics",
+  "source": "X：@agilityrobotics（官方）；Agility 官网新闻稿",
+  "source_url": "https://x.com/agilityrobotics/status/2123069661487190053",
+  "published_at": "2026-11-18T23:03:46+08:00",
+  "collected_at": "2026-11-19T08:56:00+08:00",
+  "engagement": {
+    "likes": 32,
+    "reposts": 2,
+    "replies": 5,
+    "views": 2434
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“超过 3 亿美元多年期承诺订单”是公司说法，且附带合同里程碑条件",
+    "只有图片，没有视频"
+  ],
+  "credit": "来源：X @agilityrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1280,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 49761,
+      "sha256": "7cafc575364e219a506497a48dabe046a3362d426b253b4fb84b7165a346e389",
+      "orig_name": "007_img1.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 237871,
+      "sha256": "e45981c2cb432f7073d9010ec3f9c8079b7d64e4be12ad28631c280e798163dd",
+      "orig_name": "007_img2.jpg"
+    }
+  ]
+}

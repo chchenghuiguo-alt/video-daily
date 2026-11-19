@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-19",
+  "title": "马斯克在 TomorrowX 峰会上说：12 到 18 个月内 Optimus 能倒垃圾、洗碗收碗",
+  "summary": "11 月 18 日（美国中部时间）奥斯汀 TomorrowX 峰会上，Atreides 的 Gavin Baker 问马斯克：家里什么时候能有一台会倒垃圾、把碗收好的 Optimus。马斯克回答：“我认为 Optimus 大约 12 到 18 个月后就能做到你说的这些事。”他补充：拿起还有剩菜的脏盘子、刮掉残渣、放到水槽下冲洗、擦干、再安全放回柜子，“现在没有任何人形机器人能做到，非常难”，但他认为 Optimus 能在 12 到 18 个月内做到。Valor 的 Antonio Gracias 也在台上。视频约 83 秒，由 @firesidealpha 剪辑发布（11 月 19 日 08:00 UTC+8），画面是马斯克视频连线（左侧为 Baker）。",
+  "category": "观点/时间表",
+  "company": "特斯拉",
+  "source": "X：@firesidealpha（剪辑转发峰会画面）；TomorrowX Summit 官网议程",
+  "source_url": "https://x.com/firesidealpha/status/2123204811889983612",
+  "published_at": "2026-11-19T08:00:49+08:00",
+  "collected_at": "2026-11-19T08:56:00+08:00",
+  "engagement": {
+    "likes": 56,
+    "reposts": 9,
+    "replies": 6,
+    "views": 8420
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“12 到 18 个月”是马斯克的预测，不是产品承诺；马斯克此前多次给出的 Optimus 时间表都有推迟",
+    "视频由第三方账号剪辑，原始出处是峰会直播，未找到官方完整录像",
+    "画面看起来是马斯克远程视频连线，现场形式未经官方确认"
+  ],
+  "credit": "来源：X @firesidealpha",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 82.86,
+      "transcoded": true,
+      "bytes": 8807814,
+      "sha256": "27f4209bd4276cc339f4db4527bf20e6665e9e2d60c4eb921cc08e5048ffa3a5",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 58044,
+      "sha256": "2f39abfc99098f958ed622c97e26b0204d2d679346fd862cbc6718e467e77de8",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}
