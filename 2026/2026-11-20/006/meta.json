@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-20",
+  "title": "宇树 G1 做汉堡不剪辑：Tau Robotics 公开“人+AI”操作方式，远程有人监看指导",
+  "summary": "机器人媒体号 @ctorobotics 11 月 19 日 23:00（UTC+8）转发 Tau Robotics 创始人 Alexander Koch（@alexkoch_ai）分享的约 163 秒不剪辑视频（4 倍速播放）：一台基于宇树 Unitree G1 的人形机器人在家庭厨房里拿面包、打开包装、煎肉饼、组装汉堡。帖子明确写：这套系统用“人+AI”运营模式，远程有操作员监看和指导机器人，AI 控制在不同层面提供辅助，“这不是完全自主做饭”，而是人机协作的真实例子。",
+  "category": "服务/遥操作",
+  "company": "Tau Robotics / 宇树",
+  "source": "X：@ctorobotics（转发，视频来源 Tau Robotics 创始人 Alexander Koch）",
+  "source_url": "https://x.com/ctorobotics/status/2123431115809767753",
+  "published_at": "2026-11-19T23:00:04+08:00",
+  "collected_at": "2026-11-20T08:54:45+08:00",
+  "engagement": {
+    "likes": 6,
+    "reposts": 1,
+    "replies": 0,
+    "views": 313
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频是 4 倍速，不是原速；口播要说明",
+    "远程人类参与到什么程度没公开，不能说成自主做饭",
+    "发布者 @ctorobotics 是搬运/媒体号，原帖来自 Alexander Koch，互动量低（点赞约 6）"
+  ],
+  "credit": "来源：X @ctorobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 60.0,
+      "has_audio": false,
+      "duration": 163.15,
+      "transcoded": true,
+      "bytes": 24404891,
+      "sha256": "84ffb24a31f8a5677a1ba8a37305c5ce0ff86b0a894093e4f098afa4e781cb80",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 81932,
+      "sha256": "4141c466216894944830c33f17259bcce519256476260f5ce56089cb76aaa4ae",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

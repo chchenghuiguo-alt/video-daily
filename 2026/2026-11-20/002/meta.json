@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-20",
+  "title": "英伟达 Jim Fan 再放 GR00T 2 原速视频：自主控制真灵巧手，端到端完成桌面操作",
+  "summary": "英伟达机器人负责人之一 Jim Fan（@DrJimFan）11 月 20 日 01:36（UTC+8）发布约 84 秒 4K 视频，文字只有一句：“自主、不剪辑、1 倍速。这是 GR00T 2 端到端控制真实的灵巧手。”画面是一台白色上半身人形机器人站在仓库货架前的工作台边，用两只多指灵巧手拿起工具和零件、在桌上操作，左下角标“AUTONOMOUS 1x”，画中画是手部近景。帖子引用了他 11 月 10 日发布 GR00T 2 的原帖（GR00T 2 是英伟达开源的机器人“系统一”模型，在机器人本机运行）。帖子浏览约 2.3 万、点赞约 430。",
+  "category": "AI 模型/灵巧手",
+  "company": "英伟达",
+  "source": "X：@DrJimFan（第一手）",
+  "source_url": "https://x.com/DrJimFan/status/2123470587259732200",
+  "published_at": "2026-11-20T01:36:54+08:00",
+  "collected_at": "2026-11-20T08:54:45+08:00",
+  "engagement": {
+    "likes": 433,
+    "reposts": 43,
+    "replies": 63,
+    "views": 22524
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "GR00T 2 本身已在 11-10、11-12 收过；这是新的演示视频，口播别说成新发布",
+    "视频里具体完成的是什么任务、用的是哪家的机器人和灵巧手，帖子没写，口播不要猜",
+    "“自主、不剪辑”是发布者自述"
+  ],
+  "credit": "来源：X @DrJimFan",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 83.5,
+      "transcoded": true,
+      "bytes": 7146716,
+      "sha256": "a5691fee5da0e2ed9336921f676fdde565c2a325b93bcd7e4ef3ec72b2bd853b",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 127004,
+      "sha256": "bc54878265da80dfae0e6329c83ff21db21e2975a0435e0fce0cdb4c5d99727f",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-20",
+  "title": "小鹏 11 月 25 日 AI Day 预告 IRON 人形机器人新能力；何小鹏称 IRON 2027 年二季度开始对外交付",
+  "summary": "小鹏汽车董事长何小鹏（@xiaopenghexpeng）11 月 19 日 18:40（UTC+8）发布约 11 秒竖屏预告片：小鹏 AI Day“ORIGIN”11 月 25 日 14:00（UTC+8）举行，会分享物理 AI 的最新思考、AI 模型和物理系统如何共同进化，“展示 IRON 人形机器人的最新能力”，并介绍物理 AI 将如何改变出行。帖子浏览约 25 万、点赞约 2600。另据 KrASIA 11 月 18 日报道，何小鹏在 11 月 16 日三季度财报电话会上说：IRON 将于 2027 年一季度先在部分小鹏门店试用，二季度开始交付外部企业客户；下一代 IRON 量产定在 2027 年 1 月 1 日开始；小鹏 9 月 8 日已开出一条自动化人形机器人产线。",
+  "category": "公司/预告",
+  "company": "小鹏",
+  "source": "X：@xiaopenghexpeng（何小鹏本人）；@KrASIAofficial；KrASIA 报道",
+  "source_url": "https://x.com/xiaopenghexpeng/status/2123365685724422344",
+  "published_at": "2026-11-19T18:40:04+08:00",
+  "collected_at": "2026-11-20T08:54:45+08:00",
+  "engagement": {
+    "likes": 2590,
+    "reposts": 261,
+    "replies": 76,
+    "views": 247225
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "预告片是 CG 动画，不是真机画面，口播需说明",
+    "交付和量产时间是何小鹏在财报会上的计划，可能调整",
+    "“IRON 销量和毛利潜力远超最畅销豪华车型”是何小鹏的说法"
+  ],
+  "credit": "来源：X @xiaopenghexpeng",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 810,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 11.09,
+      "transcoded": true,
+      "bytes": 5014377,
+      "sha256": "47f3d78f1b9814b1e328a34e037ed778ce1dd0d21697479a6ab86b239c937dc0",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 2560,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 513917,
+      "sha256": "6c49362cf7fb497ee33d37ea52ec987ac68acd80d5d4956186eebd55bc53f64f",
+      "orig_name": "005_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1280,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 293353,
+      "sha256": "c41b40127574e4d1b25fbf5a856caecd29d89d28213c7a84f813bb527c8f6823",
+      "orig_name": "005_img1.jpg"
+    }
+  ]
+}

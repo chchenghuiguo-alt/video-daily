@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-20",
+  "title": "机器狗自己下山徒步 10 公里：苏黎世联邦理工 ROAM 用视觉语言模型“看懂风险”，从马特洪峰脚下一路走下来",
+  "summary": "苏黎世联邦理工（ETH Zurich）机器人系统实验室研究员 Takahiro Miki（@ki_ki_ki1）11 月 19 日 07:47（UTC+8）发帖：“以前我们拿着遥控器带机器人徒步，现在它能自己徒步，从马特洪峰下来 10 公里。”论文 ROAM 发表在《Science Robotics》。据作者在同一串帖子里的介绍：视觉语言模型（VLM）大约每 10 秒说出眼前看到的东西并给每样东西打风险分，再用图像分割变成一张“风险图”，叠到三维地形图上；两套在仿真里训练的强化学习策略接手，一套 10 Hz 决定往哪走，一套 50 Hz 决定每只脚落在哪。机器狗会看路牌（“前方施工”就绕到草地上），会避开香蕉皮、爆开的罐子、躺在路上的人。实测两条瑞士阿尔卑斯路线：采尔马特从 Gornergrat 冰川出发 10.1 公里、下降 1220 米；Seealpsee 湖边 2.38 公里环线，和徒步者、奶牛共用步道。实验室官方账号 @leggedrobotics 转发称“把腿式机器人的野外自主推向前”。主帖浏览约 2.6 万。",
+  "category": "研究/四足自主导航",
+  "company": "ETH Zurich RSL",
+  "source": "X：@ki_ki_ki1（论文作者，第一手）；@leggedrobotics 转发；Science Robotics 论文 doi:10.1126/scirobotics.aee1549、项目页 roam-hiking.github.io",
+  "source_url": "https://x.com/ki_ki_ki1/status/2123201344836391335",
+  "published_at": "2026-11-19T07:47:02+08:00",
+  "collected_at": "2026-11-20T08:54:45+08:00",
+  "engagement": {
+    "likes": 272,
+    "reposts": 48,
+    "replies": 21,
+    "views": 26102
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“完全自主走完 10.1 公里”是作者说法；作者在回复里提到团队全程跟随、背着备用电池并拍摄，口播可说“研究人员跟在旁边”",
+    "视频片尾署名为 ETH Zürich 和 Apple，Apple 的具体参与方式没核实"
+  ],
+  "credit": "来源：X @ki_ki_ki1",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 720,
+      "h": 720,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 30.27,
+      "transcoded": true,
+      "bytes": 3839332,
+      "sha256": "b53b09d3302dacb6bd892d446a1cfa90f21fda9f22af9ed59776478257a3c3f4",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 98154,
+      "sha256": "0eda5a5559bc21e5e87f5a27133e01facd94d13f9fd6a4f6863fe04bb3f6f9cd",
+      "orig_name": "001_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 720,
+      "h": 720,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 30.0,
+      "transcoded": true,
+      "bytes": 5444968,
+      "sha256": "774cb60761a1e3933159bbeb2bde9dd0ab828c8f8f5239e75b42564d0f4fff20",
+      "orig_name": "001_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 40237,
+      "sha256": "50359def46f43bfc68b4a90475027bc615d35ca19f85255668ace850cebd857b",
+      "orig_name": "001_2_thumb.jpg"
+    },
+    {
+      "file": "videos/03.mp4",
+      "type": "video",
+      "w": 720,
+      "h": 720,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 30.0,
+      "transcoded": true,
+      "bytes": 5604960,
+      "sha256": "f035a1635a6c8956afdb973bb99e3e85b6452f0d894c961cc30bdf5aa96d4758",
+      "orig_name": "001_3.mp4"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 720,
+      "h": 720,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 74984,
+      "sha256": "48ab655c91817b4fbb5244e412107089eebc6f9674d5630fe8b5ab5402ad8f60",
+      "orig_name": "001_3_thumb.jpg"
+    }
+  ]
+}

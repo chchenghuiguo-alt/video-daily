@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "机器狗自己下山徒步 10 公里：苏黎世联邦理工 ROAM 用视觉语言模型“看懂风险”，从马特洪峰脚下一路走下来",
+      "selected": null,
+      "bytes": 15102635,
+      "has_video": true,
+      "duration": 90.27
+    },
+    {
+      "id": "002",
+      "title": "英伟达 Jim Fan 再放 GR00T 2 原速视频：自主控制真灵巧手，端到端完成桌面操作",
+      "selected": null,
+      "bytes": 7273720,
+      "has_video": true,
+      "duration": 83.5
+    },
+    {
+      "id": "003",
+      "title": "新公司 Nimo Robotics 亮相：人戴手套示范、机器手照着学，号称“一天内把人的手艺变成机器人技能”",
+      "selected": null,
+      "bytes": 9260070,
+      "has_video": true,
+      "duration": 89.69
+    },
+    {
+      "id": "004",
+      "title": "马斯克：Optimus 的手和前臂比整机其他部分都难；用 Carmack 的“装电池遥控车”测试，一两个月内做“真实演示”",
+      "selected": null,
+      "bytes": 10490443,
+      "has_video": true,
+      "duration": 116.31
+    },
+    {
+      "id": "005",
+      "title": "小鹏 11 月 25 日 AI Day 预告 IRON 人形机器人新能力；何小鹏称 IRON 2027 年二季度开始对外交付",
+      "selected": null,
+      "bytes": 5821647,
+      "has_video": true,
+      "duration": 11.09
+    },
+    {
+      "id": "006",
+      "title": "宇树 G1 做汉堡不剪辑：Tau Robotics 公开“人+AI”操作方式，远程有人监看指导",
+      "selected": null,
+      "bytes": 24486823,
+      "has_video": true,
+      "duration": 163.15
+    }
+  ],
+  "order": [],
+  "total_bytes": 72435338,
+  "updated_at": "2026-11-20T08:54:45+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
