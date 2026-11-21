@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-21",
+  "title": "云深处四足机器人在伊拉克鲁迈拉油田营地巡逻：中国石油工程建设公司项目现场，昼夜巡检",
+  "summary": "云深处科技官方账号（@DeepRobotics_CN）11 月 20 日 20:38（UTC+8）发布约 102 秒横屏视频：其四足机器人在中东中国石油工程建设公司（CPECC）项目现场做工业巡检，应对沙尘、高温和户外复杂环境。视频中英双语字幕显示：机器人在营地道路和重点区域自主巡逻、自动调整步态，工作人员在控制室监控；它还能给来访人员引路、在夜间补充营地安保；片尾字幕“从中国制造，到鲁迈拉应用”，并出现中国石油工程建设有限公司标志。",
+  "category": "应用/工业巡检",
+  "company": "云深处 DEEP Robotics",
+  "source": "X：@DeepRobotics_CN（官方）",
+  "source_url": "https://x.com/DeepRobotics_CN/status/2123757839445549184",
+  "published_at": "2026-11-20T20:38:21+08:00",
+  "collected_at": "2026-11-21T08:58:11+08:00",
+  "engagement": {
+    "likes": 14,
+    "reposts": 2,
+    "replies": 1,
+    "views": 705
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "是厂商宣传片，部署规模、运行时长、机器人型号都没公开",
+    "“鲁迈拉（Rumaila，伊拉克油田）”来自视频字幕，帖子正文只写“中东”"
+  ],
+  "credit": "来源：X @DeepRobotics_CN",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 102.26,
+      "transcoded": true,
+      "bytes": 30399585,
+      "sha256": "853669e422ef26ce7156505fb1f238861bf75cea9aa2cf4efd20667f3e381aff",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 152122,
+      "sha256": "5bef2de50f1d397c6efb0738fe951c84cd336a3e323b3c85cf2b8f93fc41ac78",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-21",
+  "title": "Figure 联手 T-Mobile 把 F.03 人形机器人带到 F1 拉斯维加斯大奖赛",
+  "summary": "Figure 官方账号（@Figure_robot）11 月 21 日 01:55（UTC+8）发帖：“我们与 T-Mobile 合作，本周末把 F.03 带到 F1 拉斯维加斯大奖赛（@F1LasVegas），现场见。”配了一段约 18 秒的 4K 横屏视频：夜色中的赛道直道和看台前，一台换上 T-Mobile 品红配色的 F.03 站在赛道上挥手。创始人 Brett Adcock（@adcock_brett）随后转发：“F.03 在 F1 拉斯维加斯。”官方帖浏览约 5.4 万、点赞约 1000。",
+  "category": "公司/商业活动",
+  "company": "Figure",
+  "source": "X：@Figure_robot（官方）；@adcock_brett 转发",
+  "source_url": "https://x.com/Figure_robot/status/2123837601379721637",
+  "published_at": "2026-11-21T01:55:17+08:00",
+  "collected_at": "2026-11-21T08:58:11+08:00",
+  "engagement": {
+    "likes": 1043,
+    "reposts": 81,
+    "replies": 46,
+    "views": 54203
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "帖子只说“带到 F1 拉斯维加斯”，F.03 在现场具体做什么（展示、互动或其他）没有说明；有搬运号称 F.03“给比赛发车”，未见官方确认，口播不要用",
+    "视频是官方宣传短片，是否为现场实拍、F.03 是否自主行动都没有说明"
+  ],
+  "credit": "来源：X @Figure_robot",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 17.98,
+      "transcoded": true,
+      "bytes": 1698780,
+      "sha256": "9e1e17a4eefa6c5a53d6437c1dcf89df62d55204f1c817450c41bb02d11247ba",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 79845,
+      "sha256": "584d882bffaddd934edafbb7fd06caa796687344a3d030551a0b3a2abfc6b4f2",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

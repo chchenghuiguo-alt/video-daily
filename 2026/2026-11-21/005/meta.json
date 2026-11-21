@@ -1,0 +1,41 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-21",
+  "title": "雀巢在瑞士开深度科技中心，联手微软和波士顿动力把 AI、传感器和机器人用进全球工厂",
+  "summary": "雀巢 11 月 20 日宣布在瑞士奥尔布（Orbe）启用“深度科技中心”（Deep Tech Center），用 AI、智能传感器、机器人和联网系统开发、测试新技术，先在中心的试验线上验证，再推广到雀巢全球工厂；同时在深圳设一个技术枢纽，对接中国科技生态。据路透/Investing.com 和 swissinfo：合作伙伴包括微软和波士顿动力，两家都确认了合作；中心初期约 60 人。雀巢首席技术官 Stefan Palzer 说，工厂里的传感器和机器人将用来稳定品质、提高效率，接手重复或费力的工作。另据 The Robotics Media 报道，波士顿动力的 Spot 机器狗已经在雀巢旗下普瑞纳（Purina）宠物食品工厂做热成像和声学巡检。X 上 @CultFinance_ 等多个账号转发了这条消息。",
+  "category": "产业/工厂自动化",
+  "company": "雀巢 / 波士顿动力 / 微软",
+  "source": "雀巢官网新闻稿（nestle.com，11-20）；路透（经 Investing.com）；swissinfo；X：@CultFinance_（配图）",
+  "source_url": "https://x.com/CultFinance_/status/2123720506972962975",
+  "published_at": "2026-11-20T18:10:00+08:00",
+  "collected_at": "2026-11-21T08:58:11+08:00",
+  "engagement": {
+    "likes": 4,
+    "reposts": 0,
+    "replies": 2,
+    "views": 533
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "配图是普通食品工厂产线照片，不是新中心，也没有波士顿动力机器人；建议配 Spot 资料画面并标注",
+    "合作没有公开金额、期限和具体会部署哪些机器人",
+    "“Spot 已在普瑞纳工厂巡检”来自媒体报道，雀巢新闻稿里没写"
+  ],
+  "credit": "来源：X @CultFinance_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1280,
+      "h": 640,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 172096,
+      "sha256": "6d342c7e30ed114fc4426d0857a5ff89bdc59871df060c10cc458d650c62a803",
+      "orig_name": "005_img1.jpg"
+    }
+  ]
+}

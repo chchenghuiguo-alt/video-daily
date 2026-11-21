@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-21",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Figure 联手 T-Mobile 把 F.03 人形机器人带到 F1 拉斯维加斯大奖赛",
+      "selected": null,
+      "bytes": 1778625,
+      "has_video": true,
+      "duration": 17.98
+    },
+    {
+      "id": "002",
+      "title": "没人骑的自行车机器人自己冲下山地车道：RAI 研究所与苏黎世联邦理工的 UMV，最快 5.2 米/秒",
+      "selected": null,
+      "bytes": 17437785,
+      "has_video": true,
+      "duration": 35.48
+    },
+    {
+      "id": "003",
+      "title": "浙大和宇树开源 Movens-5M：从网络视频里提炼 500 万条动作，教宇树 G1 听话、看视频模仿、跟音乐跳舞",
+      "selected": null,
+      "bytes": 5323798,
+      "has_video": true,
+      "duration": 39.89
+    },
+    {
+      "id": "004",
+      "title": "人形机器人拿金属探测器排雷：Skylark Labs 演示让人形机器人代替排爆人员扫地面",
+      "selected": null,
+      "bytes": 469009,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "005",
+      "title": "雀巢在瑞士开深度科技中心，联手微软和波士顿动力把 AI、传感器和机器人用进全球工厂",
+      "selected": null,
+      "bytes": 172096,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "006",
+      "title": "日经：小鹏、众擎等中国人形机器人公司工程师被拒美签，CES 2027 演示受影响",
+      "selected": null,
+      "bytes": 320912,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "007",
+      "title": "云深处四足机器人在伊拉克鲁迈拉油田营地巡逻：中国石油工程建设公司项目现场，昼夜巡检",
+      "selected": null,
+      "bytes": 30551707,
+      "has_video": true,
+      "duration": 102.26
+    }
+  ],
+  "order": [],
+  "total_bytes": 56053932,
+  "updated_at": "2026-11-21T08:58:11+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-21",
+  "title": "没人骑的自行车机器人自己冲下山地车道：RAI 研究所与苏黎世联邦理工的 UMV，最快 5.2 米/秒",
+  "summary": "机器人资讯号 @XRoboHub 11 月 20 日 03:04（UTC+8）发布约 35 秒视频（浏览约 4.3 万）：此前在实验室里表演空翻的 RAI 研究所自行车机器人 UMV（Ultra Mobility Vehicle），如今在苏黎世 Allmend 山地车道上自主下坡、自己选过弯路线。据 RAI 研究所项目页和论文（投稿《国际机器人研究期刊》IJRR，审稿中）：整条车道长 969 米、落差 59 米，UMV 分 6 段自主跑完其中 946 米，平均 3.26 米/秒，峰值 5.2 米/秒（约每小时 19 公里）；只靠车载相机、激光雷达和 NVIDIA AGX Orin 算力，没有遥控；策略在仿真里 46 公里随机生成的车道上训练。在上半段，自主速度约是此前遥控 UMV 的 2.3 倍。仿真对比中，专门训练的 UMV 在上半段平均 9.81 米/秒，四足机器人 ANYmal-D 只有 4.68 米/秒。团队开源了仿真和感知工具。@IlirAliu_ 11 月 21 日也引用转发了这条。",
+  "category": "研究/自主移动",
+  "company": "RAI 研究所 / ETH Zurich RSL",
+  "source": "X：@XRoboHub（资讯号转发研究视频）；@IlirAliu_ 引用；RAI 研究所项目页 pages.rai-inst.com/autonomous-trail-racing、论文页 rai-inst.com",
+  "source_url": "https://x.com/XRoboHub/status/2123492570978566352",
+  "published_at": "2026-11-20T03:04:16+08:00",
+  "collected_at": "2026-11-21T08:58:11+08:00",
+  "engagement": {
+    "likes": 263,
+    "reposts": 39,
+    "replies": 10,
+    "views": 42572
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "据论文解读网站 preprinty 的摘要：6 段成功跑完是从 79 次尝试中挑出来的，单段最长 220 米、76 秒；不能说成“一口气跑完 1 公里”",
+    "“比遥控快 2.3 倍”的遥控速度是作者从视频估算的；9.81 米/秒和 ANYmal 对比是仿真结果",
+    "论文还在审稿，没有正式发表",
+    "视频发布者 @XRoboHub 是资讯号，不是 RAI 官方"
+  ],
+  "credit": "来源：X @XRoboHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 35.48,
+      "transcoded": true,
+      "bytes": 17341995,
+      "sha256": "a3cee6bdb2f6e62626a010d6f8c801f4c3458e89bffde4b842981c8504578a09",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 95790,
+      "sha256": "abda73e524648fd73c9142d9cb49fafae5a35a4c249265537959f5dff9af2928",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}
