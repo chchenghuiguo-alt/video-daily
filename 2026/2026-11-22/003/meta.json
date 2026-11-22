@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-22",
+  "title": "韩国翰林大学圣心医院试用人形机器人：在模拟病房里送病号服、运医疗设备",
+  "summary": "资讯号 @CyberRobooo 11 月 21 日 13:30（UTC+8）发布约 46 秒视频（浏览约 4400）：韩国翰林大学圣心医院与机器人公司 BlueRobin（블루로빈）合作，把正在开发的医院用人形机器人放进模拟病房测试。据医院 11 月 20 日新闻稿及首尔经济、人工智能新闻等韩媒报道：测试用的是早期研究样机——轮式底盘加人形上半身，放在翰林模拟中心（按真实病房和走廊布置）里，检查三件事：窄走廊行驶、递送医疗耗材和病号服、搬运移动式医疗设备。院方强调不做直接面向病人的医疗行为，先从减轻医护跑腿和重复杂活做起，测试数据会用来确定后续机型的硬件和控制软件规格。项目属于韩国产业通商部 2025 年机器人产业技术开发项目（基于 AI 基础模型的医疗、家庭环境人形机器人）。",
+  "category": "应用/医疗",
+  "company": "BlueRobin / 翰林大学圣心医院",
+  "source": "X：@CyberRobooo（资讯号）；翰林大学医疗院新闻稿（thehallym.com，11-20）、首尔经济英文版、aitimes.kr、电子新闻",
+  "source_url": "https://x.com/CyberRobooo/status/2124012477205950817",
+  "published_at": "2026-11-21T13:30:11+08:00",
+  "collected_at": "2026-11-22T08:58:53+08:00",
+  "engagement": {
+    "likes": 85,
+    "reposts": 18,
+    "replies": 7,
+    "views": 4397
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频里一部分是 BlueRobin 双足人形机器人 P-73 的宣传/渲染画面（扶轮椅、工业搬运、废墟救援），不是这次医院测试的样机；医院测试用的是轮式底盘样机",
+    "这是模拟中心里的测试，没有进入真实病房",
+    "帖子称医院已有 11 类 77 台服务机器人，出自另一资讯号 @velkorti，未在新闻稿中核到"
+  ],
+  "credit": "来源：X @CyberRobooo",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 810,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 46.3,
+      "transcoded": true,
+      "bytes": 6469590,
+      "sha256": "b40e248d539c6020dda0852ed123808e3ba580cbb0ec52afa0a8575c0bece22f",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 900,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 105075,
+      "sha256": "ca9bb1c5e71fb12ed037de16be5cb90efae74145a73d75b3ef701f53d0b68815",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

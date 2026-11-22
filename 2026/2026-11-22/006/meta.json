@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-22",
+  "title": "网传视频：特斯拉 Optimus 拎着两个行李箱跟马斯克走下私人飞机",
+  "summary": "11 月 22 日凌晨起，X 上大量账号转发同一段约 9 秒的竖屏视频（多为同一套英文文案的搬运号）：停机坪上，马斯克从一架白色公务机走下，一台特斯拉 Optimus 人形机器人双手各拎一个行李箱跟在旁边走。画面像是隔着航站楼玻璃用手机拍的，带一个 Instagram 账号水印和法语字幕“Enfait pour lui c'est normal la”（意为“对他来说这很正常”）。本条用的是 @ivan_8848 11 月 22 日 05:50（UTC+8）转发的版本（浏览约 4200、点赞 86）。中文 AI 资讯号 @AIHourlyCN 援引印度《星期日卫报》称：视频没有说明机器人是自主行动还是被人远程遥控。特斯拉和马斯克本人都没有就这段视频发帖。",
+  "category": "网传视频/特斯拉",
+  "company": "Tesla",
+  "source": "X：@ivan_8848 等搬运号（来源网络，画面带 Instagram 水印）；@AIHourlyCN 援引《星期日卫报》",
+  "source_url": "https://x.com/ivan_8848/status/2124259208770076721",
+  "published_at": "2026-11-22T05:50:36+08:00",
+  "collected_at": "2026-11-22T08:58:53+08:00",
+  "engagement": {
+    "likes": 86,
+    "reposts": 14,
+    "replies": 15,
+    "views": 4227
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "原始出处找不到，拍摄时间、地点都不明；是否真实、是否 AI 生成或剪辑都没有官方确认",
+    "特斯拉、马斯克都没有回应；机器人是自主还是遥控不清楚",
+    "大量账号用一模一样的文案转发，像是营销号批量搬运，口播必须写“网传”"
+  ],
+  "credit": "来源：X @ivan_8848",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 9.15,
+      "transcoded": true,
+      "bytes": 1209683,
+      "sha256": "0e4118f64dee45132c7d48219db14fd3d30e48b793218665df236cf36c3faebe",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 44115,
+      "sha256": "db421dd7eddfa7b3549bb771267c7efe1e58ea6d7b535099d8bb515850200092",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-22",
+  "title": "南加大 Heave-Ho：一群宇树 G1 人形机器人靠“喊口令”协作抬箱子，2 台训练、可扩展到 10 台",
+  "summary": "机器人资讯号 @CyberRobooo 11 月 21 日 11:05（UTC+8）发了两段视频（浏览约 1.6 万）：多台宇树 G1 人形机器人像搬家工人一样一起抬箱子、从货车上卸货。这是南加州大学（USC）与 VinMotion 的研究 Heave-Ho（论文 arXiv:2611.22275，项目页 heaveho-humanoid.github.io）。据论文摘要：每台机器人只靠自己的传感器决策，机器人之间不走网络通信；“队长”机器人用微调过的 Qwen3-VL-2B 视觉语言模型看头部相机决定下一步动作，再用语音口令让队友同步执行；底层动作控制在人形机器人跟踪基础模型上做多机协作后训练。只用 2 台相同的机器人训练，就能扩展到最多 10 台的队伍，也能用于不同型号混编。帖子称仿真 12 项任务平均成功率 94.41%、真机 100 次试验成功 92 次。",
+  "category": "研究/多机协作",
+  "company": "USC / VinMotion（宇树 G1 平台）",
+  "source": "X：@CyberRobooo（资讯号转发研究视频）；arXiv:2611.22275；项目页 heaveho-humanoid.github.io",
+  "source_url": "https://x.com/CyberRobooo/status/2123976035649860067",
+  "published_at": "2026-11-21T11:05:23+08:00",
+  "collected_at": "2026-11-22T08:58:53+08:00",
+  "engagement": {
+    "likes": 116,
+    "reposts": 21,
+    "replies": 11,
+    "views": 16045
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "94.41% 和 92/100 两个数字来自资讯号帖子，论文摘要没写具体数字；口播用“据论文/据称”",
+    "第一段货车卸货画面看起来可能是仿真渲染，不一定是真机实拍",
+    "论文 11 月 18 日前后上线，代码官方说 12 月底才开源；还没有经过同行评审"
+  ],
+  "credit": "来源：X @CyberRobooo",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 33.57,
+      "transcoded": true,
+      "bytes": 3311617,
+      "sha256": "dc1c82aee45d1ca412be8f64f35d7911d0a415a9e86c9345f448165123536293",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 86482,
+      "sha256": "744b8d8aa92f819dfd3d9ff4d26498aec8d3adbf1a0582be15b47a7d85907052",
+      "orig_name": "002_1_thumb.jpg"
+    },
+    {
+      "file": "videos/02.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 724,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": false,
+      "duration": 26.03,
+      "transcoded": true,
+      "bytes": 2245829,
+      "sha256": "423d50cdef4756b246341105e49354dd36ef585114c97dfd9c92121f5221c1f7",
+      "orig_name": "002_2.mp4"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1199,
+      "h": 804,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 106652,
+      "sha256": "216ff5c5433168a297d8549b7ea016800c92ea197518551a4e4b6c8effe489fd",
+      "orig_name": "002_2_thumb.jpg"
+    }
+  ]
+}

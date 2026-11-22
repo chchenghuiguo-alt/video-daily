@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-22",
+  "title": "Foundation 发布第二代人形机器人 Phantom MK2，自称“世界最强人形机器人”：行走负重 200 磅（约 90 公斤）",
+  "summary": "美国人形机器人公司 Foundation（@foundation_robo）11 月 21 日 03:13（UTC+8）在 X 发布约 7 分 55 秒的官方横屏视频，标题是“Phantom MK2——世界最强人形机器人”（浏览约 3.1 万、点赞约 200）。画面有举重台负重测试、沙尘与淋水的天气测试、创始人访谈等。据 Foundation 官网产品页：MK2 身高 6 英尺（约 1.83 米）、体重 195 磅、近身搬运负载 200 磅（90 公斤）、29 个自由度、3 kWh 电池续航 4–6 小时、IP67 防水防尘、关节模块可现场更换，配套 AI 系统 Cortex II 可从人类示范学习新任务，计划 2027 年量产。Fast Company 11 月 18 日首发报道称，上一代 Phantom 只能搬约 50–60 磅，公司称零件成本降了约一半，计划先用于建筑工地、制造业，以及国防后勤。资讯号 @IlirAliu_ 引用转发时提醒：目前没有独立的负重测试，而且这家公司上周刚被 CNBC 报道发不出工资。",
+  "category": "新品发布/人形机器人",
+  "company": "Foundation Future Industries",
+  "source": "X：@foundation_robo（官方）；@IlirAliu_ 引用；Foundation 官网 foundation.bot/phantom、Fast Company（11-18）、Interesting Engineering",
+  "source_url": "https://x.com/foundation_robo/status/2123857256764862550",
+  "published_at": "2026-11-21T03:13:24+08:00",
+  "collected_at": "2026-11-22T08:58:53+08:00",
+  "engagement": {
+    "likes": 203,
+    "reposts": 32,
+    "replies": 13,
+    "views": 31015
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“世界最强人形机器人”和 200 磅负载、4–6 小时续航都是厂商说法，没有独立测试；官网也写明负重越大续航越短",
+    "产品 11 月 18 日已由 Fast Company 报道，X 上的官方完整视频是 11 月 21 日发的，口播别说“今天刚发布”",
+    "Foundation 涉及军事用途（乌克兰测试、与以军接触报道）和 CNBC 报道的欠薪问题，口播如提及要写“据报道”",
+    "视频约 8 分钟，有一段访谈和发布会画面，剪辑时挑负重和天气测试片段即可"
+  ],
+  "credit": "来源：X @foundation_robo",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 475.14,
+      "transcoded": true,
+      "bytes": 37825657,
+      "sha256": "0611e13d4d44ef35072831c0c2b32ba7122a07b677e4b62295f41b2afe319feb",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 25106,
+      "sha256": "2cae29a6cdc62b9f3e0f221da5e7178de36808ac88f58738b9889b4bfee2e87d",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

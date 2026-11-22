@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "Foundation 发布第二代人形机器人 Phantom MK2，自称“世界最强人形机器人”：行走负重 200 磅（约 90 公斤）",
+      "selected": null,
+      "bytes": 37850763,
+      "has_video": true,
+      "duration": 475.14
+    },
+    {
+      "id": "002",
+      "title": "南加大 Heave-Ho：一群宇树 G1 人形机器人靠“喊口令”协作抬箱子，2 台训练、可扩展到 10 台",
+      "selected": null,
+      "bytes": 5750580,
+      "has_video": true,
+      "duration": 59.6
+    },
+    {
+      "id": "003",
+      "title": "韩国翰林大学圣心医院试用人形机器人：在模拟病房里送病号服、运医疗设备",
+      "selected": null,
+      "bytes": 6574665,
+      "has_video": true,
+      "duration": 46.3
+    },
+    {
+      "id": "004",
+      "title": "广东拓斯达推出工业人形机器人“Star”：身高 172 厘米，瞄准工厂搬运和分拣",
+      "selected": null,
+      "bytes": 15889317,
+      "has_video": true,
+      "duration": 101.89
+    },
+    {
+      "id": "005",
+      "title": "云深处“山猫”机器狗进牛场：24 小时自主巡检，盯牛的采食、躺卧和打架",
+      "selected": null,
+      "bytes": 19306996,
+      "has_video": true,
+      "duration": 85.75
+    },
+    {
+      "id": "006",
+      "title": "网传视频：特斯拉 Optimus 拎着两个行李箱跟马斯克走下私人飞机",
+      "selected": null,
+      "bytes": 1253798,
+      "has_video": true,
+      "duration": 9.15
+    }
+  ],
+  "order": [],
+  "total_bytes": 86626119,
+  "updated_at": "2026-11-22T08:58:53+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
