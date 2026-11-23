@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-23",
+  "title": "灵心巧手 LinkerBot O30 灵巧手给人涂护手霜：从拧开瓶盖到抹在人手上",
+  "summary": "灵巧手公司 LinkerBot（@LinkerbotHQ）11 月 21 日 23:04（UTC+8）发约 40 秒 4K 官方横屏视频（点赞约 90、浏览约 2700）：O30 灵巧手打开护手霜、挤出，再涂到一个人的手上。官方配文说，之前展示的多是抓取物体，这次的最后一步是接触人，需要不同的控制方式。",
+  "category": "产品演示/灵巧手",
+  "company": "灵心巧手 LinkerBot",
+  "source": "X：@LinkerbotHQ（官方）",
+  "source_url": "https://x.com/LinkerbotHQ/status/2124156890829684849",
+  "published_at": "2026-11-21T23:04:02+08:00",
+  "collected_at": "2026-11-23T09:02:05+08:00",
+  "engagement": {
+    "likes": 92,
+    "reposts": 14,
+    "replies": 23,
+    "views": 2700
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方视频没说是自主完成还是遥操作，口播不要说“全自主”",
+    "视频为官方剪辑版本，可能有剪接"
+  ],
+  "credit": "来源：X @LinkerbotHQ",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 50.0,
+      "has_audio": true,
+      "duration": 40.4,
+      "transcoded": true,
+      "bytes": 4265320,
+      "sha256": "4719b228b166398416e2d0b7cd03e24707374c3dd1c2fcfcacc5a3fbf458311b",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 58897,
+      "sha256": "c6ee03a423d69c042e1c8bc92de924182e45e9d71f4064c699a45fc0036fa604",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-23",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "全球首场人形机器人拳击金腰带赛：雄安 WBC 认证赛事上，宇树机器人赢了众擎",
+      "selected": null,
+      "bytes": 1961587,
+      "has_video": true,
+      "duration": 7.0
+    },
+    {
+      "id": "002",
+      "title": "G-DRAGON 经纪公司要用宇树人形机器人组 K-pop 女团：2027 年 1 月出道，12 月先在澳门办机器人演唱会",
+      "selected": null,
+      "bytes": 8718307,
+      "has_video": true,
+      "duration": 24.98
+    },
+    {
+      "id": "003",
+      "title": "灵心巧手 LinkerBot O30 灵巧手给人涂护手霜：从拧开瓶盖到抹在人手上",
+      "selected": null,
+      "bytes": 4324217,
+      "has_video": true,
+      "duration": 40.4
+    },
+    {
+      "id": "004",
+      "title": "全家便利店 2027 年 1 月起在日本全国分批上补货机器人：TX GHOST 钻进冷柜后面 24 小时补饮料",
+      "selected": null,
+      "bytes": 4898738,
+      "has_video": true,
+      "duration": 38.51
+    },
+    {
+      "id": "005",
+      "title": "杜克大学开源人形机器人 Duke Humanoid V2：头上两个能各自转动的摄像头，左右手同时盯两个目标",
+      "selected": null,
+      "bytes": 8824306,
+      "has_video": true,
+      "duration": 82.05
+    },
+    {
+      "id": "006",
+      "title": "Maven Robotics 和南加大发布 Z-sight：机器人边干活边“预想下一眼”，不用生成视频，宇树 G1 家务任务成功率 73%",
+      "selected": null,
+      "bytes": 9429220,
+      "has_video": true,
+      "duration": 49.0
+    },
+    {
+      "id": "007",
+      "title": "上海酒店里的“夜班”机器人：大晓机器人（ACE Robotics）轮式人形机器人收衣、洗衣、烘干、送回客房",
+      "selected": null,
+      "bytes": 32765889,
+      "has_video": true,
+      "duration": 237.7
+    },
+    {
+      "id": "008",
+      "title": "马斯克：Optimus 会是“有史以来最好的产品”；AI5 芯片先给 Optimus，汽车继续用 AI4（纯文字，无素材）",
+      "selected": null,
+      "bytes": 0,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 70922264,
+  "updated_at": "2026-11-23T09:02:05+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

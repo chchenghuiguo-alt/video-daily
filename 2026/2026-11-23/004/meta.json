@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-23",
+  "title": "全家便利店 2027 年 1 月起在日本全国分批上补货机器人：TX GHOST 钻进冷柜后面 24 小时补饮料",
+  "summary": "机器人资讯号 @XRoboHub 11 月 21 日 14:34（UTC+8）发约 38 秒 4K 横屏视频（浏览约 3600）：店员把饮料放上智能库存架，Telexistence 的 TX GHOST 机器人在冷柜门后面把饮料补到货架上。据全家（FamilyMart）和 Telexistence 11 月 19 日的官方新闻稿：从 2027 年 1 月起在日本全国门店分批正式导入 TX GHOST 和“智能库存架”，机器人可 24 小时补货、每天最多约 1800 瓶，并按销量优先补畅销品；全家称先行门店每天的饮料补货工作减少约 7 成。Telexistence 新闻稿也写明：遇到饮料倒在货架上这类意外情况，由公司操作员远程遥控处理。",
+  "category": "商业落地/零售",
+  "company": "Telexistence、FamilyMart 全家",
+  "source": "X：@XRoboHub（资讯号）；网页：Telexistence 新闻稿 tx-inc.com（11-19）、全家新闻稿 family.co.jp（11-19）、Robrief",
+  "source_url": "https://x.com/XRoboHub/status/2124028661531828515",
+  "published_at": "2026-11-21T14:34:30+08:00",
+  "collected_at": "2026-11-23T09:02:05+08:00",
+  "engagement": {
+    "likes": 49,
+    "reposts": 11,
+    "replies": 5,
+    "views": 3603
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方 11 月 19 日已发布，口播别说“今天宣布”",
+    "“减少约 7 成”全家指的是饮料补货工作时间，Telexistence 标题写成门店工作量的 7 成，口径不同",
+    "两家都没公布门店数量和费用；2022 年曾说要铺 300 家店（Robrief）",
+    "有人远程遥控兜底，不是完全自主"
+  ],
+  "credit": "来源：X @XRoboHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 38.51,
+      "transcoded": true,
+      "bytes": 4699172,
+      "sha256": "550589cb95bec50d6d8ef43b09787c424b507a4d8ac6fd8c4cc3eff0dfd3216e",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 199566,
+      "sha256": "cfb49103690dedf4d71412cbde6dc3440795aafb3bfceedaf8a448ab088f2842",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

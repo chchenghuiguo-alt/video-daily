@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-23",
+  "title": "杜克大学开源人形机器人 Duke Humanoid V2：头上两个能各自转动的摄像头，左右手同时盯两个目标",
+  "summary": "机器人资讯号 @techniahqrobot 11 月 23 日 05:20（UTC+8）发约 82 秒横屏视频：杜克大学 General Robotics Lab 的 Duke Humanoid V2 有两个各自独立转动的 RGB-D 摄像头，可以同时跟踪两个不同物体，两只手各跟一个。据项目页和开源文档：机器人 31 个驱动关节（身体 27 个 + 两个摄像头云台各 2 个）、高约 1.2 米、重约 36 公斤；摄像头能转动后，“看得到又够得着”的工作空间从 38% 提到 97%，双目标抓取任务平均用时少 17%。硬件 CAD、物料清单和控制代码以 Apache-2.0 开源。",
+  "category": "科研/开源",
+  "company": "杜克大学 General Robotics Lab",
+  "source": "X：@techniahqrobot（资讯号）；网页：generalroboticslab.com/DukeHumanoidv2、GitHub generalroboticslab/duke_humanoid_v2",
+  "source_url": "https://x.com/techniahqrobot/status/2124614023241252968",
+  "published_at": "2026-11-23T05:20:31+08:00",
+  "collected_at": "2026-11-23T09:02:05+08:00",
+  "engagement": {
+    "likes": 19,
+    "reposts": 3,
+    "replies": 1,
+    "views": 811
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "项目页论文日期是 2026 年 9 月 9 日，不是新论文；开源仓库公开的具体日期没查到",
+    "“快 17%”项目页写的是对照实验中的平均完成时间，资讯号说成“仿真中”，口径以项目页为准"
+  ],
+  "credit": "来源：X @techniahqrobot",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 604,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 82.05,
+      "transcoded": true,
+      "bytes": 8747360,
+      "sha256": "e4a52481c7627d28bd1fe234d7f55baf7ecd0b8926f9dcaa9b00e754b2cecd86",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1199,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 76946,
+      "sha256": "43426b607a148a6cb02693de0be4da9fdd9afff62fd1d786057335453c739069",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

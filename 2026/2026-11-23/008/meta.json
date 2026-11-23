@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "id": "008",
+  "date": "2026-11-23",
+  "title": "马斯克：Optimus 会是“有史以来最好的产品”；AI5 芯片先给 Optimus，汽车继续用 AI4（纯文字，无素材）",
+  "summary": "马斯克 11 月 22 日 19:35（UTC+8）在 X 回复网友时写：“Optimus 很棒，它会是我们最好的产品，而且（我认为）是有史以来任何种类里最好的产品。”（点赞约 1.2 万、浏览约 44 万）。同日 20:09（UTC+8），有人问 AI5 芯片什么时候装进新车，他回复：“它会给 Optimus。汽车会留在 AI4，那已经足够实现超人类水平的驾驶。”（浏览约 130 万）此前他在同一讨论串里说 AI5 算力约为现有芯片的 12 倍。这两条都是文字回复，没有图片或视频。",
+  "category": "观点/特斯拉",
+  "company": "特斯拉 Tesla",
+  "source": "X：@elonmusk（本人回复帖）",
+  "source_url": "https://x.com/elonmusk/status/2124466805263470612",
+  "published_at": "2026-11-22T19:35:31+08:00",
+  "collected_at": "2026-11-23T09:02:05+08:00",
+  "engagement": {
+    "likes": 12249,
+    "reposts": 1014,
+    "replies": 383,
+    "views": 445350
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "都是马斯克本人的说法和预期，没有产品或时间表佐证",
+    "“AI5 给 Optimus、汽车留在 AI4”是回复里的一句话，特斯拉没发正式公告",
+    "本条没有图片或视频，剪辑时需要自配画面（须标注来源）"
+  ],
+  "credit": "来源：X @elonmusk",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": []
+}

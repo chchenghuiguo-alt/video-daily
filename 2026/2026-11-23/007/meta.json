@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-23",
+  "title": "上海酒店里的“夜班”机器人：大晓机器人（ACE Robotics）轮式人形机器人收衣、洗衣、烘干、送回客房",
+  "summary": "X 用户 @LesyaHendrix 11 月 21 日 00:54（UTC+8）发约 3 分 58 秒横屏视频（点赞约 590、浏览约 5.7 万，此后多国账号转发）：上海一家酒店里，ACE Robotics 的轮式人形机器人从客房收衣篮、开洗衣机和烘干机、送回干净衣物，还送水。据新民晚报、上观新闻（11 月 20 日）和 Interesting Engineering（11 月 13 日）：这是上海徐汇企业大晓机器人的“双脑协同”方案首次落地酒店洗衣，Mundo 世界模型先把酒店照片做成可物理交互的数字孪生来训练；云端模型首次摸索一个新操作用了 30 多分钟，固化成技能后一轮约 18.6 秒；烘干机取衣技能在约 57 小时里做了 165 轮真机实验，牛仔裤留在筒里的比例从平均 48% 降到 32%。",
+  "category": "商业落地/服务机器人",
+  "company": "大晓机器人 ACE Robotics",
+  "source": "X：@LesyaHendrix（个人号，非官方）；网页：新民晚报/上观新闻（新浪财经转载，11-20）、Interesting Engineering（11-13）、TechRepublic（11-16）",
+  "source_url": "https://x.com/LesyaHendrix/status/2123822412257005784",
+  "published_at": "2026-11-21T00:54:56+08:00",
+  "collected_at": "2026-11-23T09:02:05+08:00",
+  "engagement": {
+    "likes": 587,
+    "reposts": 76,
+    "replies": 22,
+    "views": 57108
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "旧闻：11 月 13 日已有报道，这几天在 X 上被大量转发；前几天没收过",
+    "全部数字是厂商自述，TechRepublic 指出没有独立测试；18.6 秒是单个已固化操作，不是整套洗衣流程",
+    "视频是否经过剪辑、是否全程自主没有说明",
+    "视频原始发布者不明，按“来源网络”处理"
+  ],
+  "credit": "来源：X @LesyaHendrix",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 237.7,
+      "transcoded": true,
+      "bytes": 32695788,
+      "sha256": "2b2ca72abc988519b1c1f60e1440a3eda93c0d31d3c02fe57d906653a1b08bbd",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 70101,
+      "sha256": "2a270e40a848bcbd9506560fa30a744240b507d6b93d04a237eb73ddfe0590e7",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}
