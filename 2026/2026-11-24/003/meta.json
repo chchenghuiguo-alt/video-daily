@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-24",
+  "title": "自变量机器人发布 WALL-OSS-1.0 具身基础模型：称 312 项真实任务零样本成功率 55.1%，权重即将开源",
+  "summary": "自变量机器人（X Square Robot，@XSquareRobot）11 月 23 日 15:30（UTC+8）发布约 5 分 27 秒的发布视频，推出原生视觉-语言-动作（VLA）预训练的基础模型 WALL-OSS-1.0，称在 312 项真实机器人任务上零样本成功率 55.1%，不需要针对任务的演示或微调；配套的 XR Harness 能把“收拾桌子”这类高层指令拆成多步动作，并开放 WALL-API-1.0。人形机器人资讯号 @TheHumanoidHub 11 月 24 日 01:04 转发并剪成约 55 秒版本，补充：在 ManipArena 基准 15 项任务中 14 项领先或并列第一；基于它的分拣策略换到新场地后保持 90% 以上的速度和成功率；代码和权重“即将开源”。画面含机械臂抓取、VR 遥操作采数据、模型结构图和零样本任务演示。",
+  "category": "具身大模型/开源",
+  "company": "自变量机器人 X Square Robot",
+  "source": "X：@XSquareRobot（官方，第一手）；@TheHumanoidHub 剪辑版；GlobeNewswire 新闻稿（经 @NN_Automation 提及）",
+  "source_url": "https://x.com/TheHumanoidHub/status/2124911951470002672",
+  "published_at": "2026-11-24T01:04:22+08:00",
+  "collected_at": "2026-11-24T08:57:46+08:00",
+  "engagement": {
+    "likes": 46,
+    "reposts": 4,
+    "replies": 6,
+    "views": 7910
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "55.1%、14/15、90% 等数字都是公司自测，没有第三方复现",
+    "“权重即将开源”尚未兑现",
+    "发布后 X 上出现大量低粉账号用相似句式刷 WALL-OSS/WALL-API 话题，疑似有组织推广，热度不代表自然讨论",
+    "素材用的是 @TheHumanoidHub 的 55 秒剪辑版，官方完整版 5 分 27 秒见原帖 https://x.com/XSquareRobot/status/2124767551959757162"
+  ],
+  "credit": "来源：X @TheHumanoidHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 54.93,
+      "transcoded": true,
+      "bytes": 6520713,
+      "sha256": "df513fefce47c64ffb32f6197bfcf1a3a2af285118509cbf00d08061bf477839",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 87889,
+      "sha256": "65092077f8eec863654ed56b13e4454fcee3d2b484e94f95c2afc4cbcb12f284",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

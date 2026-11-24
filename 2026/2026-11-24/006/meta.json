@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-24",
+  "title": "真假难辨的仿生人脸：云幕智造办公室里一排高仿真人形机器人头部",
+  "summary": "机器人资讯号 @VokabreRobotics 11 月 23 日 08:37（UTC+8）转发约 17 秒竖屏视频，称是“云幕智造”（Yunmu）办公室片段，出处为小红书账号“具身智能局”。画面里有多个仿真人脸的机器人头部/半身：粉色长发的头模、穿黑色西装的女性形象，镜头靠近可看到面部皮肤、头发和眼神细节，背景是摆着人形机器人骨架的办公室。原帖约 2 万浏览、250 赞、106 收藏。",
+  "category": "仿生人形机器人",
+  "company": "云幕智造（Yunmu）",
+  "source": "X：@VokabreRobotics（搬运号）；原始出处：小红书“具身智能局”",
+  "source_url": "https://x.com/VokabreRobotics/status/2124663549364773081",
+  "published_at": "2026-11-23T08:37:19+08:00",
+  "collected_at": "2026-11-24T08:57:46+08:00",
+  "engagement": {
+    "likes": 250,
+    "reposts": 12,
+    "replies": 1,
+    "views": 19760
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "搬运视频，公司身份、拍摄地点和时间只来自转发者说明，未找到云幕智造官方发布",
+    "画面中头部能否自主做表情、是否只是静态头模，视频看不出，口播不要说“会动的表情”",
+    "不排除部分镜头是真人对照，口播用“据称是机器人”的措辞"
+  ],
+  "credit": "来源：X @VokabreRobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 16.86,
+      "transcoded": true,
+      "bytes": 3280102,
+      "sha256": "835136e53a4d08c61a627a68c204493897ad910d69b342d46e1435dbfe3556f4",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 69322,
+      "sha256": "4a79837dd7524d890d7f3dae7e271d07c175f15a419ef6ce26aa69489753cdf7",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

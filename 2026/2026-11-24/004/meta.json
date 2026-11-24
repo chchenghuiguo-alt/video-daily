@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-24",
+  "title": "成立 16 个月估值 16 亿美元：蚂蚁集团领投 Simplexity Robotics 1 亿美元，新款轮式人形 iX 发布",
+  "summary": "彭博社 11 月 23 日报道：中国具身智能创业公司 Simplexity Robotics 完成 1 亿美元 Pre-A 轮融资，蚂蚁集团领投，估值 16 亿美元，腾讯、HSG、蓝驰创投等老股东跟投，消息来自董事长兼联合创始人王凯接受彭博采访。公司 2025 年夏天由三位前理想汽车高管王凯、贾鹏、王佳佳创立；周一发布第二款人形机器人 iX，是轮式底盘，可做饮品、取送物品、带领参观。早期客户包括韩国 Rlwrld、清华大学和叉车厂杭叉集团，双方已上线仓库分拣线。X 号 @clankrmedia 11 月 23 日 19:32（UTC+8）发了约 22 秒视频：带“HANGCHA”标识的仓库里，轮式双臂机器人从货箱里分拣零食。",
+  "category": "融资/人形机器人",
+  "company": "Simplexity Robotics、蚂蚁集团、杭叉集团",
+  "source": "X：@clankrmedia（媒体号，转述彭博）、@Humanoid_News；网页：Bloomberg（2026-11-23）、TechNode、Business Standard 转载",
+  "source_url": "https://x.com/clankrmedia/status/2124828351537823942",
+  "published_at": "2026-11-23T19:32:11+08:00",
+  "collected_at": "2026-11-24T08:57:46+08:00",
+  "engagement": {
+    "likes": 5,
+    "reposts": 0,
+    "replies": 0,
+    "views": 621
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "融资数据来自董事长对彭博的口述，公司未见正式公告",
+    "视频原始出处不明，画面里是不是 iX、是不是杭叉分拣线，帖子没说明，口播写“据称”",
+    "@clankrmedia 帖子说阿里也参投，彭博原文列的是腾讯、HSG、蓝驰，按彭博口径",
+    "公司中文名未查到可靠出处，口播用英文名"
+  ],
+  "credit": "来源：X @clankrmedia",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1024,
+      "h": 576,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 22.06,
+      "transcoded": true,
+      "bytes": 3247345,
+      "sha256": "4710349d8797416a197daeefdbee82a0dcdf3065cabbb1f6f17fd9a9c5adf4a3",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1024,
+      "h": 576,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 101240,
+      "sha256": "7166639cb18de2b1cde8b612156fb39d9160c75d6f5c53e1e25d0e2dc46ae17d",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

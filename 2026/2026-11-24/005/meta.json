@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-24",
+  "title": "波士顿动力 Stretch 赶上零售旺季：卸货机器人接手拆箱卸柜这类重复体力活",
+  "summary": "波士顿动力官方（@BostonDynamics）11 月 23 日 23:53（UTC+8）发布约 26 秒横屏视频，配文：零售商进入购物旺季，Stretch 帮助减轻仓库员工负担，把重复、吃力的卸货工作自动化。画面是物流仓库里 Stretch 从货柜卸箱子放上传送带，以及一位客户方负责人出镜受访。",
+  "category": "物流机器人",
+  "company": "波士顿动力 Boston Dynamics",
+  "source": "X：@BostonDynamics（官方，第一手）",
+  "source_url": "https://x.com/BostonDynamics/status/2124894065867067730",
+  "published_at": "2026-11-23T23:53:18+08:00",
+  "collected_at": "2026-11-24T08:57:46+08:00",
+  "engagement": {
+    "likes": 133,
+    "reposts": 15,
+    "replies": 15,
+    "views": 8583
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方宣传片，帖子没给效率数字或客户名称",
+    "受访者身份以视频字幕为准，未另行核实"
+  ],
+  "credit": "来源：X @BostonDynamics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 25.71,
+      "transcoded": true,
+      "bytes": 4120922,
+      "sha256": "1cf62413293e1acd8c4b8101682fa8e2bf442a8e1460aa20c82d7a6da942973b",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 138181,
+      "sha256": "a79a4a371b4efb148b2370d52f32694d89436c05c0ecccfcc96d580d33e030b0",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

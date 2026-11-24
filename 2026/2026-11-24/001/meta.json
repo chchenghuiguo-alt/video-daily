@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-24",
+  "title": "回应马斯克“挪开桌子就拿不到苹果”：Figure 发视频称 Helix 零样本、全自主，桌子被挪走后照样拿起苹果",
+  "summary": "Figure 创始人 Brett Adcock（@adcock_brett）11 月 24 日 04:27（UTC+8）发布约 42 秒竖屏视频，引用马斯克的原话“如果你让它去拿苹果，然后把桌子挪开，它就拿不到了”，配文称这是 Figure 机器人运行 Helix 模型，零样本（zero shot）、全自主完成。画面在厨房环境：Figure 人形机器人从小桌上拿起苹果；随后有人把桌子推到别处、苹果放回桌上，机器人走过去再次拿起苹果。被引用的是 @muskonomy 11 月 19 日的帖子：马斯克在 TomorrowX 峰会上说一两个月内会展示“不摆拍、不预编程”的 Optimus 演示，并称其他人形机器人演示都是摆拍和预编程的。该帖 13.6 万浏览、近 1500 赞。",
+  "category": "人形机器人/公司交锋",
+  "company": "Figure AI",
+  "source": "X：@adcock_brett（Figure 创始人兼 CEO，第一手）；引用 @muskonomy 转述马斯克 TomorrowX 峰会发言（11-19）",
+  "source_url": "https://x.com/adcock_brett/status/2124963178916524276",
+  "published_at": "2026-11-24T04:27:56+08:00",
+  "collected_at": "2026-11-24T08:57:46+08:00",
+  "engagement": {
+    "likes": 1499,
+    "reposts": 128,
+    "replies": 176,
+    "views": 135791
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“零样本、全自主”是 Figure 创始人自述，没有第三方核实，视频是否剪辑或有遥操作无法从画面判断",
+    "视频拍摄时间、机器人型号帖子没写，口播不要说具体型号",
+    "马斯克的原话来自 11-19 转述帖（前几天已收过马斯克发言），这里只作背景"
+  ],
+  "credit": "来源：X @adcock_brett",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 41.59,
+      "transcoded": true,
+      "bytes": 5781521,
+      "sha256": "a794942ee2b334119d179b9fbd334274458d6a07a60eb6eb3dcbd10bf9afdc9a",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 36453,
+      "sha256": "3db5cbe085f024e98379ad395d6b5fc5008160b5421575b09c81bd6e2c2ca4cc",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

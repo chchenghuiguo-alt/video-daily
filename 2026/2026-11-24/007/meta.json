@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-24",
+  "title": "新华社镜头：智元 A3 Ultra 人形机器人上高台、爬楼梯、钻窄缝，被绳子拽也能稳住",
+  "summary": "世界互联网大会账号（@wicinternet）11 月 23 日 19:13（UTC+8）发布约 37 秒竖屏视频，标注视频来源新华社：上海一处测试场地里，智元机器人 AGIBOT A3 Ultra 人形机器人爬上木托盘高台、上楼梯、侧身钻过箱子间的窄缝、翻越障碍；还有人用红色绳子拉拽机器人，它调整动作后继续前进。字幕称它能实时调整动作，自主通过复杂地形。",
+  "category": "人形机器人/运动能力",
+  "company": "智元机器人 AGIBOT",
+  "source": "X：@wicinternet（世界互联网大会官方号），视频来源新华社",
+  "source_url": "https://x.com/wicinternet/status/2124823593234411993",
+  "published_at": "2026-11-23T19:13:16+08:00",
+  "collected_at": "2026-11-24T08:57:46+08:00",
+  "engagement": {
+    "likes": 2,
+    "reposts": 1,
+    "replies": 0,
+    "views": 215
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“自主通过”是字幕说法，是否有遥控辅助未说明",
+    "拍摄时间不明；A3 系列前几天已收过长隆乐园等内容，这条是新的运动能力画面"
+  ],
+  "credit": "来源：X @wicinternet",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 37.31,
+      "transcoded": true,
+      "bytes": 5229231,
+      "sha256": "cf15108b4091a53aa11f2725f3577b0cdc40d9bb9016513f3b0a963ca7ed57b7",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 118685,
+      "sha256": "e35dead963cb1b734e4c4c6685c1aa3dd7038f45807a18f04b6b71e549a88951",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

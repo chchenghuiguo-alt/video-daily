@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "回应马斯克“挪开桌子就拿不到苹果”：Figure 发视频称 Helix 零样本、全自主，桌子被挪走后照样拿起苹果",
+      "selected": null,
+      "bytes": 5817974,
+      "has_video": true,
+      "duration": 41.59
+    },
+    {
+      "id": "002",
+      "title": "Dreamer 作者创业：Embo 拿到 1.1 亿美元种子轮，a16z 领投、英伟达参投，要做机器人的“世界模型大脑”",
+      "selected": null,
+      "bytes": 13052014,
+      "has_video": true,
+      "duration": 82.94
+    },
+    {
+      "id": "003",
+      "title": "自变量机器人发布 WALL-OSS-1.0 具身基础模型：称 312 项真实任务零样本成功率 55.1%，权重即将开源",
+      "selected": null,
+      "bytes": 6608602,
+      "has_video": true,
+      "duration": 54.93
+    },
+    {
+      "id": "004",
+      "title": "成立 16 个月估值 16 亿美元：蚂蚁集团领投 Simplexity Robotics 1 亿美元，新款轮式人形 iX 发布",
+      "selected": null,
+      "bytes": 3348585,
+      "has_video": true,
+      "duration": 22.06
+    },
+    {
+      "id": "005",
+      "title": "波士顿动力 Stretch 赶上零售旺季：卸货机器人接手拆箱卸柜这类重复体力活",
+      "selected": null,
+      "bytes": 4259103,
+      "has_video": true,
+      "duration": 25.71
+    },
+    {
+      "id": "006",
+      "title": "真假难辨的仿生人脸：云幕智造办公室里一排高仿真人形机器人头部",
+      "selected": null,
+      "bytes": 3349424,
+      "has_video": true,
+      "duration": 16.86
+    },
+    {
+      "id": "007",
+      "title": "新华社镜头：智元 A3 Ultra 人形机器人上高台、爬楼梯、钻窄缝，被绳子拽也能稳住",
+      "selected": null,
+      "bytes": 5347916,
+      "has_video": true,
+      "duration": 37.31
+    }
+  ],
+  "order": [],
+  "total_bytes": 41783618,
+  "updated_at": "2026-11-24T08:57:46+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}
