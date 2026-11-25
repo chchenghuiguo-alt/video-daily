@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-25",
+  "title": "俄罗斯把人形机器人 TeleDroid 送上太空：进步 MS-36 货运飞船发射，机器人将协助宇航员舱外作业",
+  "summary": "俄罗斯官方媒体卫星通讯社（@SputnikInt）11 月 24 日 18:52（UTC+8）发布约 43 秒发射视频：进步 MS-36 货运飞船从拜科努尔发射前往国际空间站，主要货物是 TeleDroid 机器人系统，用于协助舱外（太空）作业。今日俄罗斯（@RT_Russia_）援引塔斯社称这是一台带 AI 的实验机器人，用来减少宇航员出舱的危险。资讯号 @Humanoid_News 称发射时间为莫斯科时间 13:17，飞船载有 2.4 吨以上货物；@BrianMcDonaldIE 称俄航天集团已确认飞船入轨。有转述称 TeleDroid 为双臂躯干式机器人、30 个自由度，可模仿操作员动作或自主完成部分任务。法国航天博主 @nicolas_pillet 发了 3 张 TeleDroid 地面测试照片：白色头部的双臂机器人，周围是穿洁净服的工作人员。",
+  "category": "太空机器人/人形机器人",
+  "company": "俄罗斯航天集团 Roscosmos",
+  "source": "X：@SputnikInt、@RT_Russia_（俄官方媒体，转述塔斯社）；@Humanoid_News、@BrianMcDonaldIE；照片 @nicolas_pillet",
+  "source_url": "https://x.com/SputnikInt/status/2125180752807764234",
+  "published_at": "2026-11-24T18:52:30+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 406,
+    "reposts": 61,
+    "replies": 8,
+    "views": 67575
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频只有火箭发射画面，没有机器人本体；机器人画面只有 3 张照片，照片原始出处 @nicolas_pillet 没注明",
+    "“30 个自由度”“可自主完成部分任务”来自个人账号转述，未找到俄航天集团原文",
+    "来源以俄罗斯官方媒体为主，“AI”“降低出舱风险”属官方说法",
+    "对接空间站时间有说法为周四（11-26 或 11-27），未核实"
+  ],
+  "credit": "来源：X @SputnikInt",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 43.28,
+      "transcoded": true,
+      "bytes": 5028782,
+      "sha256": "39e7e65314124f4d08d7f6698b1563a49b3f9c39de9add5feacef5f413f5e683",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 38357,
+      "sha256": "e26c203f8f5f6023af7d59e9549d85c326d828d842931422da3029d0badfb367",
+      "orig_name": "002_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1611,
+      "h": 792,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 182667,
+      "sha256": "a6ff8d696a04e2fb77d5f2b67d3fbf3e68573a12d2c33eabc992000c1ad78858",
+      "orig_name": "002_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 854,
+      "h": 636,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 114406,
+      "sha256": "3f5b823dbcac6bce29c42cae8f7cd8a5fde04d19eee7f01cf82ae8cb5bd730b6",
+      "orig_name": "002_3.jpg"
+    },
+    {
+      "file": "images/04.jpg",
+      "type": "image",
+      "w": 1328,
+      "h": 752,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 193693,
+      "sha256": "eca782440272c8f9773f6604a323eae43987b3db33c2e531ef60c586d311a0b8",
+      "orig_name": "002_4.jpg"
+    }
+  ]
+}

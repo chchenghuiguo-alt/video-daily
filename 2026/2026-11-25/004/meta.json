@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-25",
+  "title": "Ultra Robotics 一代机：3 台机器人 12 个月打包约 25 万单",
+  "summary": "机器人博主 Ilir Aliu（@IlirAliu_）11 月 24 日 17:01（UTC+8）发布约 41 秒竖屏视频：Ultra Robotics（@Ultraroboticsco）CTO Oliver Ortlieb 在布鲁克林实验室展示公司在做 Operator 之前投入生产的一代机（Gen 1）。帖子和视频字幕称：共 3 台，一台在纽约、一台在芝加哥、第三台后来搬到得州，12 个月里一共打包约 25 万个订单，现场经验被吸收进了新一代设计。画面为固定立柱上的双机械臂和 CTO 出镜讲解。",
+  "category": "物流/仓储机器人",
+  "company": "Ultra Robotics",
+  "source": "X：@IlirAliu_（博主采访，第一手视频）",
+  "source_url": "https://x.com/IlirAliu_/status/2125152700463554707",
+  "published_at": "2026-11-24T17:01:01+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 19,
+    "reposts": 3,
+    "replies": 5,
+    "views": 1812
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“25 万单”是公司 CTO 口述，没有第三方数据",
+    "视频没有一代机实际打包作业的画面，只有静态展示和讲解",
+    "竖屏视频是横屏画面上下加模糊背景，剪辑时可裁切"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 41.24,
+      "transcoded": true,
+      "bytes": 3143378,
+      "sha256": "d6d2f3cfbd2523a7472281ba63be423bd7bc69eda56c9c06acebbc79df24f093",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 33063,
+      "sha256": "9d1ce92e166ba05549a76bb20606630901c31f543956ad7086e00cbe1e932d4a",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

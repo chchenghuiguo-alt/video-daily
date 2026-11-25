@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-25",
+  "title": "Persona AI 预告人形机器人新手：主攻造船厂焊接等重活的工业人形",
+  "summary": "机器人博主 Lukas Ziegler（@lukas_m_ziegler）11 月 25 日 01:14（UTC+8）发布约 54 秒视频，称 Persona AI（@personaaiinc）刚预告了其人形机器人的新手部。帖子介绍：Persona AI 做专用工业人形机器人，首先瞄准造船厂里的焊接等艰苦工作，由 Nicolaus Radford 和 Jerry Pratt 领导。画面是工厂/化工管廊环境中的人形机器人行走、挥手、展示双手，结尾字幕“HUMANOIDS AT WORK”。",
+  "category": "人形机器人/灵巧手",
+  "company": "Persona AI",
+  "source": "X：@lukas_m_ziegler（博主转发）；公司账号 @personaaiinc",
+  "source_url": "https://x.com/lukas_m_ziegler/status/2125276973916422651",
+  "published_at": "2026-11-25T01:14:50+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 127,
+    "reposts": 21,
+    "replies": 7,
+    "views": 6029
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "没查到 @personaaiinc 当天的原帖，视频经博主转发，具体是否为官方新手部发布以公司公告为准",
+    "新手部的参数（自由度、负载等）帖子没写",
+    "画面里机器人是否在实际执行焊接任务看不出，口播只说“展示”"
+  ],
+  "credit": "来源：X @lukas_m_ziegler",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 54.22,
+      "transcoded": true,
+      "bytes": 12836182,
+      "sha256": "8d50eaa979d881de1cb2ebd9ad0c7660e33abfda59aead49b1bdbe8a3c500e6e",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 64518,
+      "sha256": "cc39ef5af7f01dbedc90f3ae033727d30bf5af3c08d8d59e83ee7cf0b5b53f78",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

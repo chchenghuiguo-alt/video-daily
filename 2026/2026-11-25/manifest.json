@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "小鹏 IRON 拍了支“实景短片”：调酒、翻书、自己插枪充电，今天 14:00 AI Day 正式亮相",
+      "selected": null,
+      "bytes": 3390391,
+      "has_video": true,
+      "duration": 36.2
+    },
+    {
+      "id": "002",
+      "title": "俄罗斯把人形机器人 TeleDroid 送上太空：进步 MS-36 货运飞船发射，机器人将协助宇航员舱外作业",
+      "selected": null,
+      "bytes": 5557905,
+      "has_video": true,
+      "duration": 43.28
+    },
+    {
+      "id": "003",
+      "title": "Persona AI 预告人形机器人新手：主攻造船厂焊接等重活的工业人形",
+      "selected": null,
+      "bytes": 12900700,
+      "has_video": true,
+      "duration": 54.22
+    },
+    {
+      "id": "004",
+      "title": "Ultra Robotics 一代机：3 台机器人 12 个月打包约 25 万单",
+      "selected": null,
+      "bytes": 3176441,
+      "has_video": true,
+      "duration": 41.24
+    },
+    {
+      "id": "005",
+      "title": "波士顿动力招聘片：“看着你造的机器人站起来走路”，4K 车间与 Atlas 画面",
+      "selected": null,
+      "bytes": 14750818,
+      "has_video": true,
+      "duration": 79.17
+    },
+    {
+      "id": "006",
+      "title": "Motion Mamba 2.0：用文字指令连续控制人形机器人近 40 秒，已在宇树 G1 上跑通",
+      "selected": null,
+      "bytes": 6150923,
+      "has_video": true,
+      "duration": 98.05
+    },
+    {
+      "id": "007",
+      "title": "日本人形机器人公司 ATOM 拿到三大银行共 45 亿日元融资额度，建自有 GPU 集群、备战量产",
+      "selected": null,
+      "bytes": 0,
+      "has_video": false,
+      "duration": null
+    }
+  ],
+  "order": [],
+  "total_bytes": 45927178,
+  "updated_at": "2026-11-25T08:50:46+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

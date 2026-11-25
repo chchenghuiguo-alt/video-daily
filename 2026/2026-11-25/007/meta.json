@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-25",
+  "title": "日本人形机器人公司 ATOM 拿到三大银行共 45 亿日元融资额度，建自有 GPU 集群、备战量产",
+  "summary": "日本人形机器人创业公司 ATOM（アトム）11 月 24 日宣布，与日本三家大型银行签订总额 45 亿日元（约 2830 万美元）的融资额度协议，用于建设自有 GPU 集群、为人形机器人量产做准备，其中三井住友银行提供 20 亿日元（据 @Humanoid_News、@ApollonVisual）。ATOM 方面人士 @xecus（taguromaru | アトム）发帖称：人形机器人量产和 AI 研发都需要先期投入，会通过做好产品稳步发展业务。日本博主 @KoseiHasegawa 称公司目标 2027 年实现每年交付 200 台。",
+  "category": "融资/人形机器人",
+  "company": "ATOM（日本）",
+  "source": "X：@xecus（ATOM 方面）、@Humanoid_News、@KoseiHasegawa、@ApollonVisual",
+  "source_url": "https://x.com/xecus/status/2125099360405106761",
+  "published_at": "2026-11-24T13:29:04+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 35,
+    "reposts": 1,
+    "replies": 0,
+    "views": 1479
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "纯文字新闻，没有视频或图片素材，剪辑时需要配字卡",
+    "另外两家银行名称和各自额度原帖被截断，未核实",
+    "“2027 年年交付 200 台”来自博主转述，未见公司原文",
+    "@xecus 的具体职务未核实"
+  ],
+  "credit": "来源：X @xecus",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": []
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-25",
+  "title": "小鹏 IRON 拍了支“实景短片”：调酒、翻书、自己插枪充电，今天 14:00 AI Day 正式亮相",
+  "summary": "小鹏汽车官方（@XPENG_Global）11 月 24 日 22:30（UTC+8）发布约 36 秒短片，配文“A live-action film by IRON”，称人形机器人是“最适应真实人类世界的智能体”，并预告小鹏 AI Day「ORIGIN」11 月 25 日 14:00（UTC+8）举行，届时介绍通用人形机器人 IRON。画面：IRON 在吧台摇酒、倒酒，翻开一本书，最后拿起充电枪插进自己腰部充电，穿插字幕“A good drink, a good night's sleep. See you at XPENG AI Day!”“Before we say hello, it's time to recharge and glow!”。帖子约 90 万浏览、800 赞。",
+  "category": "人形机器人/发布会预告",
+  "company": "小鹏 XPENG",
+  "source": "X：@XPENG_Global（官方，第一手）",
+  "source_url": "https://x.com/XPENG_Global/status/2125235707186753587",
+  "published_at": "2026-11-24T22:30:52+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 801,
+    "reposts": 58,
+    "replies": 21,
+    "views": 904704
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方宣传短片，是否为自主完成、有无剪辑或遥操作，帖子没说明；有转发号称“无遥控、无预设脚本”，官方原帖没这么写，口播不要用",
+    "11-20 已收过 AI Day 预告和 2027 年 Q2 交付计划，这条是新短片；AI Day 今天下午才开，发布内容以会后官方信息为准"
+  ],
+  "credit": "来源：X @XPENG_Global",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 36.2,
+      "transcoded": true,
+      "bytes": 3343434,
+      "sha256": "49bee0598ad193532c3314bcc97e0597f2a8f6c23f114ac62c1a674327901c1e",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 46957,
+      "sha256": "c8c4a00960921c0c41d191e9e2085470f7d17bd8a23c82ebec48d25c7840f0d6",
+      "orig_name": "001_1_thumb.jpg"
+    }
+  ]
+}

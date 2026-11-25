@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-25",
+  "title": "Motion Mamba 2.0：用文字指令连续控制人形机器人近 40 秒，已在宇树 G1 上跑通",
+  "summary": "论文资讯号 @HuggingPapers 11 月 24 日 16:09（UTC+8）发布约 98 秒演示视频，介绍 Motion Mamba 2.0：把自回归扩散和 Mamba 结构用于长时程人形机器人控制，可以按文字指令生成、并可交互调整的动作，最长 39.52 秒；在 RTX 4090 上整窗延迟降低 6.1 倍；能在真实的宇树 G1 上运行。画面：仿真 G1 按“走—停—再走”等变化的指令连续动作，真机 G1 与仿真同步行走、转身。",
+  "category": "具身智能研究",
+  "company": "（高校研究团队）",
+  "source": "X：@HuggingPapers（论文转述）",
+  "source_url": "https://x.com/HuggingPapers/status/2125139661450313757",
+  "published_at": "2026-11-24T16:09:13+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 111,
+    "reposts": 11,
+    "replies": 2,
+    "views": 5880
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "39.52 秒、6.1 倍等数字来自论文自述，未经复现",
+    "作者所属高校视频片尾有列出，口播如要提学校请对照片尾核对"
+  ],
+  "credit": "来源：X @HuggingPapers",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 98.05,
+      "transcoded": true,
+      "bytes": 6136463,
+      "sha256": "718660a8fdeaaca40481117394c1bfae6a47ca11d3b2cea9a0d6a5438755f290",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 14460,
+      "sha256": "14754b02ade396a5c441789c9968c42aa0d8d96ef03ec1f38af4408d53aedeec",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

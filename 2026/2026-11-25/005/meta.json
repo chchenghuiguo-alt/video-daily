@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-25",
+  "title": "波士顿动力招聘片：“看着你造的机器人站起来走路”，4K 车间与 Atlas 画面",
+  "summary": "波士顿动力官方（@BostonDynamics）11 月 25 日 02:21（UTC+8）发布约 79 秒 4K 横屏招聘视频，配文：“还有什么感觉比看着你造的机器人站起来走路更好？加入我们吧”，附招聘页链接。画面是公司车间：工程师装配关节和执行器、调试 Atlas 人形机器人、Atlas 在车间里走动，也有 Spot 等四足机器人画面。",
+  "category": "人形机器人/公司动态",
+  "company": "波士顿动力 Boston Dynamics",
+  "source": "X：@BostonDynamics（官方，第一手）",
+  "source_url": "https://x.com/BostonDynamics/status/2125293843851481332",
+  "published_at": "2026-11-25T02:21:53+08:00",
+  "collected_at": "2026-11-25T08:50:46+08:00",
+  "engagement": {
+    "likes": 260,
+    "reposts": 34,
+    "replies": 13,
+    "views": 11654
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "招聘宣传片，不是新产品或新进展发布，适合作为画面素材"
+  ],
+  "credit": "来源：X @BostonDynamics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 23.98,
+      "has_audio": true,
+      "duration": 79.17,
+      "transcoded": true,
+      "bytes": 14637921,
+      "sha256": "fd15ba8363aaf9a2369abdc80d877f9dc147f1909247cf96f4dd7ac156a7975f",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 112897,
+      "sha256": "8e57009594815dde46496499aa4413306878a8564410c31905221fa0274713fe",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}
