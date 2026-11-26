@@ -1,0 +1,99 @@
+{
+  "schema_version": 2,
+  "id": "001",
+  "date": "2026-11-26",
+  "title": "小鹏 IRON 在 AI Day 登台首秀：第一次演讲、7 台 IRON 中英双语答问，脸换成了会动的“眼睛”",
+  "summary": "小鹏汽车官方（@XPENG_Global）11 月 25 日 23:40（UTC+8）发帖称：在 2026 小鹏 AI Day 上，IRON 登台完成首次演讲，并与 2000 名来宾互动；7 台 IRON 进行了流畅的中英双语问答，并称这是“舞台上的一小步，物理 AI 的一大步”，配 4 张现场照片。人形机器人媒体 @humanoidsdaily 在广州现场拍摄约 15 秒竖屏视频，称量产意向版 IRON 有一个明显的交互更新：把之前抽象的面罩动画换成了富有表情的动画眼睛，视频展示了它的不同表情。",
+  "category": "人形机器人/发布会",
+  "company": "小鹏 XPENG",
+  "source": "X：@XPENG_Global（官方，第一手）；现场视频 @humanoidsdaily",
+  "source_url": "https://x.com/XPENG_Global/status/2125615525136937435",
+  "published_at": "2026-11-25T23:40:07+08:00",
+  "collected_at": "2026-11-26T08:57:11+08:00",
+  "engagement": {
+    "likes": 278,
+    "reposts": 26,
+    "replies": 8,
+    "views": 135832
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "量产时间说法不一：@AIHourlyCN 称何小鹏表示 IRON 2027 年 1 月硬件量产、二季度正式发布（并称身高 170cm、体重 62kg、76 个自由度、手部 21 个关节）；法国 BFM 科技频道（@bfmtech_）标题称小鹏“推迟”IRON 量产。均未找到小鹏官方原文，口播只说“官方称 IRON 已进入量产验证”或标“据报道”",
+    "有转发号称演讲“全程无遥控”，小鹏官方帖没这么写，口播不要用",
+    "11-20、11-25 已收过 AI Day 预告和实景短片，这条是发布会当天新内容"
+  ],
+  "credit": "来源：X @XPENG_Global",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 662,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 14.83,
+      "transcoded": true,
+      "bytes": 1648911,
+      "sha256": "9d55b13d098008530f5925ff4ddac183ef1316b111ad3ff5e85c68126152e36b",
+      "orig_name": "001_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 735,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 54222,
+      "sha256": "05a3d3a50e11fac36f8065f65052ff96e8bf7a17461a9ef338a135a2b23c4a1d",
+      "orig_name": "001_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1440,
+      "h": 960,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 66051,
+      "sha256": "79450fc156c19a360b024b577d18bfa0af63124859e1e24009971096ed4bf27c",
+      "orig_name": "001_2.jpg"
+    },
+    {
+      "file": "images/03.jpg",
+      "type": "image",
+      "w": 1440,
+      "h": 960,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 89992,
+      "sha256": "87d3710bb5f069fcd9e1a4a36b43009fe87bb104bcff189d24a492f758c2e0b4",
+      "orig_name": "001_3.jpg"
+    },
+    {
+      "file": "images/04.jpg",
+      "type": "image",
+      "w": 1440,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 493877,
+      "sha256": "7be7cadf3cd3c562d73eca2cfaf78a9975c3542faaabbb2ed5043e269de9c52d",
+      "orig_name": "001_4.jpg"
+    },
+    {
+      "file": "images/05.jpg",
+      "type": "image",
+      "w": 1440,
+      "h": 960,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 362716,
+      "sha256": "dcb5c405f788226e333e548e40adf36d90df22564996cc1d8edec72b031200e0",
+      "orig_name": "001_5.jpg"
+    }
+  ]
+}

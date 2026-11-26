@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "小鹏 IRON 在 AI Day 登台首秀：第一次演讲、7 台 IRON 中英双语答问，脸换成了会动的“眼睛”",
+      "selected": null,
+      "bytes": 2715769,
+      "has_video": true,
+      "duration": 14.83
+    },
+    {
+      "id": "002",
+      "title": "小鹏官方发布 IRON 一周年纪录片：从被质疑到被认可，从实验室到量产验证",
+      "selected": null,
+      "bytes": 14598540,
+      "has_video": true,
+      "duration": 109.61
+    },
+    {
+      "id": "003",
+      "title": "OpenMind 把人形机器人 Iris 接上“活的人类神经元”，NBC 新闻专题报道",
+      "selected": null,
+      "bytes": 31117733,
+      "has_video": true,
+      "duration": 232.34
+    },
+    {
+      "id": "004",
+      "title": "Artificial Analysis 发布 AA-Robotics-Sim：让 GPT、Claude 等大模型直接操控宇树 G1（仿真）",
+      "selected": null,
+      "bytes": 4238232,
+      "has_video": true,
+      "duration": 15.98
+    },
+    {
+      "id": "005",
+      "title": "Agility 谈“协作安全”：工人突然走进人形机器人路线，机器人该怎么办？",
+      "selected": null,
+      "bytes": 2519483,
+      "has_video": true,
+      "duration": 12.76
+    },
+    {
+      "id": "006",
+      "title": "不是人形机器人也很酷：深昊机器人 RailScan 夜间沿铁轨巡检，找轨道缺陷",
+      "selected": null,
+      "bytes": 9772128,
+      "has_video": true,
+      "duration": 60.27
+    },
+    {
+      "id": "007",
+      "title": "徐工在 bauma CHINA 2026 展示具身智能工程机械车队：无人挖掘、自动装运",
+      "selected": null,
+      "bytes": 19708531,
+      "has_video": true,
+      "duration": 45.25
+    }
+  ],
+  "order": [],
+  "total_bytes": 84670416,
+  "updated_at": "2026-11-26T08:57:11+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

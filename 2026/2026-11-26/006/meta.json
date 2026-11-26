@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-26",
+  "title": "不是人形机器人也很酷：深昊机器人 RailScan 夜间沿铁轨巡检，找轨道缺陷",
+  "summary": "机器人博主 Ilir Aliu（@IlirAliu_）11 月 26 日 01:03（UTC+8）发布约 60 秒视频：“大家都在聊人形机器人，而这台机器人在夜里检查铁轨。”深昊机器人（@ShenhaoRobotics）的 RailScan 沿铁轨行驶，用高精度传感器模块读取轨道数据、寻找缺陷，用来帮助养护人员做夜间巡检。",
+  "category": "特种/巡检机器人",
+  "company": "深昊机器人 Shenhao Robotics",
+  "source": "X：@IlirAliu_（博主转发）；公司账号 @ShenhaoRobotics",
+  "source_url": "https://x.com/IlirAliu_/status/2125636538469908841",
+  "published_at": "2026-11-26T01:03:37+08:00",
+  "collected_at": "2026-11-26T08:57:11+08:00",
+  "engagement": {
+    "likes": 36,
+    "reposts": 4,
+    "replies": 7,
+    "views": 2198
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "视频原始出处应为深昊机器人，博主未写发布日期，可能不是新视频",
+    "检测精度、部署线路等参数帖子没写"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 60.27,
+      "transcoded": true,
+      "bytes": 9703354,
+      "sha256": "88603718cd9aa2479196ef62f70a418bb0b66d9328a9470f06fc72b48b91d1fd",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 68774,
+      "sha256": "022ecca72e8351c09379bddb292f576e1103ecca02407c7d6d77da2d867ce4ed",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

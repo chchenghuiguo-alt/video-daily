@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-26",
+  "title": "Agility 谈“协作安全”：工人突然走进人形机器人路线，机器人该怎么办？",
+  "summary": "Agility Robotics 官方（@agilityrobotics）11 月 26 日 03:58（UTC+8）发布约 13 秒 4K 视频，配文：“一名工人走进机器人的行进路线，人形机器人接下来该怎么做？”并附上 Pras Velagapudi 和 Kevin Reese 写的“通往协作安全之路”文章链接。",
+  "category": "人形机器人/安全",
+  "company": "Agility Robotics",
+  "source": "X：@agilityrobotics（官方，第一手）",
+  "source_url": "https://x.com/agilityrobotics/status/2125680483312783526",
+  "published_at": "2026-11-26T03:58:15+08:00",
+  "collected_at": "2026-11-26T08:57:11+08:00",
+  "engagement": {
+    "likes": 39,
+    "reposts": 7,
+    "replies": 11,
+    "views": 3006
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "文章具体内容（安全标准、认证进度等）没读到原文，口播只讲帖子问题本身",
+    "视频只有约 13 秒"
+  ],
+  "credit": "来源：X @agilityrobotics",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 24.0,
+      "has_audio": true,
+      "duration": 12.76,
+      "transcoded": true,
+      "bytes": 2446963,
+      "sha256": "cdfabf53ed74616a071595e8878353de6a617730c4245e45d732e4228bea53c6",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 72520,
+      "sha256": "6fdda5a162a23557471395638ed8631c4543d73c25b29a066fc0d185e1a6b7d1",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}

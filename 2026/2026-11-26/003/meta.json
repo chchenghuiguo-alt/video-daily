@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-26",
+  "title": "OpenMind 把人形机器人 Iris 接上“活的人类神经元”，NBC 新闻专题报道",
+  "summary": "机器人公司 OpenMind（@openmind_agi）11 月 26 日 02:51（UTC+8）发布约 3 分 52 秒视频，配文：活的人类神经元，连接到我们的人形机器人 Iris；OpenMind 的研究探索生物计算如何参与机器人行为，是“超越硅芯片的机器人技术”的早期一步，并感谢 NBC 新闻（@NBCNews、@PattersonNBC）报道。视频是 NBC 新闻节目片段，标题“活的人类神经元能帮机器人思考吗？”，画面有 Iris 机器人在实验室行走、记者采访、神经元示意动画，以及“vote → robot: cold”等神经元投票界面。加密资讯号 @BSCNews 转述称：Iris 把摄像头看到的画面通过互联网发给澳大利亚等地实验室里的神经元培养物。",
+  "category": "具身智能研究/生物计算",
+  "company": "OpenMind",
+  "source": "X：@openmind_agi（官方，第一手）；视频为 NBC 新闻报道片段；补充 @BSCNews",
+  "source_url": "https://x.com/openmind_agi/status/2125663634810691640",
+  "published_at": "2026-11-26T02:51:18+08:00",
+  "collected_at": "2026-11-26T08:57:11+08:00",
+  "engagement": {
+    "likes": 287,
+    "reposts": 51,
+    "replies": 9,
+    "views": 9132
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "神经元对机器人行为的实际作用有多大，帖子没给数据，口播用“探索”“早期研究”",
+    "“神经元培养物在澳大利亚等地实验室”来自 @BSCNews 转述（原帖被截断），未核对 NBC 原报道",
+    "视频是 NBC 新闻画面，有台标，使用需注明 NBC News；时长近 4 分钟，建议截取片段"
+  ],
+  "credit": "来源：X @openmind_agi",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 232.34,
+      "transcoded": true,
+      "bytes": 31094450,
+      "sha256": "720b2a35f6d4dfac49b1d7cb0210f69a526c97fa060e8e0a43332c593c4abacf",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 23283,
+      "sha256": "7e59ea72f48bb8849c709871680de365de719fe9b36124237aea813361b74ce4",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

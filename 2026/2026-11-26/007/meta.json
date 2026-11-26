@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-26",
+  "title": "徐工在 bauma CHINA 2026 展示具身智能工程机械车队：无人挖掘、自动装运",
+  "summary": "徐工集团官方（@XCMGGroup）11 月 26 日 01:24（UTC+8）发布约 45 秒视频：徐工具身智能车队在 bauma CHINA 2026 展会现场的演示，“看自主作业在展厅里展开”。画面有无人驾驶的装载机、挖掘机和自卸车协同作业，字幕包括“无人化动态施工 AUTONOMOUS EARTHWORK”“任务响应 TASK RESPONSE”“让协同走进工程现场 INTELLIGENCE IN ACTION”。",
+  "category": "工程机械/具身智能",
+  "company": "徐工 XCMG",
+  "source": "X：@XCMGGroup（官方，第一手）",
+  "source_url": "https://x.com/XCMGGroup/status/2125641665318936795",
+  "published_at": "2026-11-26T01:24:00+08:00",
+  "collected_at": "2026-11-26T08:57:11+08:00",
+  "engagement": {
+    "likes": 5,
+    "reposts": 1,
+    "replies": 0,
+    "views": 152
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "展会演示，现场是否有远程监控或安全员，视频看不出",
+    "帖子互动量很低（约 150 浏览），是官方宣传片"
+  ],
+  "credit": "来源：X @XCMGGroup",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 45.25,
+      "transcoded": true,
+      "bytes": 19566397,
+      "sha256": "78b4bc634f64b43f853cab0190043393f67cb8587e3f40d7d61238093f3e3597",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 142134,
+      "sha256": "16764324fb40fec3fcbb3e8cb6458513453c289db509e360f5073ff624e7e4f1",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-26",
+  "title": "小鹏官方发布 IRON 一周年纪录片：从被质疑到被认可，从实验室到量产验证",
+  "summary": "小鹏汽车官方（@XPENG_Global）11 月 25 日 18:09（UTC+8）发布约 110 秒横屏视频，配文“一支视频，XPENG IRON 的一年”，讲述这款通用人形机器人“从质疑到认可、从实验室到量产验证”的故事，称会“一步一步”走向物理 AI 的未来。帖子约 14.7 万浏览、600 余赞。",
+  "category": "人形机器人/公司动态",
+  "company": "小鹏 XPENG",
+  "source": "X：@XPENG_Global（官方，第一手）",
+  "source_url": "https://x.com/XPENG_Global/status/2125532403099697227",
+  "published_at": "2026-11-25T18:09:50+08:00",
+  "collected_at": "2026-11-26T08:57:11+08:00",
+  "engagement": {
+    "likes": 619,
+    "reposts": 53,
+    "replies": 20,
+    "views": 146559
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "官方宣传片，片中演示是否自主完成、有无剪辑，帖子没说明",
+    "“量产验证”是官方自述，具体量产时间见 001 的待核实"
+  ],
+  "credit": "来源：X @XPENG_Global",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 109.61,
+      "transcoded": true,
+      "bytes": 14545158,
+      "sha256": "4644966d942084021108d90291ed510f2e489756bbb8480073b5a4320337c285",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 53382,
+      "sha256": "5d05819156eca6671c8952be538d26b4b1e34544e9602dbb2c7a8ce8e963d5a1",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}
