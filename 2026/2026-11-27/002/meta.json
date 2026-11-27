@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-27",
+  "title": "俄罗斯 Sber 人形机器人 Yuni 上冰场，与奥运冠军谢尔巴科娃同台冰舞",
+  "summary": "@IlirAliu_ 11 月 27 日 01:15（UTC+8）发约 98 秒横屏视频称：Sber 机器人中心研发的人形机器人 Yuni 当天在莫斯科 AI Journey 大会上与奥运花滑冠军安娜·谢尔巴科娃（Anna Shcherbakova）在冰上共舞，并指出冰面几乎没有摩擦，是双足机器人最难的地面之一。爱尔兰记者 @BrianMcDonaldIE 等多个账号转述：Sber 称这是全球首场有人形机器人参加的冰上表演，机器人在冰上保持平衡并完成舞蹈动作。",
+  "category": "人形机器人/表演",
+  "company": "Sber（俄罗斯联邦储蓄银行）",
+  "source": "X：@IlirAliu_（启用的聚合账号）；同一视频多家转发，原始画面应来自 Sber/AI Journey 现场",
+  "source_url": "https://x.com/IlirAliu_/status/2126001967642144979",
+  "published_at": "2026-11-27T01:15:42+08:00",
+  "collected_at": "2026-11-27T08:54:26+08:00",
+  "engagement": {
+    "likes": 13,
+    "reposts": 2,
+    "replies": 5,
+    "views": 2700
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“全球首场人形机器人冰上表演”是 Sber 自述",
+    "机器人是自主还是遥控、是否穿了冰刀或专门的足部，帖子没说明",
+    "名字拼写各家不一（Yuni / Uni），口播可用“Sber 的人形机器人”"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 604,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 98.03,
+      "transcoded": true,
+      "bytes": 17218625,
+      "sha256": "55f3cecc5ee57d8966309b4e27f5883e6eae2dab79b5a3c5f3760ea9908eb1c9",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 672,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 63503,
+      "sha256": "cbe486670504107d28f94054a8ad76945bbc66fbc99216b3934f3771c31ef21d",
+      "orig_name": "002_1_thumb.jpg"
+    }
+  ]
+}

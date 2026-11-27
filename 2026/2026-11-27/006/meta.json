@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-27",
+  "title": "印度 CocoBot Gen-2：会爬椰子树摘椰子的机器人",
+  "summary": "@bamitav 11 月 26 日 08:44（UTC+8）发约 45 秒竖屏视频：印度初创公司 Altersage Innovations 开发的 CocoBot Gen-2 可以自己爬上椰子树、采摘椰子再安全回到地面；帖子称其平台已申请专利，设计上可适配槟榔、桃等其他作物。视频带 Altersage 水印。",
+  "category": "农业机器人",
+  "company": "Altersage Innovations",
+  "source": "X：@bamitav（个人号转发，视频带 Altersage 水印）",
+  "source_url": "https://x.com/bamitav/status/2125752437428666514",
+  "published_at": "2026-11-26T08:44:10+08:00",
+  "collected_at": "2026-11-27T08:54:26+08:00",
+  "engagement": {
+    "likes": 13,
+    "reposts": 5,
+    "replies": 6,
+    "views": 881
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“专利申请中”、可适配其他作物是帖子说法，未找到公司官方原文",
+    "发布时间/是否为新品首发不确定，可能是公司较早的宣传片"
+  ],
+  "credit": "来源：X @bamitav",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 44.56,
+      "transcoded": true,
+      "bytes": 19324159,
+      "sha256": "35f1669157b109fdbb8f5b5c3737afd2f60cc37008ed435efe7c1082a75ba1ee",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 186677,
+      "sha256": "4358089c5d97b825bf80e92cec3c7e800af7edfc7a7579830f6223cbb850566a",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

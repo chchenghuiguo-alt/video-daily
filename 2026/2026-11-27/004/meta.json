@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-27",
+  "title": "星动纪元 45 台人形机器人在中国邮政杭州处理中心上岗供包",
+  "summary": "多家账号 11 月 26 日报道：星动纪元（ROBOTERA）在中国邮政杭州邮区中心部署 45 台人形机器人，做包裹供包（把包裹放上分拣线）。@LLLMagentic 称优化后每台每小时处理超过 1500 件、比试点提升 25%，不用改造产线，可用电池或接电 24 小时运行；西语媒体 @DiarioBitcoin 则称星动纪元报告的是部分测试时段约 1200 件/小时峰值、准确率 90% 以上，并非全队持续平均值。中文搬运号 @maide89699220 发了约 15 秒竖屏现场视频（画面字幕：“45 台机器人一起进厂干活”“平均供件效率 1500 件/小时”“自研五指灵巧手柔性翻包”）。",
+  "category": "人形机器人/物流落地",
+  "company": "星动纪元 ROBOTERA",
+  "source": "X：@maide89699220（中文搬运号，视频）；@TechThought_org（图片）；文字 @LLLMagentic、@DiarioBitcoin",
+  "source_url": "https://x.com/maide89699220/status/2125750381799997798",
+  "published_at": "2026-11-26T08:36:00+08:00",
+  "collected_at": "2026-11-27T08:54:26+08:00",
+  "engagement": {
+    "likes": 35,
+    "reposts": 5,
+    "replies": 3,
+    "views": 806
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "效率数字两种说法：1500 件/小时（优化后）vs 约 1200 件/小时（测试时段峰值），未找到星动纪元官方原文，口播用“据报道”",
+    "视频为搬运号发布，原始出处未找到；画面中分拣线与 @TechThought_org 图片一致，但不能确定拍的就是杭州这一批",
+    "11-18 已收过星动纪元进中国邮政 11 个分拣中心的新闻，这条是杭州 45 台规模部署的新进展"
+  ],
+  "credit": "来源：X @maide89699220",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 810,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 15.23,
+      "transcoded": true,
+      "bytes": 5685326,
+      "sha256": "ce814683cbd83b194daa9a0ea243e94275fbc966141459a2465eea44319211b0",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 900,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 150835,
+      "sha256": "219c486957a88f7d57a977b5cce5ef20dc91212eed0bfed5ebf29cb8e6cdfb8e",
+      "orig_name": "004_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 460170,
+      "sha256": "105a1549028ca3491ec94b058dd2e39df342eedadd84870a7233609b25060383",
+      "orig_name": "004_2.jpg"
+    }
+  ]
+}

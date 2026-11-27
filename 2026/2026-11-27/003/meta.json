@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "003",
+  "date": "2026-11-27",
+  "title": "早稻田 AIREC 护理机器人把“病人”从床上抱进轮椅",
+  "summary": "@IlirAliu_ 11 月 26 日 15:00（UTC+8）发约 36 秒横屏视频：早稻田大学的护理机器人 AIREC（与爱丁堡大学、阿布扎比 TII 等合作）把床上的人抱起来，称护理院里这是最伤腰的活；它有 35 个自由度，用轮子而不是腿，抱起动作用强化学习训练。@CyberRobooo（11-25）和 @raisetal 补充：先在仿真中用强化学习学习，再在真机上开环回放；实验对象是一个穿衣服、身高 155 cm、15 kg 的医用假人，从护理床转移到轮椅。",
+  "category": "服务机器人/护理",
+  "company": "早稻田大学 Waseda",
+  "source": "X：@IlirAliu_（启用的聚合账号）；细节见 @CyberRobooo、@raisetal",
+  "source_url": "https://x.com/IlirAliu_/status/2125847075296284749",
+  "published_at": "2026-11-26T15:00:13+08:00",
+  "collected_at": "2026-11-27T08:54:26+08:00",
+  "engagement": {
+    "likes": 41,
+    "reposts": 6,
+    "replies": 6,
+    "views": 2751
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "抱的是 15 kg 医用假人，不是真人；@IlirAliu_ 原文“lifting a person”说法偏夸张，口播要说“假人”",
+    "“开环回放”意味着不是实时闭环自主决策，口播不要说“完全自主”",
+    "视频最早约 11-25 就在流传，论文/官方原始出处未找到"
+  ],
+  "credit": "来源：X @IlirAliu_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 36.34,
+      "transcoded": true,
+      "bytes": 4482298,
+      "sha256": "39974313dab564d4d530fced0fef78fd9aa5ab18346de6e392da347b4753eabe",
+      "orig_name": "003_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 42055,
+      "sha256": "994b87bfc7feec1e66676db9fa044b7dc0e8399eb8964f453b71ff34c28ed295",
+      "orig_name": "003_1_thumb.jpg"
+    }
+  ]
+}

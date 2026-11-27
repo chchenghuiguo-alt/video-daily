@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-27",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "优必选发布新一代人形机器人 Walker S3：号称全球首个会“绳降”的人形机器人",
+      "selected": null,
+      "bytes": 12849169,
+      "has_video": true,
+      "duration": 56.96
+    },
+    {
+      "id": "002",
+      "title": "俄罗斯 Sber 人形机器人 Yuni 上冰场，与奥运冠军谢尔巴科娃同台冰舞",
+      "selected": null,
+      "bytes": 17282128,
+      "has_video": true,
+      "duration": 98.03
+    },
+    {
+      "id": "003",
+      "title": "早稻田 AIREC 护理机器人把“病人”从床上抱进轮椅",
+      "selected": null,
+      "bytes": 4524353,
+      "has_video": true,
+      "duration": 36.34
+    },
+    {
+      "id": "004",
+      "title": "星动纪元 45 台人形机器人在中国邮政杭州处理中心上岗供包",
+      "selected": null,
+      "bytes": 6296331,
+      "has_video": true,
+      "duration": 15.23
+    },
+    {
+      "id": "005",
+      "title": "触觉基础模型创业公司 Lute 融资 2000 万美元，让机器人“摸得到”",
+      "selected": null,
+      "bytes": 13025512,
+      "has_video": true,
+      "duration": 75.22
+    },
+    {
+      "id": "006",
+      "title": "印度 CocoBot Gen-2：会爬椰子树摘椰子的机器人",
+      "selected": null,
+      "bytes": 19510836,
+      "has_video": true,
+      "duration": 44.56
+    }
+  ],
+  "order": [],
+  "total_bytes": 73488329,
+  "updated_at": "2026-11-27T08:54:26+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

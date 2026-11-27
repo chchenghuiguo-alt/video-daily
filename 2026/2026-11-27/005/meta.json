@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "005",
+  "date": "2026-11-27",
+  "title": "触觉基础模型创业公司 Lute 融资 2000 万美元，让机器人“摸得到”",
+  "summary": "启用账号 @Humanoid_News 11 月 27 日 03:55（UTC+8）转述 Robotics & Automation News：物理 AI 初创公司 Lute 在种子轮和天使轮共融资 2000 万美元，做让机器人同时用视觉和触觉的基础模型，种子轮由 OTB Ventures 等领投。@LLLMagentic 发约 75 秒视频（创始人 Pawel Budzianowski 出镜），称投资方包括 OTB Ventures、FORWARD one、Seedcamp、Naval，公司已在零售和集成商处部署 10 个月；@MrAsifShah 称公司在华沙和湾区，2026 年 1 月成立，模型叫 Lute-0，用弹性体触觉传感器。",
+  "category": "具身智能/融资",
+  "company": "Lute",
+  "source": "X：@Humanoid_News（启用账号，文字）；视频 @LLLMagentic",
+  "source_url": "https://x.com/LLLMagentic/status/2125770485270970718",
+  "published_at": "2026-11-26T09:55:53+08:00",
+  "collected_at": "2026-11-27T08:54:26+08:00",
+  "engagement": {
+    "likes": 1,
+    "reposts": 1,
+    "replies": 0,
+    "views": 9
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "投资方名单、成立时间、部署时长来自转述账号，未找到 Lute 官方帖",
+    "视频为公司宣传片，主要是创始人讲话，可剪的机器人画面少"
+  ],
+  "credit": "来源：X @LLLMagentic",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 75.22,
+      "transcoded": true,
+      "bytes": 12818166,
+      "sha256": "10fa51347878cfbf3d6e7d6c7e17ba40ae9781489f9552b687edac76daeeb0ca",
+      "orig_name": "005_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 207346,
+      "sha256": "1b48e84867ac17dd97b6433da6a541df1ad1545be3be3a6041b362e83cedd632",
+      "orig_name": "005_1_thumb.jpg"
+    }
+  ]
+}
