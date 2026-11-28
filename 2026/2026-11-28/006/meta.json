@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "006",
+  "date": "2026-11-28",
+  "title": "星海图 G0.7 世界动作模型：五个杯子打乱后还能找到藏起来的东西",
+  "summary": "@XRoboHub 11 月 27 日 11:31（UTC+8）发约 208 秒横屏视频：机器人玩“猜杯子”游戏，五个杯子打乱后仍能找到藏着的物体，用的是星海图（Galaxea）的 G0.7 世界动作模型。帖子称该模型能利用最长 5 分钟的视觉历史，用机器人数据和第一人称人类视频训练，快速模式下不先生成未来视频就直接输出动作，也能参考人类示范视频；经任务训练后演示了折纸箱、做柠檬茶、装袋。在星海图自己的 7 个真实任务测试中，G0.7 平均完成 86.9% 的任务步骤，上一代 G0.5 为 64.3%（训练数据相同）。",
+  "category": "具身智能/模型",
+  "company": "星海图 Galaxea",
+  "source": "X：@XRoboHub（聚合号，画面应为星海图官方演示）",
+  "source_url": "https://x.com/XRoboHub/status/2126156958738866350",
+  "published_at": "2026-11-27T11:31:35+08:00",
+  "collected_at": "2026-11-28T08:54:05+08:00",
+  "engagement": {
+    "likes": 27,
+    "reposts": 3,
+    "replies": 9,
+    "views": 1659
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "86.9% vs 64.3% 是星海图自测数据",
+    "G0.7 的正式发布时间和官方原帖未找到，可能不是当天首发",
+    "视频较长（约 3.5 分钟），建议只剪猜杯子片段"
+  ],
+  "credit": "来源：X @XRoboHub",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": false,
+      "duration": 207.81,
+      "transcoded": true,
+      "bytes": 25334749,
+      "sha256": "2d6d8257fe9ae2a435eb680880d092ace1494d679cc18ffc26e4aeab030ddd25",
+      "orig_name": "006_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 64935,
+      "sha256": "6ddccc38c4c596ddd05f3cd064f338be6549255927159f2a620b7e5fdf39ce4a",
+      "orig_name": "006_1_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "timezone": "Asia/Singapore",
+  "episode": 1,
+  "status": "pending",
+  "selection": "unknown",
+  "items": [
+    {
+      "id": "001",
+      "title": "宇树发布“具身分身”V3.0 Guardian：真人穿动捕实时操控人形机器人，号称延迟低至 80 毫秒",
+      "selected": null,
+      "bytes": 17439576,
+      "has_video": true,
+      "duration": 58.15
+    },
+    {
+      "id": "002",
+      "title": "沃尔沃比利时根特工厂开始训练 Hexagon 的 AEON 人形机器人，计划 2027 年中进产线",
+      "selected": null,
+      "bytes": 12784156,
+      "has_video": true,
+      "duration": 53.93
+    },
+    {
+      "id": "003",
+      "title": "特斯拉向德国反垄断机构申报收购百年机床厂 EMAG，被认为是为 Optimus 量产做准备",
+      "selected": null,
+      "bytes": 150006,
+      "has_video": false,
+      "duration": null
+    },
+    {
+      "id": "004",
+      "title": "小鹏 IRON 在广州车展当展台讲解员：几小时零摔倒，但对话延迟、爱“话多”",
+      "selected": null,
+      "bytes": 36738357,
+      "has_video": true,
+      "duration": 128.17
+    },
+    {
+      "id": "005",
+      "title": "穿防火服的机器狗走进 1000℃ 火场，电池温度保持 43℃：苏州消防站实测",
+      "selected": null,
+      "bytes": 9868007,
+      "has_video": true,
+      "duration": 32.55
+    },
+    {
+      "id": "006",
+      "title": "星海图 G0.7 世界动作模型：五个杯子打乱后还能找到藏起来的东西",
+      "selected": null,
+      "bytes": 25399684,
+      "has_video": true,
+      "duration": 207.81
+    },
+    {
+      "id": "007",
+      "title": "SpeedBot 人形机器人自主焊接大型金属结构件",
+      "selected": null,
+      "bytes": 8401774,
+      "has_video": true,
+      "duration": 29.49
+    }
+  ],
+  "order": [],
+  "total_bytes": 110781560,
+  "updated_at": "2026-11-28T08:54:05+08:00",
+  "notes": "用户尚未选择条目：上传了当天收集的全部条目，selected=null，order 为空。"
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "004",
+  "date": "2026-11-28",
+  "title": "小鹏 IRON 在广州车展当展台讲解员：几小时零摔倒，但对话延迟、爱“话多”",
+  "summary": "@humanoidsdaily 11 月 27 日 16:30（UTC+8）发约 128 秒竖屏现场视频和长评：作者在 2026 广州车展现场看了几个小时，小鹏让一组 IRON 当展台讲解和销售。一台在何小鹏发布会上讲话后加入轮班；展台围栏区同时最多约 3 台在工作，工作人员一次放一位观众进去互动；电量低时机器人自己走回里间充电，换另一台出来。优点：几小时没摔、观众用力碰抓也稳；在人群中走得平稳安静；能分清是谁在说话（能答出“我穿什么颜色衣服”）；能介绍车型。不足：问答之间停顿明显，常和人抢话，英文提问也会切成中文；回答啰嗦、总反问；握手碰拳动作慢；“眼睛”还做不到真正对视。该帖约 450 赞、3.7 万浏览。",
+  "category": "人形机器人/商用落地",
+  "company": "小鹏 XPENG",
+  "source": "X：@humanoidsdaily（第一手现场视频和观察）",
+  "source_url": "https://x.com/humanoidsdaily/status/2126232170830184525",
+  "published_at": "2026-11-27T16:30:27+08:00",
+  "collected_at": "2026-11-28T08:54:05+08:00",
+  "engagement": {
+    "likes": 446,
+    "reposts": 86,
+    "replies": 32,
+    "views": 36840
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "属于作者个人现场观察，不是小鹏官方数据",
+    "是否全程自主、有无后台人员介入，帖子没说明",
+    "小鹏 IRON 11-25、11-26 已连续收过（AI Day），这条是车展上岗的新进展；剪辑时注意别和 AI Day 素材重复"
+  ],
+  "credit": "来源：X @humanoidsdaily",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 608,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 29.97,
+      "has_audio": true,
+      "duration": 128.17,
+      "transcoded": true,
+      "bytes": 36656705,
+      "sha256": "7958e34b7a1c1038e43646bd846ec9fe01d49ac364ba1738848a0076dcee66f7",
+      "orig_name": "004_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 675,
+      "h": 1200,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 81652,
+      "sha256": "c0d6b135466e3e6c1b01230f79a144dbbfadc27265dd9c8ab49acc6bcc25eab3",
+      "orig_name": "004_1_thumb.jpg"
+    }
+  ]
+}

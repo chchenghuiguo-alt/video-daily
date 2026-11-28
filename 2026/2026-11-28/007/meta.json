@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "007",
+  "date": "2026-11-28",
+  "title": "SpeedBot 人形机器人自主焊接大型金属结构件",
+  "summary": "@spaceandtech_ 11 月 27 日 22:47（UTC+8）发约 29 秒方形视频，称 SpeedBot Robotics（视频标注“Source: SpeedBot Robotics”）的人形机器人能借助 AI 和计算机视觉自主焊接大型金属结构。画面中轮式底盘的人形机器人在车间里手持焊枪作业。帖子被多个账号转发。",
+  "category": "人形机器人/工业焊接",
+  "company": "SpeedBot Robotics",
+  "source": "X：@spaceandtech_（聚合号，视频注明来源 SpeedBot Robotics）",
+  "source_url": "https://x.com/spaceandtech_/status/2126327145769361859",
+  "published_at": "2026-11-27T22:47:51+08:00",
+  "collected_at": "2026-11-28T08:54:05+08:00",
+  "engagement": {
+    "likes": 51,
+    "reposts": 8,
+    "replies": 6,
+    "views": 2908
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "“自主焊接”是帖子说法，是否有人工编程/遥控未说明",
+    "视频拍摄和首发时间不明，可能是较早的宣传片",
+    "SpeedBot 的公司背景（是否即中文名“数字化工厂”等）未核实，口播只说 SpeedBot"
+  ],
+  "credit": "来源：X @spaceandtech_",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 1080,
+      "codec": "h264",
+      "fps": 30.0,
+      "has_audio": true,
+      "duration": 29.49,
+      "transcoded": true,
+      "bytes": 8304685,
+      "sha256": "98f810ca475fc70cc4e8bf2cce1c356c4f46178cf3e7ea5680b272474149af1a",
+      "orig_name": "007_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1080,
+      "h": 1080,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 97089,
+      "sha256": "874ecb545b16b5261d88cd1a2bec7d0127a538d3311c50de1833def51bbea08c",
+      "orig_name": "007_1_thumb.jpg"
+    }
+  ]
+}

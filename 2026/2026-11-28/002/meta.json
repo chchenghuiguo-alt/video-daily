@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "id": "002",
+  "date": "2026-11-28",
+  "title": "沃尔沃比利时根特工厂开始训练 Hexagon 的 AEON 人形机器人，计划 2027 年中进产线",
+  "summary": "11 月 26 日 Hexagon 宣布，沃尔沃汽车把 Hexagon Robotics 的 AEON 人形机器人引进比利时根特工厂。@humanoidsdaily 11 月 27 日 00:37（UTC+8）发约 54 秒 4K 横屏视频和照片，要点：目前用模仿学习训练（把零件放进夹具）；轮腿设计，身高 1.65 米、体重 60 公斤、负载 10 公斤、速度 2.4 米/秒；2027 年上半年开始工厂试点，目标 2027 年年中进入真实生产。@CyberRobooo 补充：AEON 此前已在宝马莱比锡工厂测试，还与舍弗勒、Fill 等有制造合作；在沃尔沃先学把零件精确放进两个夹具，后续再练更多搬运和与现有自动化设备配合。",
+  "category": "人形机器人/汽车工厂",
+  "company": "Hexagon Robotics / 沃尔沃 Volvo Cars",
+  "source": "X：@humanoidsdaily（视频+图片，画面疑为 Hexagon 官方素材）；补充 @CyberRobooo",
+  "source_url": "https://x.com/humanoidsdaily/status/2125992435000000942",
+  "published_at": "2026-11-27T00:37:50+08:00",
+  "collected_at": "2026-11-28T08:54:05+08:00",
+  "engagement": {
+    "likes": 19,
+    "reposts": 0,
+    "replies": 7,
+    "views": 1919
+  },
+  "selected": null,
+  "verify_status": "unverified",
+  "verification": [
+    "时间表（2027 上半年试点、年中进产线）和参数来自 Hexagon/沃尔沃的公告转述，未直接核对官方新闻稿原文",
+    "视频为宣传素材，画面里的动作是否已在根特现场完成、是否有遥控，帖子没说明",
+    "新闻于 11-26 下午发布，比 24 小时窗口略早，但此前各期没收过"
+  ],
+  "credit": "来源：X @humanoidsdaily",
+  "license_note": "素材版权归原作者；剪辑时须在画面标注来源，非官方/搬运素材有版权风险",
+  "media": [
+    {
+      "file": "videos/01.mp4",
+      "type": "video",
+      "w": 1080,
+      "h": 608,
+      "codec": "h264",
+      "fps": 25.0,
+      "has_audio": true,
+      "duration": 53.93,
+      "transcoded": true,
+      "bytes": 12132202,
+      "sha256": "418fe7d95c20c9a6dccc0d2d3babd2e8826f118697b7ec78ff37d89a82622ba8",
+      "orig_name": "002_1.mp4"
+    },
+    {
+      "file": "images/01.jpg",
+      "type": "image",
+      "w": 1200,
+      "h": 676,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 140878,
+      "sha256": "e26a63d991b6b1d24cf8c288efe5e3bdfb433a3fcb833dea85922eb3b08ef837",
+      "orig_name": "002_1_thumb.jpg"
+    },
+    {
+      "file": "images/02.jpg",
+      "type": "image",
+      "w": 1920,
+      "h": 1440,
+      "duration": null,
+      "transcoded": true,
+      "bytes": 511076,
+      "sha256": "079c50f17ebec63d923af211d90af46c3a27f460c3a46f3e728670e010ddfd8a",
+      "orig_name": "002_2.jpg"
+    }
+  ]
+}
